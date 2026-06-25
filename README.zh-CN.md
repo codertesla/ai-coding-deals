@@ -18,8 +18,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 > [!IMPORTANT]
 > **免责声明:** 所有信息来自公开来源,可能已过时——**付费前请务必以官网最新信息为准。** 发现错误或过时?欢迎 [提交 Issue](../../issues/new/choose) 或 PR。**最近一次完整核实:2026-06。**
 
----
-
 ## 📑 目录
 
 - [🔥 当前最值得薅的羊毛](#-当前最值得薅的羊毛)
@@ -35,8 +33,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 - [🤝 参与贡献](#-参与贡献)
 - [📚 信息来源](#-信息来源)
 
----
-
 ## 🔥 当前最值得薅的羊毛
 
 最值得马上拿下的高性价比选项。(2026-06 核实,付费前请再确认官网。)
@@ -48,14 +44,12 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **OpenCode** ✅ *已验证* | 经[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)双方各得 **$5 额度** | 叠加低价中文模型(Qwen/DeepSeek/GLM/Kimi)更香 |
 | **Zed**(学生)✅ | 通过学生认证可得 **一年免费会员**,每月约 $10 AI 额度 | 学生党最佳免费选项 |
 | **ZCode**(智谱)✅ | 新用户 **5 天免费,每日 500 万 Token**(GLM-5.2 + GLM-5-turbo)——活动至 **2026-06-30** | 零成本体验当下热门开源模型 **GLM-5.2** |
-| **GitHub Copilot** | **$10/月** Pro,sticker price 最低;**行内补全永久免费** | 即便 2026 年 6 月改为按量计费,仍是最便宜的能打选项 |
+| **GitHub Copilot** | **$10/月** Pro,sticker price 最低;**行内补全永久免费** | 即便改为按量计费仍是最便宜的能打选项 ⚠️ *2026-06-01 起新注册暂停* |
 | **OpenAI Codex** | 随 **ChatGPT Plus($20/月)免费附带**(Web + CLI + 桌面端) | 已经在用 ChatGPT 就等于不额外花钱 |
 | **Google Antigravity / Gemini** | **慷慨免费层**;AI Pro 仅 **$19.99/月** | 上手多 Agent IDE + 快速 Gemini 模型最便宜的路 |
 | **年付(多数工具)** | 年付省 **约 15–20%** | 如 Cursor Pro $240→$192/年,Copilot Pro $120→$100/年 |
 
 > 有邀请链接或正在进行的促销?欢迎 PR 补充——见 [参与贡献](#-参与贡献)。
-
----
 
 ## 💵 零成本用上 AI 编程
 
@@ -67,8 +61,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 - **厂商慷慨免费层:** [Google Gemini / Antigravity](https://antigravity.google)、[Cursor Hobby](https://cursor.com)
 
 💡 **中文用户提示:** 开源 CLI(Aider / OpenCode / Cline / Continue)可接入低价中文模型——**Qwen、DeepSeek、GLM、Kimi、MiniMax**——把成本压到接近零。
-
----
 
 ## 🏗️ Agentic IDE(AI 原生 IDE)
 
@@ -84,15 +76,13 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **ZCode**(智谱) | 活动免费额度 · 经 GLM Coding Plan 付费 | ✅ **新用户 5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额**——活动至 **2026-06-30** | 想用智谱官方 GLM IDE 的开发者 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **Zed** | 编辑器免费 · Pro 低价档 | 核心编辑器免费 · ✅ **学生认证后可得一年免费会员**,含每月约 $10 AI 模型额度 | 追求速度、本地优先、隐私友好 | [zed.dev](https://zed.dev) |
 
----
-
 ## 🧩 助手 & IDE 扩展
 
 接入你现有编辑器(VS Code / JetBrains),提供补全、对话和 Agent 模式。
 
 | 工具 | 定价(2026-06) | 折扣 / 免费 | 适合 | 链接 |
 |------|----------------|--------------|------|------|
-| **GitHub Copilot** | 免费(有限)· Pro **$10/月** · Pro+ $39/月 · Business $19/人 · Max $100/月 | **最便宜入门**;行内补全永久免费;认证师生 & 多数开源维护者免费 | GitHub 团队;最稳妥的企业选择 | [github.com/features/copilot](https://github.com/features/copilot) |
+| **GitHub Copilot** | 免费(2000 补全/月)· Pro **$10/月 = 1500 AI credits** · Pro+ $39 = 7000 · Max $100 = 20000 · Business $19/人 · Enterprise $39/人 | ⚠️ **2026-06-01 起 Pro/Pro+/Max 新用户注册暂停**(Max 仅限现有用户升级)。1 credit = $0.01;**行内补全与 Next Edit 永久免费**。学生免费用 Pro(见学生福利)。 | GitHub 团队;最稳妥的企业选择 | [github.com/features/copilot](https://github.com/features/copilot) |
 | **Continue.dev** | 核心 **免费**(自带 key 或本地 Ollama = $0)· Team 约 $20/席/月 | 完全可免费自托管 | 隐私 & 成本控制;任意模型 | [continue.dev](https://www.continue.dev) |
 | **Cline** | **免费开源**(自带 key / 本地模型) | 用自己 key 即 $0 | 低成本的 VS Code 自主 Agent | [cline.bot](https://cline.bot) |
 | **Roo Code** | **免费开源**(自带 key) | 用自己 key 即 $0 | Cline 分支,额外 Agent 模式 | [roocode.com](https://roocode.com) |
@@ -108,12 +98,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Tabnine** | 仅企业版——$39 / $59 每人/月(年付) | 免费层与个人版已于 **2025-04 下线**;学生计划也已关闭 | [Cline](https://cline.bot) / [Continue.dev](https://www.continue.dev) / [Aider](https://aider.chat) |
 | **Warp** | 终端免费;AI agent 用量现需 **Build $20/月** 才有 bundled 额度 | ⚠️ 免费 bundled AI 额度已取消;免费用户只能通过 **BYOK**(自带 OpenAI/Anthropic/Google key)用 AI,无 Warp 额度 | [Cursor](https://cursor.com) 或上方任意 CLI agent + 自带 key |
 
----
-
-## ⌨️ CLI / 终端 Agent
-
----
-
 ## ⌨️ CLI / 终端 Agent
 
 在终端里直接运行 Agent——改代码、跑测试、管理 git。
@@ -121,7 +105,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | 工具 | 定价(2026-06) | 折扣 / 免费 | 适合 | 链接 |
 |------|----------------|--------------|------|------|
 | **Freebuff**(免费版 Codebuff) | **100% 免费**(广告支持,无需 API key) | 永久 $0;可选绑定 ChatGPT 订阅 | 零成本入门;试免费开源模型 | [codebuff.com](https://www.codebuff.com) |
-| **Claude Code** | 经 Claude Pro **$17/月(年付)–$20/月** · Max $100–$200/月 | 年付约 85 折 | 最强推理;大型重构;1M 上下文 | [claude.com/claude-code](https://www.claude.com/product/claude-code) |
+| **Claude Code** | Free **不含 Claude Code** · Pro **$17/月(年付)/$20(月付)** · Max 5x $100 · Max 20x $200 · Team $20–$100/席 | 年付约 85 折;5h 滚动窗口(2026-05-06 已翻倍),与 Claude 聊天共享;Max 有两个周限额 | 最强推理(Opus 4.8);大型重构;1M 上下文 | [claude.com/claude-code](https://www.claude.com/product/claude-code) |
 | **OpenAI Codex CLI** | CLI **免费开源** · 用量经 ChatGPT Plus $20/月 或 API | 随 ChatGPT 附带;CLI 本身免费 | OpenAI 生态;云沙箱 + 本地 CLI | [openai.com/codex](https://openai.com/codex) |
 | **Gemini CLI / Antigravity CLI** | **免费层**(每日额度慷慨) | 非常慷慨的免费层 | 轻中度使用;超大上下文 | [antigravity.google](https://antigravity.google) |
 | **Aider** | **免费开源**(仅付 LLM API,或本地 = $0) | 用本地模型即 $0 | Git 原生 pair programming;75+ 模型 | [aider.chat](https://aider.chat) |
@@ -130,8 +114,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Crush**(Charm) | **免费开源**(自带 key) | 用自己 key 即 $0 | 终端体验精美;多模型 | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | **Goose**(Block) | **免费开源**(自带 key / 本地) | 用自己 key 即 $0 | 可扩展的本地 Agent;MCP 原生 | [block.github.io/goose](https://block.github.io/goose) |
 | **Qwen Code** | **免费开源** | $0(用 Qwen 模型) | 用 Qwen 模型的省钱用户 | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
-
----
 
 ## ⏳ 限时优惠
 
@@ -142,8 +124,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **ZCode**(智谱) | 新用户 **5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额** | **2026-06-30** | 零成本体验开源 **GLM-5.2**;[zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 
 > 过期的优惠会从本节移除,工具仍保留在上方对应分类里,并更新为常规信息。
-
----
 
 ## 🎓 学生福利
 
@@ -159,8 +139,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 
 > 💡 叠加起来:一个认证学生可以 **Gemini Pro(→ Antigravity)+ Copilot Pro + JetBrains + Zed** 全部 **$0/年**。
 
----
-
 ## 🎯 我该选哪个?
 
 | 你的情况 | 推荐 | 理由 |
@@ -173,8 +151,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **已付 ChatGPT** | OpenAI Codex | 不额外花钱 |
 | **中文、极致省钱** | OpenCode/Aider + Qwen/DeepSeek/GLM/Kimi | 自带 key 用低价模型 |
 
----
-
 ## 💡 省钱技巧
 
 1. **盯用量,别只看标价。** Copilot(按量 credits)、Antigravity(算力池)、Codex(API token)现在都按量计费,月费不等于真实成本。
@@ -183,8 +159,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 4. **自带 key + 本地模型。** 开源 CLI 配 Ollama 或低价 API,可把成本压到接近零。
 5. **叠加免费层。** 先把 Copilot Free + 免费 CLI + 厂商免费层组合用满,再考虑付费。
 6. **每季度复盘。** 这里的定价每月都在变,上季度的最优解这季度未必是。
-
----
 
 ## 🤝 参与贡献
 
@@ -195,8 +169,6 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 - 格式见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 > ⭐ 如果帮你省了钱,点个 Star 让更多人看到。
-
----
 
 ## 📚 信息来源
 

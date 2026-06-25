@@ -77,6 +77,7 @@ Full IDEs with deep agent integration — the agent reads your project, edits ac
 | **ZCode** *(Zhipu)* | Free promo credits · paid via GLM Coding Plan | ✅ **New users: 5-day free, 5M tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** — promo through **2026-06-30** | China-based devs wanting an official GLM IDE | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **CodeBuddy** *(Tencent, intl)* | Free (250 credits / 2 weeks) · Pro **$9.95/mo** (promo, was $19.90) / $119.40/yr (1000 credits/mo) · Team $40/seat/mo | Free 250 credits/2wk; add-on packs from $9.95/1k credits | Global users; Tencent Cloud's coding assistant | [codebuddy.ai](https://www.codebuddy.ai/) |
 | **CodeBuddy** *(腾讯, 国内)* | 体验版 **free: 500 credits/mo** (rate-limited chat) · 专业版 ¥58/mo (2,000 credits) · 旗舰版 ¥198 · 专享版 ¥316 | Free 500 credits/mo; ⚠️ subscription changes take effect **2026-07-01** | China-based devs on Tencent Cloud | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
+| **Qoder CN** *(原通义灵码, 阿里)* | 个人社区版 **free** (limited, 2-wk Pro trial + 300 credits) · 个人专业版 ¥59/mo (2,000 credits) · 企业版 ¥99/¥199/seat | ⚠️ **Renamed + repriced 2026-05-20**; free tier meaningfully weakened (limited completions + quotas); old unlimited-free era ended | China-based devs on Alibaba Cloud; multi-model (Qwen/GLM/Kimi) | [cn.aliyun.com/product/lingma](https://cn.aliyun.com/product/lingma) |
 | **Zed** | Free editor · Pro low-cost tier | Core editor free · ✅ **Students: free 1-year membership incl. ~$10/mo AI model credits** (with student verification) | Speed + local-first, privacy-friendly editing | [zed.dev](https://zed.dev) |
 
 ## 🧩 Assistants & IDE extensions
@@ -90,6 +91,9 @@ Plug into your existing editor (VS Code / JetBrains) for completions, chat, and 
 | **Cline** | **Free, open source** (BYOK / local model) | $0 with your own key | Autonomous VS Code agent on a budget | [cline.bot](https://cline.bot) |
 | **Roo Code** | **Free, open source** (BYOK) | $0 with your own key | Cline fork with extra agent modes | [roocode.com](https://roocode.com) |
 | **Augment Code** | Free Community (limited) · Trial 30K credits (needs card) · Business **$100/mo flat** (up to 50 seats, $100 usage incl.) · Enterprise custom | 30K-credit trial; flat Business pricing (no per-seat up to 50) | Large codebases needing deep context | [augmentcode.com](https://www.augmentcode.com) |
+| **Amazon Q Developer** | **Free forever** (50 agentic requests/mo + 1,000 LOC transform/mo) · Pro **$19/user/mo** | Generous perpetual free tier (IDE + CLI); no card | AWS-centric teams; Java/.NET modernization | [aws.amazon.com/q/developer](https://aws.amazon.com/q/developer/) |
+| **Supermaven** | **Free** (fast completions, large codebases) · Pro **$10/mo** (1M context + style adaptation + $5 chat credits) · Team $10/seat | Robust free tier; 30-day Pro trial | Speed-obsessed devs wanting the fastest completions | [supermaven.com](https://supermaven.com) |
+| **Qodo** *(原 CodiumAI)* | **Free Developer** (30 PR reviews/mo/org + 250 IDE/CLI credits) · Teams $30/user/mo (annual) / $38 (monthly) | Genuinely useful free tier for PR review + test gen | Test generation + PR review focus | [qodo.ai](https://www.qodo.ai) |
 
 ### ⚠️ No longer free / enterprise-only
 

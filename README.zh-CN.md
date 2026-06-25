@@ -77,6 +77,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **ZCode**(智谱) | 活动免费额度 · 经 GLM Coding Plan 付费 | ✅ **新用户 5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额**——活动至 **2026-06-30** | 想用智谱官方 GLM IDE 的开发者 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **CodeBuddy**(腾讯,国际站)| Free(250 credits / 2 周)· Pro **$9.95/月**(促销价,原 $19.90)/ $119.40/年(每月 1000 credits)· Team $40/人/月 | 免费 250 credits/2 周;加量包 $9.95/1000 credits 起 | 国际用户;腾讯云代码助手 | [codebuddy.ai](https://www.codebuddy.ai/) |
 | **CodeBuddy**(腾讯,国内站)| 体验版 **免费:每月 500 credits**(对话有频次限制)· 专业版 ¥58/月(2000 credits)· 旗舰版 ¥198 · 专享版 ¥316 | 每月 500 credits 免费;⚠️ 订阅升级 **2026-07-01 生效** | 用腾讯云的中文开发者 | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
+| **Qoder CN**(原通义灵码,阿里) | 个人社区版 **免费**(有限额度,含 2 周 Pro 试用 + 300 credits)· 个人专业版 ¥59/月(2000 credits)· 企业版 ¥99/¥199/席 | ⚠️ **2026-05-20 改名并改定价**,免费层实质削弱(补全有限 + 限额);旧"无限免费"时代结束 | 阿里云上的中文开发者;多模型(Qwen/GLM/Kimi) | [cn.aliyun.com/product/lingma](https://cn.aliyun.com/product/lingma) |
 | **Zed** | 编辑器免费 · Pro 低价档 | 核心编辑器免费 · ✅ **学生认证后可得一年免费会员**,含每月约 $10 AI 模型额度 | 追求速度、本地优先、隐私友好 | [zed.dev](https://zed.dev) |
 
 ## 🧩 助手 & IDE 扩展
@@ -90,6 +91,9 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Cline** | **免费开源**(自带 key / 本地模型) | 用自己 key 即 $0 | 低成本的 VS Code 自主 Agent | [cline.bot](https://cline.bot) |
 | **Roo Code** | **免费开源**(自带 key) | 用自己 key 即 $0 | Cline 分支,额外 Agent 模式 | [roocode.com](https://roocode.com) |
 | **Augment Code** | 免费 Community(有限)· 试用 3 万 credits(需绑卡)· Business **$100/月一口价**(最多 50 席,含 $100 用量)· Enterprise 定制 | 3 万 credits 试用;Business 一口价(50 席内无按席收费) | 需要深度上下文的大型代码库 | [augmentcode.com](https://www.augmentcode.com) |
+| **Amazon Q Developer** | **永久免费**(每月 50 次 agentic 请求 + 1000 行代码转换)· Pro **$19/人/月** | 慷慨的永久免费层(IDE + CLI),无需绑卡 | AWS 生态团队;Java/.NET 老项目改造 | [aws.amazon.com/q/developer](https://aws.amazon.com/q/developer/) |
+| **Supermaven** | **免费**(快速补全,大代码库)· Pro **$10/月**(1M 上下文 + 风格适应 + $5 chat credits)· Team $10/席 | 免费层够用;Pro 30 天试用 | 追求"最快补全"的开发者 | [supermaven.com](https://supermaven.com) |
+| **Qodo**(原 CodiumAI) | **免费 Developer**(每月 30 次 PR review/组织 + 250 IDE/CLI credits)· Teams $30/人/月(年付)/ $38(月付) | 免费层对 PR review + 测试生成很实用 | 主打测试生成 + PR review | [qodo.ai](https://www.qodo.ai) |
 
 ### ⚠️ 已不再免费 / 仅企业版
 

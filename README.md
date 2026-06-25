@@ -46,7 +46,7 @@ The highest-value offers worth grabbing today. (Verified 2026-06 — confirm on 
 | **Zed** *(students)* ✅ | **Free 1-year membership** with ~$10/mo AI credits after student verification | Best free option if you're a verified student |
 | **ZCode** *(Zhipu)* ✅ | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 + GLM-5-turbo) — promo ends **2026-06-30** | Cheapest way to try the popular open **GLM-5.2** model |
 | **GitHub Copilot** | **$10/mo** Pro — lowest sticker price; **inline completions stay free** | Cheapest capable entry point even after usage-based billing ⚠️ *new sign-ups paused since 2026-06-01* |
-| **OpenAI Codex** | Bundled **free with ChatGPT Plus ($20/mo)** — Codex Web + CLI + desktop | If you already pay for ChatGPT, you pay $0 extra |
+| **OpenAI Codex** | **Free with ChatGPT Free** — Web + CLI + **desktop app (macOS/Windows)**, no card | $0 entry; the desktop app is the best surface |
 | **Google Antigravity / Gemini** | Generous **free tier**; AI Pro just **$19.99/mo** | Cheapest path to a multi-agent IDE + fast Gemini models |
 | **Annual billing (most tools)** | Save **~15–20%** by paying yearly | E.g. Cursor Pro $240→$192/yr, Copilot Pro $120→$100/yr |
 
@@ -75,6 +75,7 @@ Full IDEs with deep agent integration — the agent reads your project, edits ac
 | **Kiro** *(AWS, spec-driven)* | Free: 50 credits · Pro: **$20/mo (1,000)** · Pro+: $40 (2,000) · **Pro Max: $100 (5,000)** · Power: $200 (10,000) | Annual billing discount; $0.04/credit overage · multipliers: Auto 1.0× · Sonnet 1.3× · **Opus 4.8 2.2×** · Haiku 0.4× · GLM-5 0.5× · **Qwen3 Coder Next 0.05×** | Spec-driven, maintainable production code; AWS-centric teams | [kiro.dev](https://kiro.dev) |
 | **Trae** *(ByteDance)* | Free tier (5K autocompletions/mo, 2 concurrent) · Lite **$3** · Pro **$10** (7-day trial) · Pro+ $30 · Ultra $100 | ✅ **China version (trae.cn) is fully free** for individuals (Doubao/DeepSeek) | Budget users wanting a Cursor-style IDE | [trae.ai](https://trae.ai) |
 | **ZCode** *(Zhipu)* | Free promo credits · paid via GLM Coding Plan | ✅ **New users: 5-day free, 5M tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** — promo through **2026-06-30** | China-based devs wanting an official GLM IDE | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+| **CodeBuddy** *(Tencent)* | 体验版 **free: 500 credits/mo** (rate-limited chat) · 专业版 ¥58/mo (2,000 credits) · 旗舰版 ¥198 · 专享版 ¥316 | Free 500 credits/mo; ⚠️ subscription changes take effect **2026-07-01** | China-based devs on Tencent Cloud | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
 | **Zed** | Free editor · Pro low-cost tier | Core editor free · ✅ **Students: free 1-year membership incl. ~$10/mo AI model credits** (with student verification) | Speed + local-first, privacy-friendly editing | [zed.dev](https://zed.dev) |
 
 ## 🧩 Assistants & IDE extensions
@@ -107,7 +108,7 @@ Run an agent directly in your terminal — edit code, run tests, manage git.
 |------|-------------------|------------------|----------|------|
 | **Freebuff** *(free Codebuff)* | **100% free** (ad-supported, no API key) | $0 forever; optionally link your ChatGPT sub | Zero-cost entry; trying free open models | [codebuff.com](https://www.codebuff.com) |
 | **Claude Code** | Free: **no Claude Code** · Pro **$17/mo (annual) / $20 (monthly)** · Max 5x $100 · Max 20x $200 · Team $20–$100/seat | Annual ~15% off; usage is a rolling 5h window (doubled 2026-05-06) shared with Claude chat; Max has 2 weekly caps | Deepest reasoning (Opus 4.8); large refactors; 1M context | [claude.com/claude-code](https://www.claude.com/product/claude-code) |
-| **OpenAI Codex CLI** | **Free, open source** CLI · usage via ChatGPT Plus $20/mo or API | Bundled with ChatGPT; CLI itself is free | OpenAI ecosystem; cloud sandbox + local CLI | [openai.com/codex](https://openai.com/codex) |
+| **OpenAI Codex** | **Free with ChatGPT Free** (Web + CLI + desktop app, lowest 5h-window limits) · Go $8 · Plus $20 · Pro $100–$200 · Business/Enterprise | $0 via ChatGPT Free (no card); promo-boosted free limits have ended; or use your own **OpenAI API key** (per-token, no window cap but no cloud features) | OpenAI ecosystem; **desktop app (macOS/Windows) is the recommended surface**; cloud sandbox | [openai.com/codex](https://openai.com/codex) |
 | **Gemini CLI / Antigravity CLI** | **Free tier** (generous daily limits) | Very generous free tier | Light–moderate use; huge context | [antigravity.google](https://antigravity.google) |
 | **Aider** | **Free OSS** (pay only LLM API, or local = $0) | $0 with local models | Git-native pair programming; 75+ models | [aider.chat](https://aider.chat) |
 | **Amp** *(Sourcegraph)* | **Pay-as-you-go, zero markup** on API cost; $5 min credit top-up | Free daily credit grant (~$10/day, replenished hourly) — ⚠️ **being paused/reduced for some users since 2026-05**; ad-free since 2026 | Multi-model routing (GPT-5.5/Opus); unconstrained context | [ampcode.com](https://ampcode.com) |

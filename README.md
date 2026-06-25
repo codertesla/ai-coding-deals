@@ -46,6 +46,7 @@ The highest-value offers worth grabbing today. (Verified 2026-06 — confirm on 
 | **Freebuff / Codebuff** | **100% free** ad-supported CLI agent — no API key, no subscription | Genuinely $0 to start; good for trying free open models in your own repo |
 | **OpenCode** ✅ *verified* | **$5 free credit** for both parties via [referral link](https://opencode.ai/go?ref=J9E8732NMP) | Stacks well with cheap Chinese models (Qwen/DeepSeek/GLM/Kimi) |
 | **Zed** *(students)* ✅ | **Free 1-year membership** with ~$10/mo AI credits after student verification | Best free option if you're a verified student |
+| **ZCode** *(Zhipu)* ✅ | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 + GLM-5-turbo) — promo ends **2026-06-30** | Cheapest way to try the popular open **GLM-5.2** model |
 | **GitHub Copilot** | **$10/mo** Pro — lowest sticker price; **unlimited inline completions stay free** | Cheapest capable entry point even after the June 2026 usage-based billing change |
 | **OpenAI Codex** | Bundled **free with ChatGPT Plus ($20/mo)** — Codex Web + CLI + desktop | If you already pay for ChatGPT, you pay $0 extra |
 | **Google Antigravity / Gemini** | Generous **free tier**; AI Pro just **$19.99/mo** | Cheapest path to a multi-agent IDE + fast Gemini models |
@@ -79,6 +80,7 @@ Full IDEs with deep agent integration — the agent reads your project, edits ac
 | **Google Antigravity** | Free tier (credit caps) · via **Google AI Pro $19.99/mo** · AI Ultra $99.99–$200/mo | Generous free tier; AI Ultra top tier cut from $249.99→$200 (May 2026) | Multi-agent parallel workflows; built-in browser; full-stack web | [antigravity.google](https://antigravity.google) |
 | **Kiro** *(AWS, spec-driven)* | Free: 50 credits · Pro: **$20/mo** (1,000) · Pro+: $40/mo · Power: $200/mo | Annual billing discount; $0.04/credit overage | Spec-driven, maintainable production code; AWS-centric teams | [kiro.dev](https://kiro.dev) |
 | **Trae** *(ByteDance)* | Free tier + paid plans (see site) | Frequently aggressive free/promo tiers | Budget users wanting a Cursor-style IDE | [trae.ai](https://trae.ai) |
+| **ZCode** *(Zhipu)* | Free promo credits · paid via GLM Coding Plan | ✅ **New users: 5-day free, 5M tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** — promo through **2026-06-30** | China-based devs wanting an official GLM IDE | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **Zed** | Free editor · Pro low-cost tier | Core editor free · ✅ **Students: free 1-year membership incl. ~$10/mo AI model credits** (with student verification) | Speed + local-first, privacy-friendly editing | [zed.dev](https://zed.dev) |
 
 ---

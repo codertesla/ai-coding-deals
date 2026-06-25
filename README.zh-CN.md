@@ -46,6 +46,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Freebuff / Codebuff** | **100% 免费** 广告版 CLI agent,无需 API key、无订阅 | 真·零成本入门;适合在自己仓库里试免费开源模型 |
 | **OpenCode** ✅ *已验证* | 经[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)双方各得 **$5 额度** | 叠加低价中文模型(Qwen/DeepSeek/GLM/Kimi)更香 |
 | **Zed**(学生)✅ | 通过学生认证可得 **一年免费会员**,每月约 $10 AI 额度 | 学生党最佳免费选项 |
+| **ZCode**(智谱)✅ | 新用户 **5 天免费,每日 500 万 Token**(GLM-5.2 + GLM-5-turbo)——活动至 **2026-06-30** | 零成本体验当下热门开源模型 **GLM-5.2** |
 | **GitHub Copilot** | **$10/月** Pro,sticker price 最低;**行内补全永久免费** | 即便 2026 年 6 月改为按量计费,仍是最便宜的能打选项 |
 | **OpenAI Codex** | 随 **ChatGPT Plus($20/月)免费附带**(Web + CLI + 桌面端) | 已经在用 ChatGPT 就等于不额外花钱 |
 | **Google Antigravity / Gemini** | **慷慨免费层**;AI Pro 仅 **$19.99/月** | 上手多 Agent IDE + 快速 Gemini 模型最便宜的路 |
@@ -79,6 +80,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Google Antigravity** | 免费层(有额度上限)· 经 **Google AI Pro $19.99/月** · AI Ultra $99.99–$200/月 | 慷慨免费层;顶配 Ultra 由 $249.99 降至 $200(2026-05) | 多 Agent 并行;内置浏览器;全栈 Web | [antigravity.google](https://antigravity.google) |
 | **Kiro**(AWS,规格驱动) | 免费 50 credits · Pro **$20/月**(1000)· Pro+ $40/月 · Power $200/月 | 年付折扣;超量 $0.04/credit | 规格驱动、可维护的生产级代码;AWS 团队 | [kiro.dev](https://kiro.dev) |
 | **Trae**(字节跳动) | 免费层 + 付费(见官网) | 经常有力度较大的免费/促销 | 想要 Cursor 式 IDE 的预算用户 | [trae.ai](https://trae.ai) |
+| **ZCode**(智谱) | 活动免费额度 · 经 GLM Coding Plan 付费 | ✅ **新用户 5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额**——活动至 **2026-06-30** | 想用智谱官方 GLM IDE 的开发者 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **Zed** | 编辑器免费 · Pro 低价档 | 核心编辑器免费 · ✅ **学生认证后可得一年免费会员**,含每月约 $10 AI 模型额度 | 追求速度、本地优先、隐私友好 | [zed.dev](https://zed.dev) |
 
 ---

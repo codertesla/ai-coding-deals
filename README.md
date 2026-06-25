@@ -79,7 +79,7 @@ Full IDEs with deep agent integration — the agent reads your project, edits ac
 | **Devin Desktop** *(formerly Windsurf)* | Light free quota · Pro: **$20/mo** · Max: $200/mo · Teams: $40/user/mo | Annual billing discount | Delegating heavy work to a cloud agent (Devin Cloud) that opens PRs | [devin.ai](https://devin.ai) |
 | **Google Antigravity** | Free tier (credit caps) · via **Google AI Pro $19.99/mo** · AI Ultra $99.99–$200/mo | Generous free tier; AI Ultra top tier cut from $249.99→$200 (May 2026) | Multi-agent parallel workflows; built-in browser; full-stack web | [antigravity.google](https://antigravity.google) |
 | **Kiro** *(AWS, spec-driven)* | Free: 50 credits · Pro: **$20/mo** (1,000) · Pro+: $40/mo · Power: $200/mo | Annual billing discount; $0.04/credit overage | Spec-driven, maintainable production code; AWS-centric teams | [kiro.dev](https://kiro.dev) |
-| **Trae** *(ByteDance)* | Free tier + paid plans (see site) | Frequently aggressive free/promo tiers | Budget users wanting a Cursor-style IDE | [trae.ai](https://trae.ai) |
+| **Trae** *(ByteDance)* | Free tier (5K autocompletions/mo, 2 concurrent) · Lite **$3** · Pro **$10** (7-day trial) · Pro+ $30 · Ultra $100 | ✅ **China version (trae.cn) is fully free** for individuals (Doubao/DeepSeek) | Budget users wanting a Cursor-style IDE | [trae.ai](https://trae.ai) |
 | **ZCode** *(Zhipu)* | Free promo credits · paid via GLM Coding Plan | ✅ **New users: 5-day free, 5M tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** — promo through **2026-06-30** | China-based devs wanting an official GLM IDE | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **Zed** | Free editor · Pro low-cost tier | Core editor free · ✅ **Students: free 1-year membership incl. ~$10/mo AI model credits** (with student verification) | Speed + local-first, privacy-friendly editing | [zed.dev](https://zed.dev) |
 
@@ -95,9 +95,9 @@ Plug into your existing editor (VS Code / JetBrains) for completions, chat, and 
 | **Continue.dev** | Core **free** (BYOK or local Ollama = $0) · Team ~$20/seat/mo | Fully free to self-host | Privacy & cost control; any model | [continue.dev](https://www.continue.dev) |
 | **Cline** | **Free, open source** (BYOK / local model) | $0 with your own key | Autonomous VS Code agent on a budget | [cline.bot](https://cline.bot) |
 | **Roo Code** | **Free, open source** (BYOK) | $0 with your own key | Cline fork with extra agent modes | [roocode.com](https://roocode.com) |
-| **Sourcegraph Cody** | Free tier · Pro paid (see site) | Generous free tier | Codebase-wide context & search | [sourcegraph.com/cody](https://sourcegraph.com/cody) |
-| **Tabnine** | Free tier · paid plans (see site) | Privacy-focused; self-host options | Teams needing on-prem / private models | [tabnine.com](https://www.tabnine.com) |
-| **Augment Code** | Paid; free trial (see site) | Trial credits | Large codebases needing deep context | [augmentcode.com](https://www.augmentcode.com) |
+| **Sourcegraph Cody** | **Enterprise only** (~$59/user/mo, annual) | ⚠️ Free & Pro plans **discontinued 2025-07**; Sourcegraph now points individuals to [Amp](https://ampcode.com) | Codebase-wide context & search (enterprise) | [sourcegraph.com/cody](https://sourcegraph.com/cody) |
+| **Tabnine** | **Enterprise only** — Code Assistant $39/user/mo · Agentic $59/user/mo (annual) | ⚠️ Free tier & individual plans **discontinued 2025-04**; 14–90 day trial only. Student plan closed. | Privacy/on-prem teams needing zero-retention, air-gapped | [tabnine.com](https://www.tabnine.com) |
+| **Augment Code** | Free Community (limited) · Trial 30K credits (needs card) · Business **$100/mo flat** (up to 50 seats, $100 usage incl.) · Enterprise custom | 30K-credit trial; flat Business pricing (no per-seat up to 50) | Large codebases needing deep context | [augmentcode.com](https://www.augmentcode.com) |
 
 ---
 
@@ -112,7 +112,8 @@ Run an agent directly in your terminal — edit code, run tests, manage git.
 | **OpenAI Codex CLI** | **Free, open source** CLI · usage via ChatGPT Plus $20/mo or API | Bundled with ChatGPT; CLI itself is free | OpenAI ecosystem; cloud sandbox + local CLI | [openai.com/codex](https://openai.com/codex) |
 | **Gemini CLI / Antigravity CLI** | **Free tier** (generous daily limits) | Very generous free tier | Light–moderate use; huge context | [antigravity.google](https://antigravity.google) |
 | **Aider** | **Free OSS** (pay only LLM API, or local = $0) | $0 with local models | Git-native pair programming; 75+ models | [aider.chat](https://aider.chat) |
-| **OpenCode** | Core free · **Go plan** paid tier (see site) | ✅ **Referral: $5 credit for both you and your friend** ([referral link](https://opencode.ai/go?ref=J9E8732NMP)) | Multi-session, LSP, 75+ models, cheap Chinese models | [opencode.ai](https://opencode.ai) |
+| **Amp** *(Sourcegraph)* | **Pay-as-you-go, zero markup** on API cost; $5 min credit top-up | Free daily credit grant (~$10/day, replenished hourly) — ⚠️ **being paused/reduced for some users since 2026-05**; ad-free since 2026 | Multi-model routing (GPT-5.5/Opus); unconstrained context | [ampcode.com](https://ampcode.com) |
+| **OpenCode** | OSS free (BYOK) · **Go plan: $5 first month, then $10/mo** (~$60/mo usage: $12/5h · $30/week) | ✅ **Referral: $5 credit for both you and your friend** ([referral link](https://opencode.ai/go?ref=J9E8732NMP)) | 14 open models (GLM-5.2, Kimi, Qwen, DeepSeek…) via one key; works with any agent | [opencode.ai](https://opencode.ai) |
 | **Crush** *(Charm)* | **Free, open source** (BYOK) | $0 with your own key | Beautiful terminal UX; multi-model | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | **Goose** *(Block)* | **Free, open source** (BYOK / local) | $0 with your own key | Extensible local agent; MCP-native | [block.github.io/goose](https://block.github.io/goose) |
 | **Qwen Code** | **Free, open source** | $0 (use Qwen models) | Cost-conscious users on Qwen models | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |

@@ -79,7 +79,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Devin Desktop**(原 Windsurf) | 少量免费额度 · Pro **$20/月** · Max $200/月 · Teams $40/人/月 | 年付折扣 | 把重活交给云端 Agent(Devin Cloud)自动出 PR | [devin.ai](https://devin.ai) |
 | **Google Antigravity** | 免费层(有额度上限)· 经 **Google AI Pro $19.99/月** · AI Ultra $99.99–$200/月 | 慷慨免费层;顶配 Ultra 由 $249.99 降至 $200(2026-05) | 多 Agent 并行;内置浏览器;全栈 Web | [antigravity.google](https://antigravity.google) |
 | **Kiro**(AWS,规格驱动) | 免费 50 credits · Pro **$20/月**(1000)· Pro+ $40/月 · Power $200/月 | 年付折扣;超量 $0.04/credit | 规格驱动、可维护的生产级代码;AWS 团队 | [kiro.dev](https://kiro.dev) |
-| **Trae**(字节跳动) | 免费层 + 付费(见官网) | 经常有力度较大的免费/促销 | 想要 Cursor 式 IDE 的预算用户 | [trae.ai](https://trae.ai) |
+| **Trae**(字节跳动) | 免费层(5000 补全/月,2 并发)· Lite **$3** · Pro **$10**(7 天试用)· Pro+ $30 · Ultra $100 | ✅ **国内版 trae.cn 个人完全免费**(用豆包/DeepSeek) | 想要 Cursor 式 IDE 的预算用户 | [trae.ai](https://trae.ai) |
 | **ZCode**(智谱) | 活动免费额度 · 经 GLM Coding Plan 付费 | ✅ **新用户 5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额**——活动至 **2026-06-30** | 想用智谱官方 GLM IDE 的开发者 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **Zed** | 编辑器免费 · Pro 低价档 | 核心编辑器免费 · ✅ **学生认证后可得一年免费会员**,含每月约 $10 AI 模型额度 | 追求速度、本地优先、隐私友好 | [zed.dev](https://zed.dev) |
 
@@ -95,9 +95,9 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Continue.dev** | 核心 **免费**(自带 key 或本地 Ollama = $0)· Team 约 $20/席/月 | 完全可免费自托管 | 隐私 & 成本控制;任意模型 | [continue.dev](https://www.continue.dev) |
 | **Cline** | **免费开源**(自带 key / 本地模型) | 用自己 key 即 $0 | 低成本的 VS Code 自主 Agent | [cline.bot](https://cline.bot) |
 | **Roo Code** | **免费开源**(自带 key) | 用自己 key 即 $0 | Cline 分支,额外 Agent 模式 | [roocode.com](https://roocode.com) |
-| **Sourcegraph Cody** | 免费层 · Pro 付费(见官网) | 慷慨免费层 | 全代码库上下文与搜索 | [sourcegraph.com/cody](https://sourcegraph.com/cody) |
-| **Tabnine** | 免费层 · 付费(见官网) | 注重隐私;可自托管 | 需要私有部署/私有模型的团队 | [tabnine.com](https://www.tabnine.com) |
-| **Augment Code** | 付费;有试用(见官网) | 试用额度 | 需要深度上下文的大型代码库 | [augmentcode.com](https://www.augmentcode.com) |
+| **Sourcegraph Cody** | **仅企业版**(约 $59/人/月,年付) | ⚠️ Free/Pro 已于 **2025-07 下线**;个人用户官方建议转用 [Amp](https://ampcode.com) | 全代码库上下文与搜索(企业) | [sourcegraph.com/cody](https://sourcegraph.com/cody) |
+| **Tabnine** | **仅企业版**——Code Assistant $39/人/月 · Agentic $59/人/月(年付) | ⚠️ 免费层与个人版已于 **2025-04 下线**,仅 14–90 天试用;学生计划也已关闭 | 需要零留存、可离线部署的隐私/合规团队 | [tabnine.com](https://www.tabnine.com) |
+| **Augment Code** | 免费 Community(有限)· 试用 3 万 credits(需绑卡)· Business **$100/月一口价**(最多 50 席,含 $100 用量)· Enterprise 定制 | 3 万 credits 试用;Business 一口价(50 席内无按席收费) | 需要深度上下文的大型代码库 | [augmentcode.com](https://www.augmentcode.com) |
 
 ---
 
@@ -112,7 +112,8 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **OpenAI Codex CLI** | CLI **免费开源** · 用量经 ChatGPT Plus $20/月 或 API | 随 ChatGPT 附带;CLI 本身免费 | OpenAI 生态;云沙箱 + 本地 CLI | [openai.com/codex](https://openai.com/codex) |
 | **Gemini CLI / Antigravity CLI** | **免费层**(每日额度慷慨) | 非常慷慨的免费层 | 轻中度使用;超大上下文 | [antigravity.google](https://antigravity.google) |
 | **Aider** | **免费开源**(仅付 LLM API,或本地 = $0) | 用本地模型即 $0 | Git 原生 pair programming;75+ 模型 | [aider.chat](https://aider.chat) |
-| **OpenCode** | 核心免费 · **Go 计划** 付费档(见官网) | ✅ **邀请双方各得 $5 额度**([邀请链接](https://opencode.ai/go?ref=J9E8732NMP)) | 多会话、LSP、75+ 模型、低价中文模型 | [opencode.ai](https://opencode.ai) |
+| **Amp**(Sourcegraph) | **按量付费,零加价**转 API 成本;$5 起充 | 每日免费额度(约 $10/天,按小时补充)——⚠️ **2026-05 起对部分用户暂停/缩减**;现已无广告 | 多模型路由(GPT-5.5/Opus);上下文不受限 | [ampcode.com](https://ampcode.com) |
+| **OpenCode** | 开源免费(自带 key)· **Go 计划:首月 $5,之后 $10/月**(约 $60/月用量:5h $12 · 周 $30) | ✅ **邀请双方各得 $5 额度**([邀请链接](https://opencode.ai/go?ref=J9E8732NMP)) | 一个 key 用 14 个开源模型(GLM-5.2、Kimi、Qwen、DeepSeek…);可配任意 agent | [opencode.ai](https://opencode.ai) |
 | **Crush**(Charm) | **免费开源**(自带 key) | 用自己 key 即 $0 | 终端体验精美;多模型 | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | **Goose**(Block) | **免费开源**(自带 key / 本地) | 用自己 key 即 $0 | 可扩展的本地 Agent;MCP 原生 | [block.github.io/goose](https://block.github.io/goose) |
 | **Qwen Code** | **免费开源** | $0(用 Qwen 模型) | 用 Qwen 模型的省钱用户 | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |

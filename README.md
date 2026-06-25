@@ -28,7 +28,7 @@ AI coding tools change pricing *fast*. This repo tracks the **free tiers, discou
 - [🧩 Assistants & IDE extensions](#-assistants--ide-extensions)
   - [⚠️ No longer free / enterprise-only](#️-no-longer-free--enterprise-only)
 - [⌨️ CLI / terminal agents](#️-cli--terminal-agents)
-- [🌐 App / UI builders](#-app--ui-builders)
+- [⏳ Time-limited promos](#-time-limited-promos)
 - [🎓 Student deals](#-student-deals)
 - [🎯 Which one should I pick?](#-which-one-should-i-pick)
 - [💡 Money-saving tips](#-money-saving-tips)
@@ -106,6 +106,7 @@ These tools used to be popular free options but have gone enterprise-only. We ke
 |------|--------|---------------|------------------------------|
 | **Sourcegraph Cody** | Enterprise only (~$59/user/mo, annual) | Free & Pro plans **discontinued 2025-07**; Sourcegraph points individuals to Amp | [Amp](https://ampcode.com) (PAYG, zero markup) or [Continue.dev](https://www.continue.dev) |
 | **Tabnine** | Enterprise only — $39 / $59 per user/mo (annual) | Free tier & individual plans **discontinued 2025-04**; student plan closed | [Cline](https://cline.bot) / [Continue.dev](https://www.continue.dev) / [Aider](https://aider.chat) |
+| **Warp** | Free terminal; AI agent usage now needs **Build $20/mo** for bundled credits | ⚠️ Free bundled AI credits removed; free users can only use AI via **BYOK** (own OpenAI/Anthropic/Google key), no Warp credits | [Cursor](https://cursor.com) or any CLI agent above with your own key |
 
 ---
 
@@ -132,16 +133,15 @@ Run an agent directly in your terminal — edit code, run tests, manage git.
 
 ---
 
-## 🌐 App / UI builders
+## ⏳ Time-limited promos
 
-Prompt-to-app tools — generate full apps or UI from natural language.
+Active discounts with a deadline — grab them before they expire. **Verify on the official page before relying on these, and PR the expiry when it changes.**
 
-| Tool | Pricing (2026-06) | Discounts / free | Best for | Link |
-|------|-------------------|------------------|----------|------|
-| **Bolt.new** | Free tier (daily tokens) · paid plans | Daily free token allowance | Full-stack apps in the browser | [bolt.new](https://bolt.new) |
-| **v0** *(Vercel)* | Free tier · paid plans | Monthly free credits | React/Next.js UI generation | [v0.app](https://v0.app) |
-| **Lovable** | Free tier · paid plans | Daily free credits | Full-stack app prototypes | [lovable.dev](https://lovable.dev) |
-| **Replit Agent** | Free tier · Core paid plan | Free starter credits | Build + host in one place | [replit.com](https://replit.com) |
+| Tool | Promo | Expires | Notes |
+|------|-------|---------|-------|
+| **ZCode** *(Zhipu)* | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** | **2026-06-30** | Best free way to try open **GLM-5.2**; [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+
+> Expired promos are removed from this section but the tool stays in its regular category above with updated info.
 
 ---
 

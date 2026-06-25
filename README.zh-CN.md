@@ -28,7 +28,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 - [🧩 助手 & IDE 扩展](#-助手--ide-扩展)
   - [⚠️ 已不再免费 / 仅企业版](#️-已不再免费--仅企业版)
 - [⌨️ CLI / 终端 Agent](#️-cli--终端-agent)
-- [🌐 应用 / UI 生成工具](#-应用--ui-生成工具)
+- [⏳ 限时优惠](#-限时优惠)
 - [🎓 学生福利](#-学生福利)
 - [🎯 我该选哪个?](#-我该选哪个)
 - [💡 省钱技巧](#-省钱技巧)
@@ -106,6 +106,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 |------|------|------------|--------------|
 | **Sourcegraph Cody** | 仅企业版(约 $59/人/月,年付) | Free/Pro 已于 **2025-07 下线**;官方建议个人转用 Amp | [Amp](https://ampcode.com)(按量付费、零加价)或 [Continue.dev](https://www.continue.dev) |
 | **Tabnine** | 仅企业版——$39 / $59 每人/月(年付) | 免费层与个人版已于 **2025-04 下线**;学生计划也已关闭 | [Cline](https://cline.bot) / [Continue.dev](https://www.continue.dev) / [Aider](https://aider.chat) |
+| **Warp** | 终端免费;AI agent 用量现需 **Build $20/月** 才有 bundled 额度 | ⚠️ 免费 bundled AI 额度已取消;免费用户只能通过 **BYOK**(自带 OpenAI/Anthropic/Google key)用 AI,无 Warp 额度 | [Cursor](https://cursor.com) 或上方任意 CLI agent + 自带 key |
 
 ---
 
@@ -132,16 +133,15 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 
 ---
 
-## 🌐 应用 / UI 生成工具
+## ⏳ 限时优惠
 
-Prompt 直出应用——用自然语言生成完整应用或 UI。
+有截止日期的折扣——趁还在赶紧薅。**使用前请以官网为准;过期后欢迎 PR 更新。**
 
-| 工具 | 定价(2026-06) | 折扣 / 免费 | 适合 | 链接 |
-|------|----------------|--------------|------|------|
-| **Bolt.new** | 免费层(每日 token)· 付费 | 每日免费 token | 浏览器里做全栈应用 | [bolt.new](https://bolt.new) |
-| **v0**(Vercel) | 免费层 · 付费 | 每月免费额度 | React/Next.js UI 生成 | [v0.app](https://v0.app) |
-| **Lovable** | 免费层 · 付费 | 每日免费额度 | 全栈应用原型 | [lovable.dev](https://lovable.dev) |
-| **Replit Agent** | 免费层 · Core 付费 | 新手免费额度 | 构建 + 托管一站式 | [replit.com](https://replit.com) |
+| 工具 | 优惠 | 截止 | 说明 |
+|------|------|------|------|
+| **ZCode**(智谱) | 新用户 **5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额** | **2026-06-30** | 零成本体验开源 **GLM-5.2**;[zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+
+> 过期的优惠会从本节移除,工具仍保留在上方对应分类里,并更新为常规信息。
 
 ---
 

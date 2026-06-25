@@ -1,0 +1,52 @@
+name: "💰 Price / discount update — 价格或折扣更新"
+description: "Report a changed price, new discount, or expired promo. 报告价格变动、新折扣或过期促销。"
+title: "[update] <tool name> — <what changed>"
+labels: ["update"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: "Tool / 工具名称"
+      placeholder: "e.g. Cursor"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: "Type of change / 变更类型"
+      options:
+        - "Price changed / 价格变动"
+        - "New discount or promo / 新折扣或促销"
+        - "Discount expired / 折扣已过期"
+        - "Free tier changed / 免费额度变动"
+        - "Other / 其他"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: "What changed / 具体变化"
+      placeholder: "Old: Pro $20/mo → New: Pro $25/mo ..."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: "🔗 Official source link / 官方来源链接"
+      placeholder: "https://vendor.com/pricing"
+    validations:
+      required: true
+  - type: input
+    id: verified
+    attributes:
+      label: "📅 Date verified / 核实日期"
+      placeholder: "2026-06-25"
+    validations:
+      required: true
+  - type: input
+    id: expiry
+    attributes:
+      label: "⏳ Expiry date (for discounts) / 折扣有效期"
+      placeholder: "2026-12-31 or N/A"
+    validations:
+      required: false

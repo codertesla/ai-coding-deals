@@ -1,0 +1,55 @@
+name: "➕ New tool — 新增工具"
+description: "Suggest a new AI coding tool to add. 推荐新增一个 AI 编程工具。"
+title: "[new tool] <tool name>"
+labels: ["new tool"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: "Tool name / 工具名称"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: "🔗 Official site / 官网"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category / 分类"
+      options:
+        - "Agentic IDE / AI 原生 IDE"
+        - "Assistant / IDE extension / 助手或扩展"
+        - "CLI / terminal agent / 终端 Agent"
+        - "App / UI builder / 应用生成"
+        - "Other / 其他"
+    validations:
+      required: true
+  - type: textarea
+    id: pricing
+    attributes:
+      label: "Pricing & any free tier / discount — 定价、免费额度或折扣"
+      placeholder: "Free tier: ... · Pro: $X/mo · Discount: ..."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: "🔗 Source link / 来源链接"
+    validations:
+      required: true
+  - type: input
+    id: verified
+    attributes:
+      label: "📅 Date verified / 核实日期"
+      placeholder: "2026-06-25"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: "Why it's worth adding / 为什么值得收录"
+    validations:
+      required: false

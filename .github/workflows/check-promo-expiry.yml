@@ -1,0 +1,34 @@
+name: Check promo expiry
+
+on:
+  schedule:
+    # Every Monday 03:00 UTC
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Ensure 'expiry' label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create expiry --color B60205 --description "Time-limited promo expiring or expired" || true
+
+      - name: Scan promos and file issues
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXPIRY_WINDOW_DAYS: "7"
+        run: python scripts/check_promo_expiry.py

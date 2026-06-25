@@ -41,8 +41,10 @@ The highest-value offers worth grabbing today. (Verified 2026-06 — confirm on 
 
 | Tool | The deal | Why it's worth it |
 |------|----------|-------------------|
-| **Cursor** ✅ *verified* | **50% off your first month** for new accounts via a referral link — Pro for **$10** (first month), with matching discounts on higher tiers | Confirmed working 2026-06 on a brand-new account; the cheapest way to try Pro |
+| **Cursor** ✅ *verified* | **50% off your first month** for new accounts via *any* referral link — Pro for **$10** (first month), with matching discounts on higher tiers. Each referral link has a limited number of uses, so just search for a fresh one (e.g. Google "Cursor referral link"). | Confirmed working 2026-06 on a brand-new account; the cheapest way to try Pro |
 | **Freebuff / Codebuff** | **100% free** ad-supported CLI agent — no API key, no subscription | Genuinely $0 to start; good for trying free open models in your own repo |
+| **OpenCode** ✅ *verified* | **$5 free credit** for both parties via [referral link](https://opencode.ai/go?ref=J9E8732NMP) | Stacks well with cheap Chinese models (Qwen/DeepSeek/GLM/Kimi) |
+| **Zed** *(students)* ✅ | **Free 1-year membership** with ~$10/mo AI credits after student verification | Best free option if you're a verified student |
 | **GitHub Copilot** | **$10/mo** Pro — lowest sticker price; **unlimited inline completions stay free** | Cheapest capable entry point even after the June 2026 usage-based billing change |
 | **OpenAI Codex** | Bundled **free with ChatGPT Plus ($20/mo)** — Codex Web + CLI + desktop | If you already pay for ChatGPT, you pay $0 extra |
 | **Google Antigravity / Gemini** | Generous **free tier**; AI Pro just **$19.99/mo** | Cheapest path to a multi-agent IDE + fast Gemini models |
@@ -71,12 +73,12 @@ Full IDEs with deep agent integration — the agent reads your project, edits ac
 
 | Tool | Pricing (2026-06) | Discounts / free credits | Best for | Link |
 |------|-------------------|--------------------------|----------|------|
-| **Cursor** | Hobby: free · Pro: **$20/mo** · Ultra: $200/mo · Teams: $32/seat/mo (annual) | ✅ **New accounts: 50% off first month via referral link** (Pro ≈ $10 first month, higher tiers discounted too) · annual billing ~20% off | Power users; multi-model + parallel agents; largest community | [cursor.com](https://cursor.com) |
+| **Cursor** | Hobby: free · Pro: **$20/mo** · Ultra: $200/mo · Teams: $32/seat/mo (annual) | ✅ **New accounts: 50% off first month via any referral link** (Pro ≈ $10 first month, higher tiers too). Links have limited uses — search for a fresh one. · Annual billing ~20% off | Power users; multi-model + parallel agents; largest community | [cursor.com](https://cursor.com) |
 | **Devin Desktop** *(formerly Windsurf)* | Light free quota · Pro: **$20/mo** · Max: $200/mo · Teams: $40/user/mo | Annual billing discount | Delegating heavy work to a cloud agent (Devin Cloud) that opens PRs | [devin.ai](https://devin.ai) |
 | **Google Antigravity** | Free tier (credit caps) · via **Google AI Pro $19.99/mo** · AI Ultra $99.99–$200/mo | Generous free tier; AI Ultra top tier cut from $249.99→$200 (May 2026) | Multi-agent parallel workflows; built-in browser; full-stack web | [antigravity.google](https://antigravity.google) |
 | **Kiro** *(AWS, spec-driven)* | Free: 50 credits · Pro: **$20/mo** (1,000) · Pro+: $40/mo · Power: $200/mo | Annual billing discount; $0.04/credit overage | Spec-driven, maintainable production code; AWS-centric teams | [kiro.dev](https://kiro.dev) |
 | **Trae** *(ByteDance)* | Free tier + paid plans (see site) | Frequently aggressive free/promo tiers | Budget users wanting a Cursor-style IDE | [trae.ai](https://trae.ai) |
-| **Zed** | Free editor · Pro low-cost tier | Core editor is free | Speed + local-first, privacy-friendly editing | [zed.dev](https://zed.dev) |
+| **Zed** | Free editor · Pro low-cost tier | Core editor free · ✅ **Students: free 1-year membership incl. ~$10/mo AI model credits** (with student verification) | Speed + local-first, privacy-friendly editing | [zed.dev](https://zed.dev) |
 
 ---
 
@@ -107,7 +109,7 @@ Run an agent directly in your terminal — edit code, run tests, manage git.
 | **OpenAI Codex CLI** | **Free, open source** CLI · usage via ChatGPT Plus $20/mo or API | Bundled with ChatGPT; CLI itself is free | OpenAI ecosystem; cloud sandbox + local CLI | [openai.com/codex](https://openai.com/codex) |
 | **Gemini CLI / Antigravity CLI** | **Free tier** (generous daily limits) | Very generous free tier | Light–moderate use; huge context | [antigravity.google](https://antigravity.google) |
 | **Aider** | **Free OSS** (pay only LLM API, or local = $0) | $0 with local models | Git-native pair programming; 75+ models | [aider.chat](https://aider.chat) |
-| **OpenCode** | Core free · **Go plan** paid tier (see site) | New-user promo on Go plan reported | Multi-session, LSP, 75+ models, cheap Chinese models | [opencode.ai](https://opencode.ai) |
+| **OpenCode** | Core free · **Go plan** paid tier (see site) | ✅ **Referral: $5 credit for both you and your friend** ([referral link](https://opencode.ai/go?ref=J9E8732NMP)) | Multi-session, LSP, 75+ models, cheap Chinese models | [opencode.ai](https://opencode.ai) |
 | **Crush** *(Charm)* | **Free, open source** (BYOK) | $0 with your own key | Beautiful terminal UX; multi-model | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | **Goose** *(Block)* | **Free, open source** (BYOK / local) | $0 with your own key | Extensible local agent; MCP-native | [block.github.io/goose](https://block.github.io/goose) |
 | **Qwen Code** | **Free, open source** | $0 (use Qwen models) | Cost-conscious users on Qwen models | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |

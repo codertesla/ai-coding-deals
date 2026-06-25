@@ -28,6 +28,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 - [🧩 助手 & IDE 扩展](#-助手--ide-扩展)
 - [⌨️ CLI / 终端 Agent](#️-cli--终端-agent)
 - [🌐 应用 / UI 生成工具](#-应用--ui-生成工具)
+- [🎓 学生福利](#-学生福利)
 - [🎯 我该选哪个?](#-我该选哪个)
 - [💡 省钱技巧](#-省钱技巧)
 - [🤝 参与贡献](#-参与贡献)
@@ -126,6 +127,22 @@ Prompt 直出应用——用自然语言生成完整应用或 UI。
 | **v0**(Vercel) | 免费层 · 付费 | 每月免费额度 | React/Next.js UI 生成 | [v0.app](https://v0.app) |
 | **Lovable** | 免费层 · 付费 | 每日免费额度 | 全栈应用原型 | [lovable.dev](https://lovable.dev) |
 | **Replit Agent** | 免费层 · Core 付费 | 新手免费额度 | 构建 + 托管一站式 | [replit.com](https://replit.com) |
+
+---
+
+## 🎓 学生福利
+
+如果你能通过学生 / `.edu` 认证,不少工具**免费或大幅折扣**,往往是性价比最高的选择。具体条款和可用国家/地区请以各厂商官网为准。
+
+| 工具 | 学生优惠 | 怎么领 |
+|------|----------|--------|
+| **Google Gemini** ✅ | **免费 Google AI Pro 一年**——升级为 **Gemini Pro**,从而解锁 **Google Antigravity** 及更高用量额度 | 用 Google 完成学生认证([gemini.google/students](https://gemini.google/students)) |
+| **Zed** ✅ | **一年免费会员**,含每月约 **$10 AI 模型额度** | 在 Zed 内完成学生认证([zed.dev](https://zed.dev)) |
+| **GitHub Copilot** ✅ | 随 GitHub 学生开发包**免费用 Copilot Pro** | 申请 [education.github.com/pack](https://education.github.com/pack) |
+| **JetBrains 全家桶** ✅ | 在校期间**全系 IDE 免费个人授权**(含 AI 功能) | 申请 [jetbrains.com/student](https://www.jetbrains.com/student/) |
+| **Cursor** | 部分地区有学生免费/折扣 Pro,需自行确认当前状态 | 查看 [cursor.com](https://cursor.com) |
+
+> 💡 叠加起来:一个认证学生可以 **Gemini Pro(→ Antigravity)+ Copilot Pro + JetBrains + Zed** 全部 **$0/年**。
 
 ---
 

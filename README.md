@@ -28,6 +28,7 @@ AI coding tools change pricing *fast*. This repo tracks the **free tiers, discou
 - [🧩 Assistants & IDE extensions](#-assistants--ide-extensions)
 - [⌨️ CLI / terminal agents](#️-cli--terminal-agents)
 - [🌐 App / UI builders](#-app--ui-builders)
+- [🎓 Student deals](#-student-deals)
 - [🎯 Which one should I pick?](#-which-one-should-i-pick)
 - [💡 Money-saving tips](#-money-saving-tips)
 - [🤝 Contributing](#-contributing)
@@ -126,6 +127,22 @@ Prompt-to-app tools — generate full apps or UI from natural language.
 | **v0** *(Vercel)* | Free tier · paid plans | Monthly free credits | React/Next.js UI generation | [v0.app](https://v0.app) |
 | **Lovable** | Free tier · paid plans | Daily free credits | Full-stack app prototypes | [lovable.dev](https://lovable.dev) |
 | **Replit Agent** | Free tier · Core paid plan | Free starter credits | Build + host in one place | [replit.com](https://replit.com) |
+
+---
+
+## 🎓 Student deals
+
+If you can verify student / `.edu` status, several tools are **free or heavily discounted** — often the best value out there. Always confirm current terms and eligible countries on each vendor's page.
+
+| Tool | Student offer | How to get it |
+|------|---------------|---------------|
+| **Google Gemini** ✅ | **Free Google AI Pro for 1 year** — upgrades you to **Gemini Pro**, which unlocks **Google Antigravity** + higher usage limits | Verify student status with Google ([gemini.google/students](https://gemini.google/students)) |
+| **Zed** ✅ | **Free 1-year membership** incl. ~**$10/mo AI model credits** | Student verification inside Zed ([zed.dev](https://zed.dev)) |
+| **GitHub Copilot** ✅ | **Free Copilot Pro** as part of the GitHub Student Developer Pack | Apply to [education.github.com/pack](https://education.github.com/pack) |
+| **JetBrains IDEs** ✅ | **Free individual license** for all JetBrains IDEs (incl. AI features) while you study | Apply at [jetbrains.com/student](https://www.jetbrains.com/student/) |
+| **Cursor** | Free/discounted Pro for students reported in some regions — verify current status | Check [cursor.com](https://cursor.com) |
+
+> 💡 Stack these: a verified student can run **Gemini Pro (→ Antigravity) + Copilot Pro + JetBrains + Zed** all for **$0/year**.
 
 ---
 

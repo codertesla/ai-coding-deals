@@ -69,10 +69,10 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 
 | 工具 | 定价(2026-06) | 折扣 / 免费额度 | 适合 | 链接 |
 |------|----------------|------------------|------|------|
-| **Cursor** | Hobby 免费 · Pro **$20/月** · Ultra $200/月 · Teams $32/席/月(年付) | ✅ **新账号经任意邀请链接首月 5 折**(Pro 首月约 $10,更高档位同享)。链接有使用次数上限,搜一个新鲜的即可 · 年付约 8 折 | 重度用户;多模型 + 并行 Agent;社区最大 | [cursor.com](https://cursor.com) |
+| **Cursor** | Hobby 免费(有限)· Pro **$20/月(含 $20 用量)** · Pro+ **$60($70 用量)** · Ultra $200($400 用量)· Teams Standard $40/席(年付 $32)· Premium $120/席 | ✅ **新账号经任意邀请链接首月 5 折**(Pro 首月约 $10,更高档位同享)。链接有使用次数上限,搜一个新鲜的即可 · 年付约 8 折 · 用量按 API 价计,超出按量付费 | 重度用户;多模型 + 并行 Agent;社区最大 | [cursor.com](https://cursor.com) |
 | **Devin Desktop**(原 Windsurf) | 免费(轻量 quota、无限 Tab/补全)· Pro **$20/月** · Max $200/月 · Teams $80/月起 + $40/全席位 | ✅ **新用户完成初始引导(连接 Git)送 $10 AI 额度**;**Pro 及以上免费用 SWE 1.6**;⏳ **GLM-5.2 与 Kimi K2.7 对 Pro/Max/Teams 免费至 2026-07-05** | 把重活交给 Devin Cloud 自动出 PR | [devin.ai](https://devin.ai) |
-| **Google Antigravity** | 免费层(有额度上限)· 经 **Google AI Pro $19.99/月** · AI Ultra $99.99–$200/月 | 慷慨免费层;顶配 Ultra 由 $249.99 降至 $200(2026-05) | 多 Agent 并行;内置浏览器;全栈 Web | [antigravity.google](https://antigravity.google) |
-| **Kiro**(AWS,规格驱动) | 免费 50 credits · Pro **$20/月**(1000)· Pro+ $40/月 · Power $200/月 | 年付折扣;超量 $0.04/credit | 规格驱动、可维护的生产级代码;AWS 团队 | [kiro.dev](https://kiro.dev) |
+| **Google Antigravity** | 免费层 · 经 **Google AI Pro $19.99/月** · AI Plus $7.99 · AI Ultra **$99.99(5× Pro)** 与 **$200(20× Pro,原 $250 降价)** | 慷慨免费层;顶配 Ultra 由 $249.99 降至 $200(2026-05);$100 Ultra 奖励 credits 促销(已于 2026-05-25 结束);算力池每 5h 刷新至每周上限;Tab 补全免费 | 多 Agent 并行;内置浏览器;全栈 Web | [antigravity.google](https://antigravity.google) |
+| **Kiro**(AWS,规格驱动) | 免费 50 credits · Pro **$20/月(1000)** · Pro+ $40(2000)· **Pro Max $100(5000)** · Power $200(10000) | 年付折扣;超量 $0.04/credit · 倍率:Auto 1.0× · Sonnet 1.3× · **Opus 4.8 2.2×** · Haiku 0.4× · GLM-5 0.5× · **Qwen3 Coder Next 0.05×** | 规格驱动、可维护的生产级代码;AWS 团队 | [kiro.dev](https://kiro.dev) |
 | **Trae**(字节跳动) | 免费层(5000 补全/月,2 并发)· Lite **$3** · Pro **$10**(7 天试用)· Pro+ $30 · Ultra $100 | ✅ **国内版 trae.cn 个人完全免费**(用豆包/DeepSeek) | 想要 Cursor 式 IDE 的预算用户 | [trae.ai](https://trae.ai) |
 | **ZCode**(智谱) | 活动免费额度 · 经 GLM Coding Plan 付费 | ✅ **新用户 5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额**——活动至 **2026-06-30** | 想用智谱官方 GLM IDE 的开发者 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **Zed** | 编辑器免费 · Pro 低价档 | 核心编辑器免费 · ✅ **学生认证后可得一年免费会员**,含每月约 $10 AI 模型额度 | 追求速度、本地优先、隐私友好 | [zed.dev](https://zed.dev) |

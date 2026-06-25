@@ -39,7 +39,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 
 | 工具 | 优惠 | 为什么值 |
 |------|------|----------|
-| **Cursor** ✅ *已验证* | 新账号经**任意邀请链接首月 5 折**——Pro 首月 **$10**,更高档位也有对应折扣。每个邀请链接有使用次数上限,直接搜一个新鲜的即可(如 Google "Cursor 邀请链接 / referral link") | 2026-06 用全新账号实测有效;体验 Pro 最便宜的方式 |
+| **Cursor** ✅ *已验证* | 新账号经**任意邀请链接首月 5 折**——Pro 首月 **$10**,更高档位也有对应折扣。每个邀请链接有使用次数上限,直接搜一个新鲜的即可(如 Google "Cursor 邀请链接 / referral link")。**支持支付宝**——记得取消自动续费。 | 2026-06 用全新账号实测有效;体验 Pro 最便宜的方式 |
 | **Freebuff / Codebuff** | **100% 免费** 广告版 CLI agent,无需 API key、无订阅 | 真·零成本入门;适合在自己仓库里试免费开源模型 |
 | **OpenCode** ✅ *已验证* | 经[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)双方各得 **$5 额度** | 叠加低价中文模型(Qwen/DeepSeek/GLM/Kimi)更香 |
 | **Devin Desktop** ✅ *已验证* | 新用户完成初始引导(连 Git)送 **$10 AI 额度**;Pro 及以上免费用 SWE 1.6 | 体验 Devin Cloud(委托出 PR 的云端 Agent)最便宜的方式 |
@@ -69,7 +69,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 
 | 工具 | 定价(2026-06) | 折扣 / 免费额度 | 适合 | 链接 |
 |------|----------------|------------------|------|------|
-| **Cursor** | Hobby 免费(有限)· Pro **$20/月(含 $20 用量)** · Pro+ **$60($70 用量)** · Ultra $200($400 用量)· Teams Standard $40/席(年付 $32)· Premium $120/席 | ✅ **新账号经任意邀请链接首月 5 折**(Pro 首月约 $10,更高档位同享)。链接有使用次数上限,搜一个新鲜的即可 · 年付约 8 折 · 用量按 API 价计,超出按量付费 | 重度用户;多模型 + 并行 Agent;社区最大 | [cursor.com](https://cursor.com) |
+| **Cursor** | Hobby 免费(有限)· Pro **$20/月(含 $20 用量)** · Pro+ **$60($70 用量)** · Ultra $200($400 用量)· Teams Standard $40/席(年付 $32)· Premium $120/席 | ✅ **新账号经任意邀请链接首月 5 折**(Pro 首月约 $10,更高档位同享;**支持支付宝**——记得取消自动续费,否则次月扣 $20)。链接有使用次数上限,搜一个新鲜的即可 · 年付约 8 折 · 💡 **Pro 省钱玩法:模型选 GLM-5.2 High,查看其调用记录免费、不消耗 $20 用量额度** | 重度用户;多模型 + 并行 Agent;社区最大 | [cursor.com](https://cursor.com) |
 | **Devin Desktop**(原 Windsurf) | 免费(轻量 quota、无限 Tab/补全)· Pro **$20/月** · Max $200/月 · Teams $80/月起 + $40/全席位 | ✅ **新用户完成初始引导(连接 Git)送 $10 AI 额度**;**Pro 及以上免费用 SWE 1.6**;⏳ **GLM-5.2 与 Kimi K2.7 对 Pro/Max/Teams 免费至 2026-07-05** | 把重活交给 Devin Cloud 自动出 PR | [devin.ai](https://devin.ai) |
 | **Google Antigravity** | 免费层 · 经 **Google AI Pro $19.99/月** · AI Plus $7.99 · AI Ultra **$99.99(5× Pro)** 与 **$200(20× Pro,原 $250 降价)** | 慷慨免费层;顶配 Ultra 由 $249.99 降至 $200(2026-05);$100 Ultra 奖励 credits 促销(已于 2026-05-25 结束);算力池每 5h 刷新至每周上限;Tab 补全免费 | 多 Agent 并行;内置浏览器;全栈 Web | [antigravity.google](https://antigravity.google) |
 | **Kiro**(AWS,规格驱动) | 免费 50 credits · Pro **$20/月(1000)** · Pro+ $40(2000)· **Pro Max $100(5000)** · Power $200(10000) | 年付折扣;超量 $0.04/credit · 倍率:Auto 1.0× · Sonnet 1.3× · **Opus 4.8 2.2×** · Haiku 0.4× · GLM-5 0.5× · **Qwen3 Coder Next 0.05×** | 规格驱动、可维护的生产级代码;AWS 团队 | [kiro.dev](https://kiro.dev) |

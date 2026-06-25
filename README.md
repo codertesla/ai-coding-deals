@@ -42,6 +42,7 @@ The highest-value offers worth grabbing today. (Verified 2026-06 — confirm on 
 | **Cursor** ✅ *verified* | **50% off your first month** for new accounts via *any* referral link — Pro for **$10** (first month), with matching discounts on higher tiers. Each referral link has a limited number of uses, so just search for a fresh one (e.g. Google "Cursor referral link"). | Confirmed working 2026-06 on a brand-new account; the cheapest way to try Pro |
 | **Freebuff / Codebuff** | **100% free** ad-supported CLI agent — no API key, no subscription | Genuinely $0 to start; good for trying free open models in your own repo |
 | **OpenCode** ✅ *verified* | **$5 free credit** for both parties via [referral link](https://opencode.ai/go?ref=J9E8732NMP) | Stacks well with cheap Chinese models (Qwen/DeepSeek/GLM/Kimi) |
+| **Devin Desktop** ✅ *verified* | New users get **$10 AI credit** for completing onboarding (connect Git); Pro+ get SWE 1.6 free | Cheapest way to try Devin Cloud (delegated PR-opening agent) |
 | **Zed** *(students)* ✅ | **Free 1-year membership** with ~$10/mo AI credits after student verification | Best free option if you're a verified student |
 | **ZCode** *(Zhipu)* ✅ | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 + GLM-5-turbo) — promo ends **2026-06-30** | Cheapest way to try the popular open **GLM-5.2** model |
 | **GitHub Copilot** | **$10/mo** Pro — lowest sticker price; **inline completions stay free** | Cheapest capable entry point even after usage-based billing ⚠️ *new sign-ups paused since 2026-06-01* |
@@ -69,7 +70,7 @@ Full IDEs with deep agent integration — the agent reads your project, edits ac
 | Tool | Pricing (2026-06) | Discounts / free credits | Best for | Link |
 |------|-------------------|--------------------------|----------|------|
 | **Cursor** | Hobby: free · Pro: **$20/mo** · Ultra: $200/mo · Teams: $32/seat/mo (annual) | ✅ **New accounts: 50% off first month via any referral link** (Pro ≈ $10 first month, higher tiers too). Links have limited uses — search for a fresh one. · Annual billing ~20% off | Power users; multi-model + parallel agents; largest community | [cursor.com](https://cursor.com) |
-| **Devin Desktop** *(formerly Windsurf)* | Light free quota · Pro: **$20/mo** · Max: $200/mo · Teams: $40/user/mo | Annual billing discount | Delegating heavy work to a cloud agent (Devin Cloud) that opens PRs | [devin.ai](https://devin.ai) |
+| **Devin Desktop** *(formerly Windsurf)* | Free (light quota, unlimited Tab/inline) · Pro: **$20/mo** · Max: $200/mo · Teams: $80/mo base + $40/full seat | ✅ **New users: $10 AI credit** for completing onboarding (connect Git); **Pro+ free SWE 1.6**; ⏳ **GLM-5.2 & Kimi K2.7 free on Pro/Max/Teams until 2026-07-05** | Delegating heavy work to Devin Cloud that opens PRs | [devin.ai](https://devin.ai) |
 | **Google Antigravity** | Free tier (credit caps) · via **Google AI Pro $19.99/mo** · AI Ultra $99.99–$200/mo | Generous free tier; AI Ultra top tier cut from $249.99→$200 (May 2026) | Multi-agent parallel workflows; built-in browser; full-stack web | [antigravity.google](https://antigravity.google) |
 | **Kiro** *(AWS, spec-driven)* | Free: 50 credits · Pro: **$20/mo** (1,000) · Pro+: $40/mo · Power: $200/mo | Annual billing discount; $0.04/credit overage | Spec-driven, maintainable production code; AWS-centric teams | [kiro.dev](https://kiro.dev) |
 | **Trae** *(ByteDance)* | Free tier (5K autocompletions/mo, 2 concurrent) · Lite **$3** · Pro **$10** (7-day trial) · Pro+ $30 · Ultra $100 | ✅ **China version (trae.cn) is fully free** for individuals (Doubao/DeepSeek) | Budget users wanting a Cursor-style IDE | [trae.ai](https://trae.ai) |
@@ -121,6 +122,7 @@ Active discounts with a deadline — grab them before they expire. **Verify on t
 
 | Tool | Promo | Expires | Notes |
 |------|-------|---------|-------|
+| **Devin Desktop** | **GLM-5.2 & Kimi K2.7 free** on Pro / Max / Teams (frontier-tier open models: GLM-5.2 43.0% & Kimi K2.7 39.5% on FrontierCode Extended, vs GPT-5.5 44.8% / Opus 4.8 51.8%) | **2026-07-05** | [devin.ai](https://devin.ai); also: new users get **$10 AI credit** for completing onboarding (connect Git) |
 | **ZCode** *(Zhipu)* | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** | **2026-06-30** | Best free way to try open **GLM-5.2**; [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 
 > Expired promos are removed from this section but the tool stays in its regular category above with updated info.

@@ -42,6 +42,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Cursor** ✅ *已验证* | 新账号经**任意邀请链接首月 5 折**——Pro 首月 **$10**,更高档位也有对应折扣。每个邀请链接有使用次数上限,直接搜一个新鲜的即可(如 Google "Cursor 邀请链接 / referral link") | 2026-06 用全新账号实测有效;体验 Pro 最便宜的方式 |
 | **Freebuff / Codebuff** | **100% 免费** 广告版 CLI agent,无需 API key、无订阅 | 真·零成本入门;适合在自己仓库里试免费开源模型 |
 | **OpenCode** ✅ *已验证* | 经[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)双方各得 **$5 额度** | 叠加低价中文模型(Qwen/DeepSeek/GLM/Kimi)更香 |
+| **Devin Desktop** ✅ *已验证* | 新用户完成初始引导(连 Git)送 **$10 AI 额度**;Pro 及以上免费用 SWE 1.6 | 体验 Devin Cloud(委托出 PR 的云端 Agent)最便宜的方式 |
 | **Zed**(学生)✅ | 通过学生认证可得 **一年免费会员**,每月约 $10 AI 额度 | 学生党最佳免费选项 |
 | **ZCode**(智谱)✅ | 新用户 **5 天免费,每日 500 万 Token**(GLM-5.2 + GLM-5-turbo)——活动至 **2026-06-30** | 零成本体验当下热门开源模型 **GLM-5.2** |
 | **GitHub Copilot** | **$10/月** Pro,sticker price 最低;**行内补全永久免费** | 即便改为按量计费仍是最便宜的能打选项 ⚠️ *2026-06-01 起新注册暂停* |
@@ -69,7 +70,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | 工具 | 定价(2026-06) | 折扣 / 免费额度 | 适合 | 链接 |
 |------|----------------|------------------|------|------|
 | **Cursor** | Hobby 免费 · Pro **$20/月** · Ultra $200/月 · Teams $32/席/月(年付) | ✅ **新账号经任意邀请链接首月 5 折**(Pro 首月约 $10,更高档位同享)。链接有使用次数上限,搜一个新鲜的即可 · 年付约 8 折 | 重度用户;多模型 + 并行 Agent;社区最大 | [cursor.com](https://cursor.com) |
-| **Devin Desktop**(原 Windsurf) | 少量免费额度 · Pro **$20/月** · Max $200/月 · Teams $40/人/月 | 年付折扣 | 把重活交给云端 Agent(Devin Cloud)自动出 PR | [devin.ai](https://devin.ai) |
+| **Devin Desktop**(原 Windsurf) | 免费(轻量 quota、无限 Tab/补全)· Pro **$20/月** · Max $200/月 · Teams $80/月起 + $40/全席位 | ✅ **新用户完成初始引导(连接 Git)送 $10 AI 额度**;**Pro 及以上免费用 SWE 1.6**;⏳ **GLM-5.2 与 Kimi K2.7 对 Pro/Max/Teams 免费至 2026-07-05** | 把重活交给 Devin Cloud 自动出 PR | [devin.ai](https://devin.ai) |
 | **Google Antigravity** | 免费层(有额度上限)· 经 **Google AI Pro $19.99/月** · AI Ultra $99.99–$200/月 | 慷慨免费层;顶配 Ultra 由 $249.99 降至 $200(2026-05) | 多 Agent 并行;内置浏览器;全栈 Web | [antigravity.google](https://antigravity.google) |
 | **Kiro**(AWS,规格驱动) | 免费 50 credits · Pro **$20/月**(1000)· Pro+ $40/月 · Power $200/月 | 年付折扣;超量 $0.04/credit | 规格驱动、可维护的生产级代码;AWS 团队 | [kiro.dev](https://kiro.dev) |
 | **Trae**(字节跳动) | 免费层(5000 补全/月,2 并发)· Lite **$3** · Pro **$10**(7 天试用)· Pro+ $30 · Ultra $100 | ✅ **国内版 trae.cn 个人完全免费**(用豆包/DeepSeek) | 想要 Cursor 式 IDE 的预算用户 | [trae.ai](https://trae.ai) |
@@ -121,6 +122,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 
 | 工具 | 优惠 | 截止 | 说明 |
 |------|------|------|------|
+| **Devin Desktop** | **GLM-5.2 与 Kimi K2.7 对 Pro/Max/Teams 免费**(前沿开源模型:GLM-5.2 43.0%、Kimi K2.7 39.5% FrontierCode Extended,对比 GPT-5.5 44.8% / Opus 4.8 51.8%) | **2026-07-05** | [devin.ai](https://devin.ai);另:新用户完成初始引导(连 Git)送 **$10 AI 额度** |
 | **ZCode**(智谱) | 新用户 **5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额** | **2026-06-30** | 零成本体验开源 **GLM-5.2**;[zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 
 > 过期的优惠会从本节移除,工具仍保留在上方对应分类里,并更新为常规信息。

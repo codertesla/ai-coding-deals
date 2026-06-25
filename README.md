@@ -35,7 +35,7 @@ AI coding tools change pricing *fast*. This repo tracks the **free tiers, discou
 
 ## 🔥 Best deals right now
 
-The highest-value offers worth grabbing today. (Verified 2026-06 — confirm on the official page.)
+Most worth grabbing right now. (Verified 2026-06 — confirm on the official page before paying.)
 
 | Tool | The deal | Why it's worth it |
 |------|----------|-------------------|
@@ -47,7 +47,7 @@ The highest-value offers worth grabbing today. (Verified 2026-06 — confirm on 
 | **ZCode** *(Zhipu)* ✅ | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 + GLM-5-turbo) — promo ends **2026-06-30** | Cheapest way to try the popular open **GLM-5.2** model |
 | **GitHub Copilot** | **$10/mo** Pro — lowest sticker price; **inline completions stay free** | Cheapest capable entry point even after usage-based billing ⚠️ *new sign-ups paused since 2026-06-01* |
 | **OpenAI Codex** | **Free with ChatGPT Free** — Web + CLI + **desktop app (macOS/Windows)**, no card | $0 entry; the desktop app is the best surface |
-| **Google Antigravity / Gemini** | Generous **free tier**; AI Pro just **$19.99/mo** | Cheapest path to a multi-agent IDE + fast Gemini models |
+| **Google Antigravity / Gemini** | Generous **free tier**; AI Pro just **$19.99/mo** | Cheapest way into a multi-agent IDE + fast Gemini models |
 | **Annual billing (most tools)** | Save **~15–20%** by paying yearly | E.g. Cursor Pro $240→$192/yr, Copilot Pro $120→$100/yr |
 
 > Have a referral link or active promo? Add it via PR — see [Contributing](#-contributing).
@@ -97,7 +97,7 @@ Plug into your existing editor (VS Code / JetBrains) for completions, chat, and 
 
 ### ⚠️ No longer free / enterprise-only
 
-These tools used to be popular free options but have gone enterprise-only. We keep them here to **correct outdated "free tier" info** you'll see in older articles — they offer **no deal for individuals now**.
+These used to be popular free picks. They've since gone enterprise-only — free tiers and individual plans were discontinued. We leave them in so you don't get misled by older articles still listing them as free.
 
 | Tool | Status | What happened | For individuals, use instead |
 |------|--------|---------------|------------------------------|
@@ -135,7 +135,7 @@ Active discounts with a deadline — grab them before they expire. **Verify on t
 
 ## 🎓 Student deals
 
-If you can verify student / `.edu` status, several tools are **free or heavily discounted** — often the best value out there. Always confirm current terms and eligible countries on each vendor's page.
+If you have student / `.edu` status, several tools are **free or discounted** — sometimes a much better deal than paying full price. Check each vendor's page for current terms and eligible countries.
 
 | Tool | Student offer | How to get it |
 |------|---------------|---------------|
@@ -180,7 +180,7 @@ This repo is only as good as it is *accurate and current*. Contributions very we
 
 ## 📚 Sources
 
-Pricing and product info is compiled from official vendor pricing pages, changelogs, and reputable 2026 comparisons, verified as of **2026-06**. Each tool links to its official site above. Because this space moves fast, **always confirm current pricing on the vendor's page before paying.**
+Pricing and product info comes from each vendor's official pricing page and changelog, plus some 2026 comparison write-ups, verified as of **2026-06**. Each tool links to its official site above. This space moves fast, so **confirm current pricing on the vendor's page before paying.**
 
 ---
 

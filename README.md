@@ -1,6 +1,6 @@
-# AI Coding Deals 💰
+# AI Coding Cost Optimization & Selection Guide 💰
 
-> The money-saving guide to AI coding tools — free tiers, new-user discounts, referral credits, and open-source alternatives, all in one place.
+> A comprehensive guide to AI coding tool selection and cost optimization — tracking free tiers, commercial discounts, referral credits, and open-source alternatives in one place.
 
 **[English](README.md) · [简体中文](README.zh-CN.md)**
 
@@ -13,175 +13,175 @@
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-orange)](CONTRIBUTING.md)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-AI coding tools change pricing *fast*. This repo tracks the **free tiers, discounts, referral credits, and the cheapest ways to run each tool** so you don't overpay. Maintained by the community, verified against vendor pages.
+AI coding tool pricing and quotas evolve rapidly. This repository tracks **free tiers, commercial discounts, referral credits, and highly cost-effective deployment strategies** to help developers and technical teams optimize their AI spend. Maintained by the community and verified against official vendor documentation.
 
 > [!IMPORTANT]
-> **Disclaimer:** All info is gathered from public sources and may be out of date — **always confirm on the vendor's official page before paying.** Spot something wrong or outdated? [Open an issue](../../issues/new/choose) or send a PR. **Last full review: 2026-06.**
+> **Disclaimer:** All information is aggregated from public sources and is subject to change. **Always verify pricing, quotas, and terms on the vendor's official website before making purchasing decisions.** Spot an error or outdated entry? Please [open an issue](../../issues/new/choose) or submit a Pull Request. **Last comprehensive verification: June 2026.**
 
 ## 📑 Contents
 
-- [🔥 Best deals right now](#-best-deals-right-now)
-- [💵 Cheapest ways to code with AI for $0](#-cheapest-ways-to-code-with-ai-for-0)
-- [🏗️ Agentic IDEs](#️-agentic-ides)
-- [🧩 Assistants & IDE extensions](#-assistants--ide-extensions)
-  - [⚠️ No longer free / enterprise-only](#️-no-longer-free--enterprise-only)
-- [⌨️ CLI / terminal agents](#️-cli--terminal-agents)
-- [⏳ Time-limited promos](#-time-limited-promos)
-- [🎓 Student deals](#-student-deals)
-- [🎯 Which one should I pick?](#-which-one-should-i-pick)
-- [💡 Money-saving tips](#-money-saving-tips)
+- [🔥 Featured Deals & Cost-Savers](#-featured-deals--cost-savers)
+- [💵 Zero-Budget AI Coding Strategies](#-zero-budget-ai-coding-strategies)
+- [🏗️ Agentic IDEs (AI-Native Integrated Development Environments)](#️-agentic-ides-ai-native-integrated-development-environments)
+- [🧩 Assistants & IDE Extensions](#-assistants--ide-extensions)
+  - [⚠️ Legacy Free Tier Changes (Enterprise Transition)](#️-legacy-free-tier-changes-enterprise-transition)
+- [⌨️ CLI & Terminal Agents](#️-cli--terminal-agents)
+- [⏳ Time-Limited Promos](#-time-limited-promos)
+- [🎓 Academic & Student Benefits](#-academic--student-benefits)
+- [🎯 Decision Matrix & Scenario-Based Recommendations](#-decision-matrix--scenario-based-recommendations)
+- [💡 Strategic Cost-Optimization Advice](#-strategic-cost-optimization-advice)
 - [🤝 Contributing](#-contributing)
 - [📚 Sources](#-sources)
 
-## 🔥 Best deals right now
+## 🔥 Featured Deals & Cost-Savers
 
-Most worth grabbing right now. (Verified 2026-06 — confirm on the official page before paying.)
+High-value promotions and cost-saving opportunities currently active. (Verified June 2026 — please confirm on the official vendor page before purchasing.)
 
 | Tool | The deal | Why it's worth it |
 |------|----------|-------------------|
-| **Cursor** ✅ *verified* | **50% off your first month** for new accounts via *any* referral link — Pro for **$10** (first month), with matching discounts on higher tiers. Each referral link has a limited number of uses, so just search for a fresh one (e.g. Google "Cursor referral link"). **Alipay accepted** — remember to cancel auto-renew. | Confirmed working 2026-06 on a brand-new account; the cheapest way to try Pro |
-| **Freebuff / Codebuff** | **100% free** ad-supported CLI agent — no API key, no subscription | Genuinely $0 to start; good for trying free open models in your own repo |
-| **OpenCode** ✅ *verified* | **$5 free credit** for both parties via [referral link](https://opencode.ai/go?ref=J9E8732NMP) | Stacks well with cheap Chinese models (Qwen/DeepSeek/GLM/Kimi) |
-| **Devin Desktop** ✅ *verified* | New users get **$10 AI credit** for completing onboarding (connect Git); Pro+ get SWE 1.6 free | Cheapest way to try Devin Cloud (delegated PR-opening agent) |
-| **Zed** *(students)* ✅ | **Free 1-year membership** with ~$10/mo AI credits after student verification | Best free option if you're a verified student |
-| **ZCode** *(Zhipu)* ✅ | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 + GLM-5-turbo) — promo ends **2026-06-30** | Cheapest way to try the popular open **GLM-5.2** model |
-| **GitHub Copilot** | **$10/mo** Pro — lowest sticker price; **inline completions stay free** | Cheapest capable entry point even after usage-based billing ⚠️ *new sign-ups paused since 2026-06-01* |
-| **OpenAI Codex** | **Free with ChatGPT Free** — Web + CLI + **desktop app (macOS/Windows)**, no card | $0 entry; the desktop app is the best surface |
-| **Google Antigravity / Gemini** | Generous **free tier**; AI Pro just **$19.99/mo** | Cheapest way into a multi-agent IDE + fast Gemini models |
-| **Annual billing (most tools)** | Save **~15–20%** by paying yearly | E.g. Cursor Pro $240→$192/yr, Copilot Pro $120→$100/yr |
+| **Cursor** ✅ *verified* | **50% off your first month** for new accounts via any referral link — Pro for **$10** (first month), with proportional discounts on higher tiers. Referral links have usage limits; search for a fresh link (e.g., search "Cursor referral link"). **Alipay accepted** — remember to cancel auto-renew if you do not plan to continue. | Verified June 2026 on a new account; the lowest-cost entry point to evaluate Pro features |
+| **Freebuff / Codebuff** | **100% free** ad-supported CLI agent — requires no API key or subscription | Genuinely $0 to start; ideal for evaluating free open-source models in local repositories |
+| **OpenCode** ✅ *verified* | **$5 free credit** for both parties when signing up via [referral link](https://opencode.ai/go?ref=J9E8732NMP) | Highly cost-effective when paired with low-cost regional models (e.g., Qwen, DeepSeek, GLM, Kimi) |
+| **Devin Desktop** ✅ *verified* | New users receive **$10 AI credit** upon completing onboarding (connecting a Git repository); Pro and above tiers include free access to the SWE 1.6 model | The lowest-cost path to evaluate Devin Cloud (autonomous PR-creation agent) |
+| **Zed** *(students)* ✅ | **Free 1-year membership** including ~$10/month in AI model credits upon academic verification | The premier free option for verified students and academic developers |
+| **ZCode** *(Zhipu)* ✅ | New users receive a **5-day free trial with 5M free tokens/day** (GLM-5.2 and GLM-5-turbo allocation) — promotion active through **2026-06-30** | The most accessible way to evaluate the capabilities of the open **GLM-5.2** model |
+| **GitHub Copilot** | **$10/month** Pro tier — lowest nominal subscription price; **inline completions remain free** | Highly cost-effective baseline option even with usage-based metrics ⚠️ *New sign-ups paused since 2026-06-01* |
+| **OpenAI Codex** | **Included in ChatGPT Free** — accessible via Web, CLI, and **desktop applications (macOS/Windows)** with no credit card required | Zero-budget entry point; utilizing the official desktop application provides the optimal workflow |
+| **Google Antigravity / Gemini** | Generous **free tier**; AI Pro subscription available at **$19.99/month** | Cost-effective entry point for evaluating multi-agent workflows and high-speed Gemini models |
+| **Annual Billing (General)** | Save **~15%–20%** on most subscription-based tools by choosing annual payment | E.g., Cursor Pro reduced from $240 to $192/year; Copilot Pro reduced from $120 to $100/year |
 
-> Have a referral link or active promo? Add it via PR — see [Contributing](#-contributing).
+> Have an active referral link or a new promotion to share? Please submit a Pull Request — see [Contributing](#-contributing).
 
-## 💵 Cheapest ways to code with AI for $0
+## 💵 Zero-Budget AI Coding Strategies
 
-You can do serious AI-assisted development without paying a cent:
+High-quality AI-assisted development is entirely feasible without direct software budget allocation:
 
-- **Fully free, no API key:** [Freebuff](https://www.codebuff.com) (CLI, ad-supported) — `npm install -g freebuff`
-- **Open source, bring-your-own-key or local model (Ollama = $0):** [Aider](https://aider.chat), [Continue.dev](https://www.continue.dev), [Cline](https://cline.bot), [OpenCode](https://opencode.ai)
-- **Bundled with a subscription you may already have:** [OpenAI Codex](https://openai.com/codex) (ChatGPT Plus), [GitHub Copilot Free](https://github.com/features/copilot) (limited)
-- **Generous vendor free tiers:** [Google Gemini / Antigravity](https://antigravity.google), [Cursor Hobby](https://cursor.com)
+- **Fully Free & No API Key Required:** [Freebuff](https://www.codebuff.com) (CLI tool, ad-supported mode) — installed via `npm install -g freebuff`.
+- **Open-Source Self-Hosted (Bring-Your-Own-Key or Local Models, e.g., Ollama = $0):** [Aider](https://aider.chat), [Continue.dev](https://www.continue.dev), [Cline](https://cline.bot), [OpenCode](https://opencode.ai).
+- **Leveraging Existing Subscriptions:** [OpenAI Codex](https://openai.com/codex) (included with ChatGPT Plus), [GitHub Copilot Free](https://github.com/features/copilot) (limited baseline quota).
+- **Generous Vendor Free Tiers:** [Google Gemini / Antigravity](https://antigravity.google), [Cursor Hobby](https://cursor.com).
 
-💡 **Tip for China-based users:** Open-source CLIs (Aider / OpenCode / Cline / Continue) let you plug in low-cost Chinese models — **Qwen, DeepSeek, GLM, Kimi, MiniMax** — for near-zero cost.
+💡 **Deployment Tip for Regional Developers:** Utilizing open-source CLI agents or extensions (such as Aider, OpenCode, Cline, or Continue) allows you to integrate highly cost-effective regional APIs (e.g., **Qwen, DeepSeek, GLM, Kimi, MiniMax**), reducing ongoing operational costs to near-zero.
 
-## 🏗️ Agentic IDEs
+## 🏗️ Agentic IDEs (AI-Native Integrated Development Environments)
 
-Full IDEs with deep agent integration — the agent reads your project, edits across files, and runs in your environment.
+Complete integrated development environments featuring deep agentic workflows — allowing the AI agent to understand global project context, perform cross-file edits, and execute or debug code in local or sandboxed environments.
 
 | Tool | Pricing (2026-06) | Discounts / free credits | Best for | Link |
 |------|-------------------|--------------------------|----------|------|
-| **Cursor** | Hobby: free (limited) · Pro: **$20/mo ($20 usage)** · Pro+: **$60 ($70 usage)** · Ultra: $200 ($400 usage) · Teams Standard $40/seat (annual $32) · Premium $120/seat | ✅ **New accounts: 50% off first month via any referral link** (Pro ≈ $10 first month, higher tiers too; **Alipay accepted** — remember to cancel auto-renew to avoid the $20 second month). Links have limited uses — search for a fresh one. · Annual ~20% off · 💡 **Pro power-user trick: select the GLM-5.2 High model — viewing its call logs is free and doesn't draw down your $20 usage budget** | Power users; multi-model + parallel agents; largest community | [cursor.com](https://cursor.com) |
-| **Devin Desktop** *(formerly Windsurf)* | Free (light quota, unlimited Tab/inline) · Pro: **$20/mo** · Max: $200/mo · Teams: $80/mo base + $40/full seat | ✅ **New users: $10 AI credit** for completing onboarding (connect Git); **Pro+ free SWE 1.6**; ⏳ **GLM-5.2 & Kimi K2.7 free on Pro/Max/Teams until 2026-07-05** | Delegating heavy work to Devin Cloud that opens PRs | [devin.ai](https://devin.ai) |
-| **Google Antigravity** | Free tier · via **Google AI Pro $19.99/mo** · AI Plus $7.99 · AI Ultra **$99.99 (5× Pro)** & **$200 (20× Pro, down from $250)** | Generous free tier; top Ultra cut from $249.99→$200 (May 2026); $100 Ultra bonus credits promo (expired 2026-05-25); compute-pool resets every 5h up to a weekly cap; Tab completion free | Multi-agent parallel workflows; built-in browser; full-stack web | [antigravity.google](https://antigravity.google) |
-| **Kiro** *(AWS, spec-driven)* | Free: 50 credits · Pro: **$20/mo (1,000)** · Pro+: $40 (2,000) · **Pro Max: $100 (5,000)** · Power: $200 (10,000) | Annual billing discount; $0.04/credit overage · multipliers: Auto 1.0× · Sonnet 1.3× · **Opus 4.8 2.2×** · Haiku 0.4× · GLM-5 0.5× · **Qwen3 Coder Next 0.05×** | Spec-driven, maintainable production code; AWS-centric teams | [kiro.dev](https://kiro.dev) |
-| **Trae** *(ByteDance)* | Free tier (5K autocompletions/mo, 2 concurrent) · Lite **$3** · Pro **$10** (7-day trial) · Pro+ $30 · Ultra $100 | ✅ **China version (trae.cn) is fully free** for individuals (Doubao/DeepSeek) | Budget users wanting a Cursor-style IDE | [trae.ai](https://trae.ai) |
-| **ZCode** *(Zhipu)* | Free promo credits · paid via GLM Coding Plan | ✅ **New users: 5-day free, 5M tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** — promo through **2026-06-30** | China-based devs wanting an official GLM IDE | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
-| **CodeBuddy** *(Tencent, intl)* | Free (250 credits / 2 weeks) · Pro **$9.95/mo** (promo, was $19.90) / $119.40/yr (1000 credits/mo) · Team $40/seat/mo | Free 250 credits/2wk; add-on packs from $9.95/1k credits | Global users; Tencent Cloud's coding assistant | [codebuddy.ai](https://www.codebuddy.ai/) |
-| **CodeBuddy** *(腾讯, 国内)* | 体验版 **free: 500 credits/mo** (rate-limited chat) · 专业版 ¥58/mo (2,000 credits) · 旗舰版 ¥198 · 专享版 ¥316 | Free 500 credits/mo; ⚠️ subscription changes take effect **2026-07-01** | China-based devs on Tencent Cloud | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
-| **Qoder CN** *(原通义灵码, 阿里)* | 个人社区版 **free** (limited, 2-wk Pro trial + 300 credits) · 个人专业版 ¥59/mo (2,000 credits) · 企业版 ¥99/¥199/seat | ⚠️ **Renamed + repriced 2026-05-20**; free tier meaningfully weakened (limited completions + quotas); old unlimited-free era ended | China-based devs on Alibaba Cloud; multi-model (Qwen/GLM/Kimi) | [cn.aliyun.com/product/lingma](https://cn.aliyun.com/product/lingma) |
-| **Zed** | Free editor · Pro low-cost tier | Core editor free · ✅ **Students: free 1-year membership incl. ~$10/mo AI model credits** (with student verification) | Speed + local-first, privacy-friendly editing | [zed.dev](https://zed.dev) |
+| **Cursor** | Hobby: Free (limited)<br>Pro: **$20/mo (includes $20 quota)**<br>Pro+: **$60 (includes $70 quota)**<br>Ultra: $200 (includes $400 quota)<br>Teams Standard: $40/seat (annual $32)<br>Premium: $120/seat | ✅ **New accounts receive 50% off the first month via any referral link** (Pro tier ≈ $10 first month; higher tiers eligible; **Alipay accepted** — remember to cancel auto-renew to avoid the standard $20 billing in the second month). Referral links have usage caps; search for active links.<br>· Annual plans offer ~20% savings.<br>· 💡 **Pro Advanced Tip: Selecting the GLM-5.2 High model and viewing its call logs is free, which does not draw down your $20 base usage budget.** | Power users; multi-model flexibility and parallel agentic workflows; largest developer community | [cursor.com](https://cursor.com) |
+| **Devin Desktop**（formerly Windsurf） | Free (light quota, unlimited Tab completions)<br>Pro: **$20/mo**<br>Max: $200/mo<br>Teams: $80/mo base + $40/full seat | ✅ **New users receive $10 AI credit** upon completing onboarding (connecting a Git repository); Pro and above tiers include free access to the SWE 1.6 model;<br>⏳ **Limited-Time Promo: GLM-5.2 and Kimi K2.7 models are free for Pro/Max/Teams users until 2026-07-05** | Delegating complex, long-running engineering tasks to Devin Cloud for automated PR creation | [devin.ai](https://devin.ai) |
+| **Google Antigravity** | Free tier available<br>or via **Google AI Pro ($19.99/mo)**<br>AI Plus: $7.99/mo<br>AI Ultra: **$99.99** / **$200 (reduced from $250)** | Includes a generous free tier; top-tier Ultra pricing reduced from $249.99 to $200 in May 2026; compute pools reset every 5 hours (subject to a weekly cap); inline Tab completion is entirely free. | Multi-agent parallel workflows, built-in browser interaction, and full-stack web development | [antigravity.google](https://antigravity.google) |
+| **Kiro**（AWS, spec-driven） | Free: 50 credits<br>Pro: **$20/mo (includes 1,000 credits)**<br>Pro+: $40 (includes 2,000 credits）<br>Pro Max: **$100 (includes 5,000 credits)**<br>Power: $200 (includes 10,000 credits) | Annual billing discounts available; overage billed at $0.04/credit.<br>· Model consumption multipliers: Auto 1.0×, Sonnet 1.3×, **Opus 4.8 2.2×**, Haiku 0.4×, GLM-5 0.5×, **Qwen3 Coder Next 0.05×** | Spec-driven development emphasizing highly maintainable production-grade code; AWS-centric engineering teams | [kiro.dev](https://kiro.dev) |
+| **Trae**（ByteDance） | Free tier (5K autocompletions/month, 2 concurrent tasks)<br>Lite: **$3/mo**<br>Pro: **$10/mo** (includes 7-day trial)<br>Pro+: $30/mo<br>Ultra: $100/mo | ✅ **The regional version (trae.cn) is completely free** for individual developers (utilizing Doubao and DeepSeek models) | Budget-conscious developers seeking a Cursor-like user experience | [trae.ai](https://trae.ai) |
+| **ZCode**（Zhipu） | Promotional free credits<br>or paid via GLM Coding Plan | ✅ **New users receive a 5-day free trial with 5M tokens/day** (GLM-5.2 3M and GLM-5-turbo 2M allocation); GLM Coding Plan subscribers receive a **1.5× quota multiplier** — active through **2026-06-30** | Developers seeking an official, deeply integrated IDE for the GLM model ecosystem | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+| **CodeBuddy**（Tencent, international） | Free: 250 credits / 2 weeks<br>Pro: **$9.95/mo** (promo price, originally $19.90) or $119.40/year (1,000 credits/month)<br>Team: $40/seat/month | Provides 250 credits per 2 weeks; additional credit packs start at $9.95 per 1,000 credits | Global developers; standardized coding assistance within the Tencent Cloud ecosystem | [codebuddy.ai](https://www.codebuddy.ai/) |
+| **CodeBuddy**（Tencent, regional） | Trial: **Free (500 credits/month)** (rate-limited chat)<br>Professional: ¥58/month (2,000 credits)<br>Flagship: ¥198/month<br>Exclusive: ¥316/month | Provides 500 credits/month free; ⚠️ subscription restructuring takes effect **2026-07-01** | Regional developers operating primarily within the Tencent Cloud ecosystem | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
+| **Qoder CN**（formerly Tongyi Lingma, Alibaba） | Community: **Free** (restricted quota, includes 2-week Pro trial and 300 credits)<br>Professional: ¥59/month (2,000 credits)<br>Enterprise: ¥99 or ¥199/seat/month | ⚠️ **Rebranded and repriced on 2026-05-20**; the free tier has been significantly restricted (limited completions and quotas), ending the previous unlimited-free era | Developers within the Alibaba Cloud ecosystem requiring flexible switching between regional models (Qwen, GLM, Kimi) | [cn.aliyun.com/product/lingma](https://cn.aliyun.com/product/lingma) |
+| **Zed** | Editor core features free<br>Low-cost Pro subscription tier available | Core editor is open-source and free;<br>✅ **Verified students receive a free 1-year membership** including ~$10/month in AI model credits | Developers prioritizing extreme speed, local-first workflows, and strong privacy compliance | [zed.dev](https://zed.dev) |
 
-## 🧩 Assistants & IDE extensions
+## 🧩 Assistants & IDE Extensions
 
-Plug into your existing editor (VS Code / JetBrains) for completions, chat, and agent modes.
+Integrate seamlessly into your existing editor (such as VS Code or JetBrains) to provide inline code completions, interactive chat, and autonomous agent modes.
 
 | Tool | Pricing (2026-06) | Discounts / free | Best for | Link |
 |------|-------------------|------------------|----------|------|
-| **GitHub Copilot** | Free (2000 completions/mo) · Pro **$10/mo = 1,500 AI credits** · Pro+ $39 = 7,000 · Max $100 = 20,000 · Business $19/user · Enterprise $39/user | ⚠️ **New sign-ups for Pro/Pro+/Max paused since 2026-06-01** (Max = upgrade only for existing users). 1 credit = $0.01; **inline completions & Next Edit stay free**. Students get Copilot Pro free (see Student deals). | GitHub-centric teams; safest enterprise pick | [github.com/features/copilot](https://github.com/features/copilot) |
-| **Continue.dev** | Core **free** (BYOK or local Ollama = $0) · Team ~$20/seat/mo | Fully free to self-host | Privacy & cost control; any model | [continue.dev](https://www.continue.dev) |
-| **Cline** | **Free, open source** (BYOK / local model) | $0 with your own key | Autonomous VS Code agent on a budget | [cline.bot](https://cline.bot) |
-| **Roo Code** | **Free, open source** (BYOK) | $0 with your own key | Cline fork with extra agent modes | [roocode.com](https://roocode.com) |
-| **Augment Code** | Free Community (limited) · Trial 30K credits (needs card) · Business **$100/mo flat** (up to 50 seats, $100 usage incl.) · Enterprise custom | 30K-credit trial; flat Business pricing (no per-seat up to 50) | Large codebases needing deep context | [augmentcode.com](https://www.augmentcode.com) |
-| **Amazon Q Developer** | **Free forever** (50 agentic requests/mo + 1,000 LOC transform/mo) · Pro **$19/user/mo** | Generous perpetual free tier (IDE + CLI); no card | AWS-centric teams; Java/.NET modernization | [aws.amazon.com/q/developer](https://aws.amazon.com/q/developer/) |
-| **Supermaven** | **Free** (fast completions, large codebases) · Pro **$10/mo** (1M context + style adaptation + $5 chat credits) · Team $10/seat | Robust free tier; 30-day Pro trial | Speed-obsessed devs wanting the fastest completions | [supermaven.com](https://supermaven.com) |
-| **Qodo** *(原 CodiumAI)* | **Free Developer** (30 PR reviews/mo/org + 250 IDE/CLI credits) · Teams $30/user/mo (annual) / $38 (monthly) | Genuinely useful free tier for PR review + test gen | Test generation + PR review focus | [qodo.ai](https://www.qodo.ai) |
+| **GitHub Copilot** | Free (2,000 completions/month)<br>Pro: **$10/mo (includes 1,500 AI credits)**<br>Pro+: $39/mo (includes 7,000 credits)<br>Max: $100/mo (includes 20,000 credits)<br>Business: $19/user/month<br>Enterprise: $39/user/month | ⚠️ **New sign-ups for Pro/Pro+/Max paused since 2026-06-01** (Max is upgrade-only for existing users). 1 credit equals $0.01; **inline completions and Next Edit features remain free**. Students can access Copilot Pro for free (see Academic & Student Benefits). | GitHub-centric workflows; the standard choice for enterprise-grade compliance | [github.com/features/copilot](https://github.com/features/copilot) |
+| **Continue.dev** | Core features **completely free** (supports BYOK or local Ollama deployments)<br>Team: ~$20/seat/month | Completely open-source and free to self-host | Teams prioritizing strict privacy compliance, cost control, and custom model integration | [continue.dev](https://www.continue.dev) |
+| **Cline** | **Free and open-source** (supports custom API keys or local models) | $0 software cost when paired with your own API key for pay-as-you-go billing | Developers seeking a highly autonomous VS Code agent with minimal fixed costs | [cline.bot](https://cline.bot) |
+| **Roo Code** | **Free and open-source** (supports custom API keys) | $0 software cost when paired with your own API key for pay-as-you-go billing | Developers preferring the Cline architecture but requiring additional specialized agent modes | [roocode.com](https://roocode.com) |
+| **Augment Code** | Free Community tier (restricted)<br>Trial: 30K credits (requires credit card)<br>Business: **$100/month flat rate** (covers up to 50 seats, includes $100 usage)<br>Enterprise: Custom pricing | Provides a 30K-credit trial; flat-rate Business pricing (no per-seat fees up to 50 seats) | Teams working with large, complex codebases requiring deep, global context | [augmentcode.com](https://www.augmentcode.com) |
+| **Amazon Q Developer** | **Perpetual free tier** (includes 50 agentic requests/month and 1,000 lines of code transformation/month)<br>Pro: **$19/user/month** | Generous free tier covering both IDE and CLI with no credit card required | AWS-centric engineering teams; ideal for Java and .NET legacy codebase modernization | [aws.amazon.com/q/developer](https://aws.amazon.com/q/developer/) |
+| **Supermaven** | Free tier (high-speed completions, supports large repositories)<br>Pro: **$10/month** (includes 1M context window, coding style adaptation, and $5 chat credits)<br>Team: $10/seat/month | Highly capable free tier; Pro plan offers a 30-day trial | Developers prioritizing near-zero latency and high-speed autocomplete performance | [supermaven.com](https://supermaven.com) |
+| **Qodo**（formerly CodiumAI） | Free Developer tier (includes 30 organization-level PR reviews/month and 250 IDE/CLI credits)<br>Teams: $30/user/month (annual) or $38/user/month (monthly) | Highly practical free tier focusing on automated PR reviews and unit test generation | Technical teams focusing on automated test suite generation and PR workflow auditing | [qodo.ai](https://www.qodo.ai) |
 
-### ⚠️ No longer free / enterprise-only
+### ⚠️ Legacy Free Tier Changes (Enterprise Transition)
 
-These used to be popular free picks. They've since gone enterprise-only — free tiers and individual plans were discontinued. We leave them in so you don't get misled by older articles still listing them as free.
+The following tools previously offered popular free or individual tiers but have since transitioned exclusively to enterprise-only models (discontinuing all free and individual plans). They are preserved here to prevent confusion from outdated articles or reviews.
 
 | Tool | Status | What happened | For individuals, use instead |
 |------|--------|---------------|------------------------------|
-| **Sourcegraph Cody** | Enterprise only (~$59/user/mo, annual) | Free & Pro plans **discontinued 2025-07**; Sourcegraph points individuals to Amp | [Amp](https://ampcode.com) (PAYG, zero markup) or [Continue.dev](https://www.continue.dev) |
-| **Tabnine** | Enterprise only — $39 / $59 per user/mo (annual) | Free tier & individual plans **discontinued 2025-04**; student plan closed | [Cline](https://cline.bot) / [Continue.dev](https://www.continue.dev) / [Aider](https://aider.chat) |
-| **Warp** | Free terminal; AI agent usage now needs **Build $20/mo** for bundled credits | ⚠️ Free bundled AI credits removed; free users can only use AI via **BYOK** (own OpenAI/Anthropic/Google key), no Warp credits | [Cursor](https://cursor.com) or any CLI agent above with your own key |
+| **Sourcegraph Cody** | Enterprise-only subscription (~$59/user/month, annual) | Free and Pro plans were **discontinued in July 2025**; official documentation recommends individual developers migrate to Amp | [Amp](https://ampcode.com) (pay-as-you-go, zero-markup API pricing) or [Continue.dev](https://www.continue.dev) |
+| **Tabnine** | Enterprise-only subscription ($39 or $59/user/month, annual) | The free tier and all individual plans were **discontinued in April 2025**; the academic student program has been closed | [Cline](https://cline.bot) / [Continue.dev](https://www.continue.dev) / [Aider](https://aider.chat) |
+| **Warp** | Terminal core features free; AI Agent capabilities now require the **Build plan ($20/month)** for bundled credits | ⚠️ Free bundled AI credits have been removed; free-tier users are restricted to **BYOK (Bring-Your-Own-Key)** mode for OpenAI, Anthropic, or Google APIs with no Warp-provided compute allocation | [Cursor](https://cursor.com) or any of the open-source CLI agents listed above with your own API key |
 
-## ⌨️ CLI / terminal agents
+## ⌨️ CLI & Terminal Agents
 
-Run an agent directly in your terminal — edit code, run tests, manage git.
+AI agents running natively in the terminal — capable of direct codebase editing, automated test execution, and Git workflow management.
 
 | Tool | Pricing (2026-06) | Discounts / free | Best for | Link |
 |------|-------------------|------------------|----------|------|
-| **Freebuff** *(free Codebuff)* | **100% free** (ad-supported, no API key) | $0 forever; optionally link your ChatGPT sub | Zero-cost entry; trying free open models | [codebuff.com](https://www.codebuff.com) |
-| **Claude Code** | Free: **no Claude Code** · Pro **$17/mo (annual) / $20 (monthly)** · Max 5x $100 · Max 20x $200 · Team $20–$100/seat | Annual ~15% off; usage is a rolling 5h window (doubled 2026-05-06) shared with Claude chat; Max has 2 weekly caps | Deepest reasoning (Opus 4.8); large refactors; 1M context | [claude.com/claude-code](https://www.claude.com/product/claude-code) |
-| **OpenAI Codex** | **Free with ChatGPT Free** (Web + CLI + desktop app, lowest 5h-window limits) · Go $8 · Plus $20 · Pro $100–$200 · Business/Enterprise | $0 via ChatGPT Free (no card); promo-boosted free limits have ended; or use your own **OpenAI API key** (per-token, no window cap but no cloud features) | OpenAI ecosystem; **desktop app (macOS/Windows) is the recommended surface**; cloud sandbox | [openai.com/codex](https://openai.com/codex) |
-| **Gemini CLI / Antigravity CLI** | **Free tier** (generous daily limits) | Very generous free tier | Light–moderate use; huge context | [antigravity.google](https://antigravity.google) |
-| **Aider** | **Free OSS** (pay only LLM API, or local = $0) | $0 with local models | Git-native pair programming; 75+ models | [aider.chat](https://aider.chat) |
-| **Amp** *(Sourcegraph)* | **Pay-as-you-go, zero markup** on API cost; $5 min credit top-up | Free daily credit grant (~$10/day, replenished hourly) — ⚠️ **being paused/reduced for some users since 2026-05**; ad-free since 2026 | Multi-model routing (GPT-5.5/Opus); unconstrained context | [ampcode.com](https://ampcode.com) |
-| **OpenCode** | OSS free (BYOK) · **Go plan: $5 first month, then $10/mo** (~$60/mo usage: $12/5h · $30/week) | ✅ **Referral: $5 credit for both you and your friend** ([referral link](https://opencode.ai/go?ref=J9E8732NMP)) | 14 open models (GLM-5.2, Kimi, Qwen, DeepSeek…) via one key; works with any agent | [opencode.ai](https://opencode.ai) |
-| **Crush** *(Charm)* | **Free, open source** (BYOK) | $0 with your own key | Beautiful terminal UX; multi-model | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
-| **Goose** *(Block)* | **Free, open source** (BYOK / local) | $0 with your own key | Extensible local agent; MCP-native | [block.github.io/goose](https://block.github.io/goose) |
-| **Qwen Code** | **Free, open source** | $0 (use Qwen models) | Cost-conscious users on Qwen models | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
+| **Freebuff**（free Codebuff） | **100% free** (ad-supported, requires no API key) | $0 forever; supports optional integration with your personal ChatGPT subscription | Zero-budget entry point; quick evaluation of free open-source models | [codebuff.com](https://www.codebuff.com) |
+| **Claude Code** | Free tier does not include Claude Code<br>Pro: **$17/mo (annual)** or $20/mo (monthly)<br>Max: 5x $100 or 20x $200<br>Team: $20–$100/seat/month | Annual plans offer ~15% savings; usage limits are based on a rolling 5-hour window (quota doubled on 2026-05-06) shared with Claude Web Chat; Max tier features dual weekly limits | Advanced reasoning (Opus 4.8), large-scale architectural refactoring, and million-token context analysis | [claude.com/claude-code](https://www.claude.com/product/claude-code) |
+| **OpenAI Codex** | **Included in ChatGPT Free** (Web, CLI, and desktop applications, subject to the lowest 5-hour rolling window limits)<br>Go: $8/mo<br>Plus: $20/mo<br>Pro: $100–$200/mo<br>Business/Enterprise: Custom pricing | $0 cost via ChatGPT Free with no credit card required; promotional limit boosts have concluded; supports integration with your personal **OpenAI API Key** (billed per-token, bypasses window limits, but excludes cloud sandbox features) | Deep integration with the OpenAI ecosystem; **desktop applications (macOS/Windows) are the recommended interface**; supports cloud sandboxing | [openai.com/codex](https://openai.com/codex) |
+| **Gemini CLI / Antigravity CLI** | **Free tier** (provides high daily quotas) | Highly generous free-tier allocation | Light-to-moderate usage requiring massive context windows | [antigravity.google](https://antigravity.google) |
+| **Aider** | **Free and open-source** (pay only for LLM API consumption, or $0 when running local models) | Completely free when paired with local open-source models | Git-native pair programming workflows; supports over 75+ commercial and open-source models | [aider.chat](https://aider.chat) |
+| **Amp**（Sourcegraph） | **Pay-as-you-go, zero-markup** on raw API costs; $5 minimum initial deposit | Provides a free daily credit allocation (~$10/day, replenished hourly) — ⚠️ **this allocation has been paused or reduced for some users since May 2026**; fully ad-free since 2026 | Dynamic routing across multiple models (e.g., GPT-5.5, Claude Opus) with unconstrained context windows | [ampcode.com](https://ampcode.com) |
+| **OpenCode** | Open-source version is free (BYOK)<br>**Go Plan: $5 for the first month, then $10/mo** (provides ~$60/month in equivalent usage: $12/5-hour limit, $30/week limit) | ✅ **Referral Promo: $5 credit for both parties** when signing up via [referral link](https://opencode.ai/go?ref=J9E8732NMP) | Accessing 14+ open models (including GLM-5.2, Kimi, Qwen, DeepSeek) through a single unified key; compatible with any third-party agent client | [opencode.ai](https://opencode.ai) |
+| **Crush**（Charm） | **Free and open-source** (supports custom API keys) | $0 software cost when paired with your own API key for pay-as-you-go billing | Developers seeking an elegant Terminal User Interface (TUI) and flexible multi-model routing | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
+| **Goose**（Block） | **Free and open-source** (supports custom API keys or local execution) | $0 software cost when paired with your own API key for pay-as-you-go billing | Highly extensible local agents with native support for the Model Context Protocol (MCP) | [block.github.io/goose](https://block.github.io/goose) |
+| **Qwen Code** | **Free and open-source** | $0 software licensing cost when running Qwen-series models | Developers relying on the Qwen model ecosystem who require maximum cost efficiency | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
 
-## ⏳ Time-limited promos
+## ⏳ Time-Limited Promos
 
-Active discounts with a deadline — grab them before they expire. **Verify on the official page before relying on these, and PR the expiry when it changes.**
+Active discounts and promotional offers with explicit deadlines. **Please verify these on the official vendor page before making decisions, and submit a Pull Request if you notice an expiration date has changed.**
 
 | Tool | Promo | Expires | Notes |
 |------|-------|---------|-------|
-| **Devin Desktop** | **GLM-5.2 & Kimi K2.7 free** on Pro / Max / Teams (frontier-tier open models: GLM-5.2 43.0% & Kimi K2.7 39.5% on FrontierCode Extended, vs GPT-5.5 44.8% / Opus 4.8 51.8%) | **2026-07-05** | [devin.ai](https://devin.ai); also: new users get **$10 AI credit** for completing onboarding (connect Git) |
-| **ZCode** *(Zhipu)* | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** | was **2026-06-30** (still listed on official page as of 2026-06-25; confirm on site) | Best free way to try open **GLM-5.2**; [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+| **Devin Desktop** | **GLM-5.2 and Kimi K2.7 models are free** on Pro / Max / Teams tiers (frontier-tier open models scoring GLM-5.2 43.0% and Kimi K2.7 39.5% on the FrontierCode Extended benchmark, compared to GPT-5.5 at 44.8% and Opus 4.8 at 51.8%) | **2026-07-05** | Details at [devin.ai](https://devin.ai); additionally, new users receive **$10 AI credit** upon completing onboarding (connecting a Git repository) |
+| **ZCode**（Zhipu） | New users receive a **5-day free trial with 5M free tokens/day** (GLM-5.2 3M and GLM-5-turbo 2M allocation); GLM Coding Plan subscribers receive a **1.5× quota multiplier** | Originally scheduled to expire **2026-06-30** (still listed on the official page as of 2026-06-25; please confirm on-site) | The most accessible way to evaluate the open **GLM-5.2** model; details at [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 
-> Expired promos are removed from this section but the tool stays in its regular category above with updated info.
+> Expired promotions are removed from this section; the respective tools remain in their standard categories above with updated pricing information.
 
-## 🎓 Student deals
+## 🎓 Academic & Student Benefits
 
-If you have student / `.edu` status, several tools are **free or discounted** — sometimes a much better deal than paying full price. Check each vendor's page for current terms and eligible countries.
+Developers with verified academic status (such as a `.edu` email address or enrollment verification) can access **free or heavily discounted** plans. These academic offers often provide significantly better terms than standard commercial promotions. Please check each vendor's official page for current eligibility criteria and regional availability.
 
 | Tool | Student offer | How to get it |
 |------|---------------|---------------|
-| **Google Gemini** ✅ | **Free Google AI Pro for 1 year** — upgrades you to **Gemini Pro**, which unlocks **Google Antigravity** + higher usage limits | Verify student status with Google ([gemini.google/students](https://gemini.google/students)) |
-| **Zed** ✅ | **Free 1-year membership** incl. ~**$10/mo AI model credits** | Student verification inside Zed ([zed.dev](https://zed.dev)) |
-| **GitHub Copilot** ✅ | **Free Copilot Pro** as part of the GitHub Student Developer Pack | Apply to [education.github.com/pack](https://education.github.com/pack) |
-| **JetBrains IDEs** ✅ | **Free individual license** for all JetBrains IDEs (incl. AI features) while you study | Apply at [jetbrains.com/student](https://www.jetbrains.com/student/) |
-| **Cursor** | Free/discounted Pro for students reported in some regions — verify current status | Check [cursor.com](https://cursor.com) |
+| **Google Gemini** ✅ | **Free Google AI Pro membership for 1 year** — upgrading your account to **Gemini Pro**, which unlocks **Google Antigravity** and higher usage limits | Complete academic verification through Google's student portal ([gemini.google/students](https://gemini.google/students)) |
+| **Zed** ✅ | **Free 1-year membership** including ~**$10/month in AI model credits** | Complete student verification directly within the Zed editor client ([zed.dev](https://zed.dev)) |
+| **GitHub Copilot** ✅ | **Free Copilot Pro subscription** included as part of the GitHub Student Developer Pack | Apply via GitHub Education ([education.github.com/pack](https://education.github.com/pack)) |
+| **JetBrains IDEs** ✅ | **Free individual licenses** for all JetBrains IDEs (including integrated AI assistance features) for the duration of your studies | Apply via JetBrains Academic Program ([jetbrains.com/student](https://www.jetbrains.com/student/)) |
+| **Cursor** | Academic discounts or free Pro access reported in select regions; verify current availability on the official site | Details available on the official website ([cursor.com](https://cursor.com)) |
 
-> 💡 Stack these: a verified student can run **Gemini Pro (→ Antigravity) + Copilot Pro + JetBrains + Zed** all for **$0/year**.
+> 💡 **Academic Stack Strategy:** A verified student can simultaneously configure **Gemini Pro (unlocking Antigravity) + Copilot Pro + JetBrains IDEs + Zed** to achieve a comprehensive development and AI compute stack for **$0/year**.
 
-## 🎯 Which one should I pick?
+## 🎯 Decision Matrix & Scenario-Based Recommendations
 
-| If you are... | Pick | Why |
-|---------------|------|-----|
-| **Broke / want $0** | Freebuff + Aider/Cline + local models | Genuinely free, no subscription |
-| **Solo, budget-conscious** | GitHub Copilot Pro ($10/mo) | Cheapest capable option, unlimited completions |
-| **Solo, want an agentic IDE** | Cursor Pro or Kiro Pro ($20/mo) | Cursor for polish, Kiro for structure |
-| **Power user, complex code** | Cursor Pro + Claude Code | IDE for daily work, Claude Code for hard problems |
-| **Full-stack web** | Google Antigravity (AI Pro $19.99/mo) | Multi-agent + built-in browser |
-| **Already pay for ChatGPT** | OpenAI Codex | $0 extra |
-| **China, lowest cost** | OpenCode/Aider + Qwen/DeepSeek/GLM/Kimi | Cheap models via BYOK |
+| Target Scenario / Developer Profile | Recommended Solution | Key Rationale |
+|-------------------------------------|----------------------|---------------|
+| **Zero Budget / Open Source Self-Host** | Freebuff + Aider/Cline + local open-source models | Genuinely free; eliminates recurring software licensing costs |
+| **Solo Developer / Cost-Sensitive** | GitHub Copilot Pro ($10/month) | The lowest nominal subscription price for a mature, highly capable tool offering unlimited inline completions |
+| **Solo Developer / Seeking Agentic IDE** | Cursor Pro or Kiro Pro ($20/month) | Cursor provides exceptional user experience polish and fluid interactions; Kiro excels in spec-driven development and structured code generation |
+| **Power User / Complex System Refactoring** | Cursor Pro + Claude Code | A dual-track workflow: Cursor IDE for daily development and multi-file edits, paired with Claude Code in the terminal for complex reasoning and deep architecture refactoring |
+| **Full-Stack Web Development** | Google Antigravity (AI Pro $19.99/month) | Native support for multi-agent parallel workflows combined with an integrated browser sandboxed environment for efficient debugging |
+| **Existing ChatGPT Plus Subscriber** | OpenAI Codex | Leverages your existing subscription benefits with no additional software cost |
+| **Regional Developer / Maximum Cost Efficiency** | OpenCode / Aider + regional APIs (Qwen, DeepSeek, GLM, Kimi) | Combines open-source clients with highly cost-effective regional API endpoints, enabling pay-as-you-go billing and near-zero running costs |
 
-## 💡 Money-saving tips
+## 💡 Strategic Cost-Optimization Advice
 
-1. **Watch the meter, not the sticker price.** Copilot (usage credits), Antigravity (compute pool), and Codex (API tokens) all bill by usage now — the monthly fee isn't your real cost.
-2. **Pay annually** for ~15–20% off on most subscription tools.
-3. **Match model to task.** Use cheap/fast models (Composer Standard, Gemini Flash, Haiku) for routine edits; save expensive reasoning models for hard refactors.
-4. **BYOK + local models.** Open-source CLIs with Ollama or cheap API models can cut costs to near zero.
-5. **Stack free tiers.** Combine Copilot Free + a free CLI + a vendor free tier before paying for anything.
-6. **Re-evaluate quarterly.** Pricing here changes monthly — what was optimal last quarter may not be now.
+1. **Monitor active consumption, not just the base subscription.** Tools like Copilot (usage credits), Antigravity (compute pools), and Codex (API tokens) increasingly bill based on active consumption. The base monthly subscription fee is often not your sole cost driver.
+2. **Commit to annual billing.** Choosing annual payment terms on commercial AI tools typically yields **savings of ~15%–20% on your overall software budget**.
+3. **Align model capability with task complexity.** Implement a tiered usage strategy: leverage highly responsive, low-cost models (e.g., Composer Standard, Gemini Flash, Haiku) for routine code generation and inline completions. Reserve premium reasoning models exclusively for complex architectural refactoring.
+4. **Leverage "Open-Source Client + BYOK/Local" architectures.** Utilizing open-source CLI agents or extensions (like Aider or Cline) paired with local models (via Ollama) or low-cost API endpoints can reduce active operating costs to near-zero.
+5. **Optimize and combine free-tier allocations.** Before committing to paid subscriptions, combine Copilot's free tier with open-source CLI tools and vendor-provided free quotas to maximize your complimentary compute allocation.
+6. **Establish a quarterly evaluation cycle.** The AI developer tool market is highly competitive, with pricing, quotas, and model capabilities changing monthly. The optimal selection from last quarter may no longer represent the best value today.
 
 ## 🤝 Contributing
 
-This repo is only as good as it is *accurate and current*. Contributions very welcome:
+The value of this repository relies entirely on the **accuracy and timeliness** of its information. Community contributions are highly encouraged:
 
-- **Found a price change, new discount, or new tool?** [Open an issue](../../issues/new/choose) or send a PR.
-- **Please include:** the official source link, the date you verified it, and (for discounts) any expiry date.
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for the format.
+- **Discovered a price change, a new discount, or a newly launched tool?** Please [open an issue](../../issues/new/choose) or submit a Pull Request.
+- **Submission Requirements:** Please include the official source link, the date you verified the information, and (for discounts) the applicable expiration date.
+- **Formatting Guidelines:** Detailed formatting instructions are available in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-> ⭐ If this saved you money, consider starring the repo so others can find it.
+> ⭐ If this project has helped optimize your development costs or guide your technical selection, please consider starring the repository to increase its visibility for other developers.
 
 ## 📚 Sources
 
-Pricing and product info comes from each vendor's official pricing page and changelog, plus some 2026 comparison write-ups, verified as of **2026-06**. Each tool links to its official site above. This space moves fast, so **confirm current pricing on the vendor's page before paying.**
+Pricing and product capability information are aggregated directly from official vendor pricing pages, official product changelogs, and 2026 industry comparison reviews, with comprehensive verification completed as of **June 2026**. Each tool entry includes a direct link to its official website. Because the AI developer tool ecosystem evolves rapidly, **always verify current pricing and terms on the official vendor website before making purchasing decisions.**
 
 ---
 
-*Not affiliated with any vendor. Some links may be referral links (these help maintain the repo at no extra cost to you); these are marked where used.*
+**Declaration:** This repository is an independent community project and is not affiliated with any AI tool vendor. Some links may contain referral codes (which support the ongoing maintenance and hosting of this project at no additional cost to you), marked clearly where applicable.

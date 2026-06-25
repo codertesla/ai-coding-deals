@@ -125,7 +125,7 @@ Active discounts with a deadline — grab them before they expire. **Verify on t
 | Tool | Promo | Expires | Notes |
 |------|-------|---------|-------|
 | **Devin Desktop** | **GLM-5.2 & Kimi K2.7 free** on Pro / Max / Teams (frontier-tier open models: GLM-5.2 43.0% & Kimi K2.7 39.5% on FrontierCode Extended, vs GPT-5.5 44.8% / Opus 4.8 51.8%) | **2026-07-05** | [devin.ai](https://devin.ai); also: new users get **$10 AI credit** for completing onboarding (connect Git) |
-| **ZCode** *(Zhipu)* | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** | **2026-06-30** | Best free way to try open **GLM-5.2**; [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+| **ZCode** *(Zhipu)* | New users: **5-day free trial, 5M free tokens/day** (GLM-5.2 3M + GLM-5-turbo 2M); GLM Coding Plan subscribers get **1.5× quota** | was **2026-06-30** (still listed on official page as of 2026-06-25; confirm on site) | Best free way to try open **GLM-5.2**; [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 
 > Expired promos are removed from this section but the tool stays in its regular category above with updated info.
 

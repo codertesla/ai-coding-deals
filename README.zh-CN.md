@@ -125,7 +125,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | 工具 | 优惠 | 截止 | 说明 |
 |------|------|------|------|
 | **Devin Desktop** | **GLM-5.2 与 Kimi K2.7 对 Pro/Max/Teams 免费**(前沿开源模型:GLM-5.2 43.0%、Kimi K2.7 39.5% FrontierCode Extended,对比 GPT-5.5 44.8% / Opus 4.8 51.8%) | **2026-07-05** | [devin.ai](https://devin.ai);另:新用户完成初始引导(连 Git)送 **$10 AI 额度** |
-| **ZCode**(智谱) | 新用户 **5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额** | **2026-06-30** | 零成本体验开源 **GLM-5.2**;[zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+| **ZCode**(智谱) | 新用户 **5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额** | 原公告 **2026-06-30**(截至 2026-06-25 官网仍列此项,以官网为准) | 零成本体验开源 **GLM-5.2**;[zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 
 > 过期的优惠会从本节移除,工具仍保留在上方对应分类里,并更新为常规信息。
 

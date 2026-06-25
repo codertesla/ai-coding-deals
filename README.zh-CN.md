@@ -26,6 +26,7 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 - [💵 零成本用上 AI 编程](#-零成本用上-ai-编程)
 - [🏗️ Agentic IDE(AI 原生 IDE)](#️-agentic-ideai-原生-ide)
 - [🧩 助手 & IDE 扩展](#-助手--ide-扩展)
+  - [⚠️ 已不再免费 / 仅企业版](#️-已不再免费--仅企业版)
 - [⌨️ CLI / 终端 Agent](#️-cli--终端-agent)
 - [🌐 应用 / UI 生成工具](#-应用--ui-生成工具)
 - [🎓 学生福利](#-学生福利)
@@ -95,9 +96,20 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Continue.dev** | 核心 **免费**(自带 key 或本地 Ollama = $0)· Team 约 $20/席/月 | 完全可免费自托管 | 隐私 & 成本控制;任意模型 | [continue.dev](https://www.continue.dev) |
 | **Cline** | **免费开源**(自带 key / 本地模型) | 用自己 key 即 $0 | 低成本的 VS Code 自主 Agent | [cline.bot](https://cline.bot) |
 | **Roo Code** | **免费开源**(自带 key) | 用自己 key 即 $0 | Cline 分支,额外 Agent 模式 | [roocode.com](https://roocode.com) |
-| **Sourcegraph Cody** | **仅企业版**(约 $59/人/月,年付) | ⚠️ Free/Pro 已于 **2025-07 下线**;个人用户官方建议转用 [Amp](https://ampcode.com) | 全代码库上下文与搜索(企业) | [sourcegraph.com/cody](https://sourcegraph.com/cody) |
-| **Tabnine** | **仅企业版**——Code Assistant $39/人/月 · Agentic $59/人/月(年付) | ⚠️ 免费层与个人版已于 **2025-04 下线**,仅 14–90 天试用;学生计划也已关闭 | 需要零留存、可离线部署的隐私/合规团队 | [tabnine.com](https://www.tabnine.com) |
 | **Augment Code** | 免费 Community(有限)· 试用 3 万 credits(需绑卡)· Business **$100/月一口价**(最多 50 席,含 $100 用量)· Enterprise 定制 | 3 万 credits 试用;Business 一口价(50 席内无按席收费) | 需要深度上下文的大型代码库 | [augmentcode.com](https://www.augmentcode.com) |
+
+### ⚠️ 已不再免费 / 仅企业版
+
+这些工具曾是热门免费选项,现已转为纯企业版。我们仍在此列出,是为了**纠正旧文章里"还有免费层"的过时说法**——它们**现在对个人用户没有 deal 可薅**。
+
+| 工具 | 现状 | 发生了什么 | 个人用户替代 |
+|------|------|------------|--------------|
+| **Sourcegraph Cody** | 仅企业版(约 $59/人/月,年付) | Free/Pro 已于 **2025-07 下线**;官方建议个人转用 Amp | [Amp](https://ampcode.com)(按量付费、零加价)或 [Continue.dev](https://www.continue.dev) |
+| **Tabnine** | 仅企业版——$39 / $59 每人/月(年付) | 免费层与个人版已于 **2025-04 下线**;学生计划也已关闭 | [Cline](https://cline.bot) / [Continue.dev](https://www.continue.dev) / [Aider](https://aider.chat) |
+
+---
+
+## ⌨️ CLI / 终端 Agent
 
 ---
 

@@ -26,6 +26,7 @@ AI coding tools change pricing *fast*. This repo tracks the **free tiers, discou
 - [💵 Cheapest ways to code with AI for $0](#-cheapest-ways-to-code-with-ai-for-0)
 - [🏗️ Agentic IDEs](#️-agentic-ides)
 - [🧩 Assistants & IDE extensions](#-assistants--ide-extensions)
+  - [⚠️ No longer free / enterprise-only](#️-no-longer-free--enterprise-only)
 - [⌨️ CLI / terminal agents](#️-cli--terminal-agents)
 - [🌐 App / UI builders](#-app--ui-builders)
 - [🎓 Student deals](#-student-deals)
@@ -95,9 +96,20 @@ Plug into your existing editor (VS Code / JetBrains) for completions, chat, and 
 | **Continue.dev** | Core **free** (BYOK or local Ollama = $0) · Team ~$20/seat/mo | Fully free to self-host | Privacy & cost control; any model | [continue.dev](https://www.continue.dev) |
 | **Cline** | **Free, open source** (BYOK / local model) | $0 with your own key | Autonomous VS Code agent on a budget | [cline.bot](https://cline.bot) |
 | **Roo Code** | **Free, open source** (BYOK) | $0 with your own key | Cline fork with extra agent modes | [roocode.com](https://roocode.com) |
-| **Sourcegraph Cody** | **Enterprise only** (~$59/user/mo, annual) | ⚠️ Free & Pro plans **discontinued 2025-07**; Sourcegraph now points individuals to [Amp](https://ampcode.com) | Codebase-wide context & search (enterprise) | [sourcegraph.com/cody](https://sourcegraph.com/cody) |
-| **Tabnine** | **Enterprise only** — Code Assistant $39/user/mo · Agentic $59/user/mo (annual) | ⚠️ Free tier & individual plans **discontinued 2025-04**; 14–90 day trial only. Student plan closed. | Privacy/on-prem teams needing zero-retention, air-gapped | [tabnine.com](https://www.tabnine.com) |
 | **Augment Code** | Free Community (limited) · Trial 30K credits (needs card) · Business **$100/mo flat** (up to 50 seats, $100 usage incl.) · Enterprise custom | 30K-credit trial; flat Business pricing (no per-seat up to 50) | Large codebases needing deep context | [augmentcode.com](https://www.augmentcode.com) |
+
+### ⚠️ No longer free / enterprise-only
+
+These tools used to be popular free options but have gone enterprise-only. We keep them here to **correct outdated "free tier" info** you'll see in older articles — they offer **no deal for individuals now**.
+
+| Tool | Status | What happened | For individuals, use instead |
+|------|--------|---------------|------------------------------|
+| **Sourcegraph Cody** | Enterprise only (~$59/user/mo, annual) | Free & Pro plans **discontinued 2025-07**; Sourcegraph points individuals to Amp | [Amp](https://ampcode.com) (PAYG, zero markup) or [Continue.dev](https://www.continue.dev) |
+| **Tabnine** | Enterprise only — $39 / $59 per user/mo (annual) | Free tier & individual plans **discontinued 2025-04**; student plan closed | [Cline](https://cline.bot) / [Continue.dev](https://www.continue.dev) / [Aider](https://aider.chat) |
+
+---
+
+## ⌨️ CLI / terminal agents
 
 ---
 

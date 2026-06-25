@@ -75,7 +75,8 @@ AI 编程工具的定价变化**极快**。本仓库专门收集 **免费额度�
 | **Kiro**(AWS,规格驱动) | 免费 50 credits · Pro **$20/月(1000)** · Pro+ $40(2000)· **Pro Max $100(5000)** · Power $200(10000) | 年付折扣;超量 $0.04/credit · 倍率:Auto 1.0× · Sonnet 1.3× · **Opus 4.8 2.2×** · Haiku 0.4× · GLM-5 0.5× · **Qwen3 Coder Next 0.05×** | 规格驱动、可维护的生产级代码;AWS 团队 | [kiro.dev](https://kiro.dev) |
 | **Trae**(字节跳动) | 免费层(5000 补全/月,2 并发)· Lite **$3** · Pro **$10**(7 天试用)· Pro+ $30 · Ultra $100 | ✅ **国内版 trae.cn 个人完全免费**(用豆包/DeepSeek) | 想要 Cursor 式 IDE 的预算用户 | [trae.ai](https://trae.ai) |
 | **ZCode**(智谱) | 活动免费额度 · 经 GLM Coding Plan 付费 | ✅ **新用户 5 天免费,每日 500 万 Token**(GLM-5.2 300万 + GLM-5-turbo 200万);GLM Coding Plan 订阅用户享 **1.5 倍配额**——活动至 **2026-06-30** | 想用智谱官方 GLM IDE 的开发者 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
-| **CodeBuddy**(腾讯) | 体验版 **免费:每月 500 credits**(对话有频次限制)· 专业版 ¥58/月(2000 credits)· 旗舰版 ¥198 · 专享版 ¥316 | 每月 500 credits 免费;⚠️ 订阅升级 **2026-07-01 生效** | 用腾讯云的中文开发者 | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
+| **CodeBuddy**(腾讯,国际站)| Free(250 credits / 2 周)· Pro **$9.95/月**(促销价,原 $19.90)/ $119.40/年(每月 1000 credits)· Team $40/人/月 | 免费 250 credits/2 周;加量包 $9.95/1000 credits 起 | 国际用户;腾讯云代码助手 | [codebuddy.ai](https://www.codebuddy.ai/) |
+| **CodeBuddy**(腾讯,国内站)| 体验版 **免费:每月 500 credits**(对话有频次限制)· 专业版 ¥58/月(2000 credits)· 旗舰版 ¥198 · 专享版 ¥316 | 每月 500 credits 免费;⚠️ 订阅升级 **2026-07-01 生效** | 用腾讯云的中文开发者 | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
 | **Zed** | 编辑器免费 · Pro 低价档 | 核心编辑器免费 · ✅ **学生认证后可得一年免费会员**,含每月约 $10 AI 模型额度 | 追求速度、本地优先、隐私友好 | [zed.dev](https://zed.dev) |
 
 ## 🧩 助手 & IDE 扩展

@@ -48,7 +48,8 @@ High-value promotions and cost-saving opportunities currently active. (Verified 
 | **GitHub Copilot** | **$10/month** Pro tier — lowest nominal subscription price; **inline completions remain free** | Highly cost-effective baseline option even with usage-based metrics ⚠️ *New sign-ups paused since 2026-06-01* |
 | **OpenAI Codex** | **Included in ChatGPT Free** — accessible via Web, CLI, and **desktop applications (macOS/Windows)** with no credit card required | Zero-budget entry point; utilizing the official desktop application provides the optimal workflow |
 | **Google Antigravity / Gemini** | Generous **free tier**; AI Pro subscription available at **$19.99/month** | Cost-effective entry point for evaluating multi-agent workflows and high-speed Gemini models |
-| **Annual Billing (General)** | Save **~15%–20%** on most subscription-based tools by choosing annual payment | E.g., Cursor Pro reduced from $240 to $192/year; Copilot Pro reduced from $120 to $100/year |
+
+> 💡 **Tip:** Most subscription-based AI coding tools offer **~15%–20% savings** when billed annually.
 
 > Have an active referral link or a new promotion to share? Please submit a Pull Request — see [Contributing](#-contributing).
 

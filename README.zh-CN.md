@@ -40,7 +40,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | 工具 | 优惠 | 选型依据 |
 |------|------|----------|
 | **Cursor** ✅ *已验证* | 新账号通过**任意邀请链接注册可享首月 5 折**——Pro 档位首月仅需 **$10**，更高档位同享折扣。每个邀请链接有使用次数上限，建议通过搜索引擎获取最新链接（如搜索 "Cursor referral link"）。**支持支付宝付款**——若无长期订阅需求，请记得取消自动续费。 | 2026-06 全新账号实测有效；为当前体验 Pro 完整功能的最低成本方案 |
-| **Freebuff / Codebuff** | **100% 免费**（广告支持模式）的 CLI Agent，无需配置 API Key，无订阅门槛 | 真正的零预算入门方案；适合在本地仓库中快速验证免费开源模型 |
+| **Freebuff** | **100% 免费**（广告支持）的编程 Agent（CLI / Web / Chat），官网 [freebuff.com](https://freebuff.com/) — 无需 API Key 或订阅；[Web 邀请链接](https://freebuff.com/web/?ref=ref-b3046190-1d77-44c1-915c-b71b4f36ae5e) | 真正的 $0；CLI 通过 `npm install -g freebuff` 安装；接入 DeepSeek、Kimi、MiniMax 等开源模型 — 与 [Codebuff](https://www.codebuff.com) 同公司，但是独立的免费产品线 |
 | **OpenCode** ✅ *已验证* | 通过[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)注册，双方可各获得 **$5 赠送额度** | 配合低单价的国内主流模型（如 Qwen、DeepSeek、GLM、Kimi）使用，性价比极高 |
 | **Devin Desktop** ✅ *已验证* | 新用户完成新手引导（绑定 Git 仓库）即赠送 **$10 AI 算力额度**；Pro 及以上订阅可免费调用 SWE 1.6 模型 | 体验 Devin Cloud（支持自主提交 PR 的云端 Agent）的最低成本路径 |
 | **Zed**（学生）✅ | 通过学术身份认证可获得 **1 年免费会员资格**，每月包含约 $10 的 AI 模型调用额度 | 具备学术身份的开发者首选的免费方案 |
@@ -56,7 +56,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 
 无需预算投入，依然可以构建高效的 AI 辅助开发工作流：
 
-- **完全免费且无需 API Key：** [Freebuff](https://www.codebuff.com)（CLI 工具，广告支持模式）—— 可通过 `npm install -g freebuff` 快速安装。
+- **完全免费且无需 API Key：** [Freebuff](https://freebuff.com/) — 广告支持的 CLI（`npm install -g freebuff`）、Web 应用构建与 Chat；接入开源模型。（与 [Codebuff](https://www.codebuff.com) 同公司，但是独立的免费产品线。）
 - **开源自建（支持自带 Key 或本地运行，如 Ollama = $0）：** [Aider](https://aider.chat)、[Continue.dev](https://www.continue.dev)、[Cline](https://cline.bot)、[OpenCode](https://opencode.ai)。
 - **既有订阅权益复用：** [OpenAI Codex](https://openai.com/codex)（已包含在 ChatGPT Plus 订阅中）、[GitHub Copilot Free](https://github.com/features/copilot)（受限免费额度）。
 - **厂商高额度免费层：** [Google Gemini / Antigravity](https://antigravity.google)、[Cursor Hobby](https://cursor.com)。
@@ -111,7 +111,8 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 
 | 工具 | 定价(2026-06) | 折扣 / 免费 | 适合 | 链接 |
 |------|----------------|--------------|------|------|
-| **Freebuff**（免费版 Codebuff） | **100% 免费**（广告支持模式，无需配置 API Key） | 永久 $0；支持可选绑定个人 ChatGPT 订阅权益 | 零预算入门；快速验证免费开源模型 | [codebuff.com](https://www.codebuff.com) |
+| **Freebuff** | **100% 免费**（广告支持；含 CLI / Web / Chat）<br>CLI：`npm install -g freebuff` | 永久 $0，无需 API Key 或信用卡；[Web 邀请链接](https://freebuff.com/web/?ref=ref-b3046190-1d77-44c1-915c-b71b4f36ae5e) | 零预算 CLI Agent、Web 应用构建或 AI 对话；接入开源模型（DeepSeek、Kimi、MiniMax 等） | [freebuff.com](https://freebuff.com/) |
+| **Codebuff** | 订阅：**$100/月**（1× 用量）、**$200/月**（2.5×）、**$500/月**（7×）<br>按量计费：注册赠送 **500 credits**，之后 **$0.01/credit** | 注册 credits 约可支撑新项目数小时开发；随时可取消 | 深度代码库索引的高阶终端 Agent，输出质量更高；与 Freebuff 同公司，但是独立付费产品 | [codebuff.com](https://www.codebuff.com) |
 | **Claude Code** | 免费版不包含 Claude Code<br>Pro: **$17/月（年付）** 或 $20/月（月付）<br>Max: 5x $100 或 20x $200<br>Team: $20–$100/席/月 | 年付方案约享 85 折优惠；使用配额基于 5 小时滚动窗口（2026-05-06 已将额度翻倍），与 Claude 网页端 Chat 共享；Max 档位设有双重周配额上限 | 追求顶尖推理能力（Opus 4.8）、适用于大型复杂重构及百万级超长上下文分析的场景 | [claude.com/claude-code](https://www.claude.com/product/claude-code) |
 | **OpenAI Codex** | **ChatGPT 免费版已包含 Codex 权益**（支持 Web、CLI 及桌面客户端，受限于 5 小时滚动窗口最低限额）<br>Go: $8/月<br>Plus: $20/月<br>Pro: $100–$200/月<br>Business/Enterprise: 定制方案 | 通过 ChatGPT 免费版即可实现零成本接入（无需绑定信用卡）；免费层的限时促销加量活动已结束；支持接入个人 **OpenAI API Key**（按 Token 计费，无窗口限制，但无法使用云端沙箱等高级特性） | 深度绑定 OpenAI 生态的开发者；**推荐使用官方桌面客户端（macOS/Windows）作为首选交互界面**；支持云端沙箱环境 | [openai.com/codex](https://openai.com/codex) |
 | **Gemini CLI / Antigravity CLI** | **提供高额度免费层**（每日配额充足） | 极具诚意的免费额度政策 | 适合轻中度使用、且对超长上下文（Context Window）有强需求的场景 | [antigravity.google](https://antigravity.google) |

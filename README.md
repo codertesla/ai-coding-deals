@@ -62,6 +62,7 @@ High-quality AI-assisted development is entirely feasible without direct softwar
 - **Open-Source Self-Hosted (Bring-Your-Own-Key or Local Models, e.g., Ollama = $0):** [Aider](https://aider.chat), [Continue.dev](https://www.continue.dev), [Cline](https://cline.bot), [OpenCode](https://opencode.ai).
 - **Leveraging Existing Subscriptions:** [OpenAI Codex](https://openai.com/codex) (included with ChatGPT Plus), [GitHub Copilot Free](https://github.com/features/copilot) (limited baseline quota).
 - **Generous Vendor Free Tiers:** [Google Gemini / Antigravity](https://antigravity.google), [Cursor Hobby](https://cursor.com).
+- **Free OpenAI-Compatible Inference Endpoint (BYOK):** **NVIDIA NIM Free Tier** — one API key across a large model catalog (incl. popular Chinese models), compatible with the OpenAI SDK via `base_url="https://integrate.api.nvidia.com/v1"`. Best for prototyping and model comparisons (rate-limited; no SLA; terms/logging policies apply). See [build.nvidia.com](https://build.nvidia.com/) and the [model catalog](https://build.nvidia.com/models).
 
 💡 **Deployment Tip for Regional Developers:** Utilizing open-source CLI agents or extensions (such as Aider, OpenCode, Cline, or Continue) allows you to integrate highly cost-effective regional APIs (e.g., **Qwen, DeepSeek, GLM, Kimi, MiniMax**), reducing ongoing operational costs to near-zero.
 

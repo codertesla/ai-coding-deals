@@ -62,7 +62,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 - **开源自建（支持自带 Key 或本地运行，如 Ollama = $0）：** [Aider](https://aider.chat)、[Continue.dev](https://www.continue.dev)、[Cline](https://cline.bot)、[OpenCode](https://opencode.ai)。
 - **既有订阅权益复用：** [OpenAI Codex](https://openai.com/codex)（已包含在 ChatGPT Plus 订阅中）、[GitHub Copilot Free](https://github.com/features/copilot)（受限免费额度）。
 - **厂商高额度免费层：** [Google Gemini / Antigravity](https://antigravity.google)、[Cursor Hobby](https://cursor.com)。
-- **免费 OpenAI 兼容推理端点（自带 Key / BYOK）：** **NVIDIA NIM Free Tier** — 一个 API Key 覆盖较大的模型目录（包含多款热门中文模型），通过 OpenAI SDK 直接兼容：`base_url="https://integrate.api.nvidia.com/v1"`。适合原型验证与模型对比（动态限流、无 SLA，不建议高并发生产；隐私/日志条款以官网为准）。入口见 [build.nvidia.com](https://build.nvidia.com/) 与[模型目录](https://build.nvidia.com/models)。
+- **免费 OpenAI 兼容推理端点（自带 Key / BYOK）：** **NVIDIA NIM Free Tier** — 一个 API Key 覆盖较大的模型目录（包含多款热门中文模型），通过 OpenAI SDK 直接兼容：`base_url="https://integrate.api.nvidia.com/v1"`。适合原型验证与模型对比（动态限流、无 SLA，不建议高并发生产；隐私/日志条款以官网为准）。注册/开通可能需要手机号 OTP；速率限制以控制台为准（例如显示 “up to 40 RPM”）。入口见 [build.nvidia.com](https://build.nvidia.com/) 与[模型目录](https://build.nvidia.com/models)。
 
 💡 **国内开发者部署建议：** 采用开源 CLI/插件方案（如 Aider、OpenCode、Cline、Continue）并接入国内低单价的 API（如 **通义千问 Qwen、DeepSeek、智谱 GLM、月之暗面 Kimi、MiniMax**），可将实际运行成本降至接近于零。
 

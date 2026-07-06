@@ -9,7 +9,7 @@
 [![Contributors](https://img.shields.io/github/contributors/codertesla/ai-coding-deals)](https://github.com/codertesla/ai-coding-deals/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/codertesla/ai-coding-deals)](https://github.com/codertesla/ai-coding-deals/issues)
 ![Tools tracked](https://img.shields.io/badge/tools_tracked-30+-blue)
-![Last verified](https://img.shields.io/badge/last_verified-2026--06-brightgreen)
+![Last verified](https://img.shields.io/badge/last_verified-2026--07-brightgreen)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-orange)](CONTRIBUTING.md)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
@@ -43,6 +43,7 @@ High-value promotions and cost-saving opportunities currently active. (Verified 
 | **Freebuff** | **100% free** ad-supported coding agent (CLI / Web / Chat) at [freebuff.com](https://freebuff.com/) — requires no API key or subscription; [Web referral link](https://freebuff.com/web/?ref=ref-b3046190-1d77-44c1-915c-b71b4f36ae5e) | Genuinely $0; CLI via `npm install -g freebuff`; open-source models (DeepSeek, Kimi, MiniMax, etc.) — a separate free product from the same company as [Codebuff](https://www.codebuff.com) |
 | **Cline (ClinePass)** | **$1.99/month launch promo** (standard **$9.99/month**) when signing up via `npm i -g cline` — bundled access to 10+ open-weight models (GLM-5.2, Kimi K2.7 Code, DeepSeek V4, Qwen3.7, MiniMax, MiMo, etc.) at **2–5× API rate limits**; available on Cline CLI & IDE | One of the lowest fixed-cost paths to GLM-5.2 and Kimi K2.7 Code; promo end date not yet announced — verify at [cline.bot](https://cline.bot) or [x.com/cline](https://x.com/cline) |
 | **OpenCode** ✅ *verified* | **$5 free credit** for both parties when signing up via [referral link](https://opencode.ai/go?ref=J9E8732NMP) | Highly cost-effective when paired with low-cost regional models (e.g., Qwen, DeepSeek, GLM, Kimi) |
+| **Tencent Cloud AI Model Square** ✅ *verified* | New users can visit the [Model Square](https://curl.qcloud.com/PN0cvBnI) and click "**New User Benefits Free Experience**" (top-right corner) to claim — **all language models** and **all multimodal understanding models** each receive **1M free trial tokens**, valid for **90 days** from claim (incl. **HY3**, GLM-5.2, DeepSeek V4 Pro, Kimi K2.7 Code, etc.); Hunyuan **HY3** also offers a dedicated **Hy Token Plan** starting at **¥28/month for 35M tokens** | The premier low/zero-cost API channel for regional developers to access multiple flagship open models via BYOK clients (Aider, Cline, etc.) |
 | **Devin Desktop** ✅ *verified* | New users receive **$10 AI credit** upon completing onboarding (connecting a Git repository); Pro and above tiers include free access to the SWE 1.6 model | The lowest-cost path to evaluate Devin Cloud (autonomous PR-creation agent) |
 | **Zed** *(students)* ✅ | **Free 1-year membership** including ~$10/month in AI model credits upon academic verification | The premier free option for verified students and academic developers |
 | **ZCode** *(Zhipu)* ✅ | New users receive a **5-day free trial with 5M free tokens/day** (GLM-5.2 and GLM-5-turbo allocation) — promotion active through **2026-06-30** | The most accessible way to evaluate the capabilities of the open **GLM-5.2** model |
@@ -63,8 +64,9 @@ High-quality AI-assisted development is entirely feasible without direct softwar
 - **Leveraging Existing Subscriptions:** [OpenAI Codex](https://openai.com/codex) (included with ChatGPT Plus), [GitHub Copilot Free](https://github.com/features/copilot) (limited baseline quota).
 - **Generous Vendor Free Tiers:** [Google Gemini / Antigravity](https://antigravity.google), [Cursor Hobby](https://cursor.com).
 - **Free OpenAI-Compatible Inference Endpoint (BYOK):** **NVIDIA NIM Free Tier** — one API key across a large model catalog (incl. popular Chinese models), compatible with the OpenAI SDK via `base_url="https://integrate.api.nvidia.com/v1"`. Best for prototyping and model comparisons (rate-limited; no SLA; terms/logging policies apply). Signup may require phone OTP; rate limits vary (e.g. dashboard may show “up to 40 RPM”). **Suggested first model to try (community-tested):** `nvidia/nemotron-3-super-120b-a12b` (fast + returned normal `message.content`); some other models may require tuning (e.g. higher `max_tokens`). See [build.nvidia.com](https://build.nvidia.com/) and the [model catalog](https://build.nvidia.com/models).
+- **Tencent Cloud AI Model Square:** New users can visit the [Model Square](https://curl.qcloud.com/PN0cvBnI) and click "**New User Benefits Free Experience**" (top-right corner) to claim. **All language models** and **all multimodal understanding models** each include **1M free trial tokens**, valid for **90 days** from claim (incl. **HY3**, GLM-5.2, DeepSeek V4 Pro, Kimi K2.7 Code, etc.). Hunyuan **HY3** also offers a dedicated **Hy Token Plan** (from **¥28/month for 35M tokens**, incl. Hy3 preview). Pair with open-source BYOK clients (Aider, Cline, Continue, etc.) for a premier low-cost regional API channel.
 
-💡 **Deployment Tip for Regional Developers:** Utilizing open-source CLI agents or extensions (such as Aider, OpenCode, Cline, or Continue) allows you to integrate highly cost-effective regional APIs (e.g., **Qwen, DeepSeek, GLM, Kimi, MiniMax**), reducing ongoing operational costs to near-zero.
+💡 **Deployment Tip for Regional Developers:** Utilizing open-source CLI agents or extensions (such as Aider, OpenCode, Cline, or Continue) allows you to integrate highly cost-effective regional APIs (e.g., **Tencent Cloud Model Square, Qwen, DeepSeek, GLM, Kimi, MiniMax**), reducing ongoing operational costs to near-zero.
 
 ## 🏗️ Agentic IDEs (AI-Native Integrated Development Environments)
 
@@ -164,7 +166,7 @@ Developers with verified academic status (such as a `.edu` email address or enro
 | **Power User / Complex System Refactoring** | Cursor Pro + Claude Code | A dual-track workflow: Cursor IDE for daily development and multi-file edits, paired with Claude Code in the terminal for complex reasoning and deep architecture refactoring |
 | **Full-Stack Web Development** | Google Antigravity (AI Pro $19.99/month) | Native support for multi-agent parallel workflows combined with an integrated browser sandboxed environment for efficient debugging |
 | **Existing ChatGPT Plus Subscriber** | OpenAI Codex | Leverages your existing subscription benefits with no additional software cost |
-| **Regional Developer / Maximum Cost Efficiency** | ClinePass ($9.99/mo) / OpenCode / Aider + regional APIs (Qwen, DeepSeek, GLM, Kimi) | ClinePass offers a flat monthly rate for 10+ open-weight models; BYOK clients with regional APIs enable pay-as-you-go billing and near-zero running costs |
+| **Regional Developer / Maximum Cost Efficiency** | Tencent Cloud AI Model Square (free trial packs) / ClinePass ($9.99/mo) / OpenCode / Aider + regional APIs (Qwen, DeepSeek, GLM, Kimi) | Model Square new users can claim **1M free tokens per language/multimodal model** (**90-day** validity); ClinePass offers a flat monthly rate for 10+ open-weight models; BYOK clients with regional APIs enable pay-as-you-go billing and near-zero running costs |
 
 ## 💡 Strategic Cost-Optimization Advice
 

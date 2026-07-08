@@ -43,7 +43,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | **Freebuff** | **100% 免费**（广告支持）的编程 Agent（CLI / Web / Chat），官网 [freebuff.com](https://freebuff.com/) — 无需 API Key 或订阅；[Web 邀请链接](https://freebuff.com/web/?ref=ref-b3046190-1d77-44c1-915c-b71b4f36ae5e) | 真正的 $0；CLI 通过 `npm install -g freebuff` 安装；接入 DeepSeek、Kimi、MiniMax 等开源模型 — 与 [Codebuff](https://www.codebuff.com) 同公司，但是独立的免费产品线 |
 | **Cline (ClinePass)** | 通过 `npm i -g cline` 注册可享 **ClinePass 新品限时 $1.99/月**（正价 **$9.99/月**）——统一接入 10+ 开源模型（GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等），API 速率上限为标准访问的 **2–5 倍**；支持 Cline CLI 与 IDE 插件 | 以极低固定月费体验 GLM-5.2 与 Kimi K2.7 Code 的优选路径之一；促销截止时间尚未公布 — 请前往 [cline.bot](https://cline.bot) 或 [x.com/cline](https://x.com/cline) 核实 |
 | **OpenCode** ✅ *已验证* | 通过[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)注册，双方可各获得 **$5 赠送额度** | 配合低单价的国内主流模型（如 Qwen、DeepSeek、GLM、Kimi）使用，性价比极高 |
-| **CodeBuddy**（腾讯，国内站）✅ | **HY3 模型全员免费体验**——活动期间 **0 积分**消耗（**2026-07-06 至 2026-07-22**）；HY3 Agent 能力大幅跃升 | 零成本体验腾讯混元最新 **HY3** Agent 模型；CodeBuddy 与 WorkBuddy 现已统一为同一产品 |
+| **CodeBuddy**（腾讯，国内站）✅ *已验证* | 新用户注册（**微信登录**）赠送 **2000 credits**，完成新手任务另有额外赠送，合计最高 **3600 credits**（有效期 **1 个月**），约等于首月免费体验标准版（**¥99/月**）；另享 **HY3 模型全员免费体验**（0 积分，**2026-07-06 至 2026-07-22**） | 2026-07 新号实测：账号归属体验版，但首月 credits 额度接近标准版；CodeBuddy 与 WorkBuddy 现已统一为同一产品 |
 | **腾讯云 AI 模型广场** ✅ *已验证* | 新用户可在[模型广场](https://curl.qcloud.com/PN0cvBnI)页面右上角点击「**新用户福利免费体验**」领取——**所有语言模型**与**多模态理解模型**均各享 **100 万 Token** 免费体验额度，自领取起 **90 天内**有效（含 **HY3**、GLM-5.2、DeepSeek V4 Pro、Kimi K2.7 Code 等）；混元 **HY3** 另有专属 **Hy Token Plan**，最低 **¥28/月** 可获 **3500 万 Token** | 国内开发者以零/极低成本接入多款旗舰开源模型的首选 API 渠道；配合 Aider、Cline 等 BYOK 客户端性价比极高 |
 | **Devin Desktop** ✅ *已验证* | 新用户完成新手引导（绑定 Git 仓库）即赠送 **$10 AI 算力额度**；Pro 及以上订阅可免费调用 SWE 1.6 模型 | 体验 Devin Cloud（支持自主提交 PR 的云端 Agent）的最低成本路径 |
 | **Zed**（学生）✅ | 通过学术身份认证可获得 **1 年免费会员资格**，每月包含约 $10 的 AI 模型调用额度 | 具备学术身份的开发者首选的免费方案 |
@@ -82,7 +82,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | **Trae**（字节跳动） | 免费层（每月 5000 次补全，2 个并发任务）<br>Lite: **$3/月**<br>Pro: **$10/月**（提供 7 天试用）<br>Pro+: $30/月<br>Ultra: $100/月 | ✅ **国内版（trae.cn）面向个人用户完全免费**（内置豆包与 DeepSeek 模型） | 追求类似 Cursor 交互体验、且对预算控制有极高要求的开发者 | [trae.ai](https://trae.ai) |
 | **ZCode**（智谱） | 活动免费额度<br>或通过 GLM Coding Plan 计费订阅 | ✅ **新用户注册享 5 天免费试用，每日赠送 500 万 Token**（GLM-5.2 300 万 + GLM-5-turbo 200 万）；GLM Coding Plan 订阅用户可享受 **1.5 倍配额加成**——活动截止至 **2026-06-30** | 智谱 GLM 生态深度用户、希望使用官方原生 IDE 的开发者 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **CodeBuddy**（腾讯，国际站） | 免费: 250 credits / 2周<br>Pro: **$9.95/月**（限时促销，原价 $19.90）或 $119.40/年（每月 1000 credits）<br>Team: $40/席/月 | 提供每两周 250 credits 的免费额度；额外加量包起售价为 $9.95/1000 credits | 腾讯云海外生态用户；需要标准化云端代码助手的团队 | [codebuddy.ai](https://www.codebuddy.ai/) |
-| **CodeBuddy**（腾讯，国内站） | 体验版: **免费（每月 500 credits）**（对话功能有频次限制）<br>专业版: ¥58/月（2000 credits）<br>旗舰版: ¥198/月<br>专享版: ¥316/月 | 每月提供 500 credits 基础免费额度；⚠️ 订阅体系升级将于 **2026-07-01 正式生效**；<br>⏳ **限时福利：HY3 模型全员免费体验（0 积分）至 2026-07-22** | 深度依赖腾讯云生态、习惯中文研发环境的开发者 | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
+| **CodeBuddy**（腾讯，国内站） | 体验版: **免费（每月 500 credits 基础额度）**（对话功能有频次限制）<br>标准版: **¥99/月**（2000 credits）<br>旗舰版: ¥198/月<br>专享版: ¥316/月 | ✅ **新用户注册（微信登录）赠送 2000 credits，完成新手任务合计最高 3600 credits**（有效期 1 个月，约等于首月免费体验标准版）；体验版每月另有 500 credits 基础额度；<br>⏳ **限时福利：HY3 模型全员免费体验（0 积分）至 2026-07-22** | 深度依赖腾讯云生态、习惯中文研发环境的开发者 | [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
 | **Qoder CN**（原通义灵码，阿里） | 个人社区版: **免费**（受限额度，含 2 周 Pro 试用及 300 credits）<br>个人专业版: ¥59/月（2000 credits）<br>企业版: ¥99 或 ¥199/席/月 | ⚠️ **于 2026-05-20 完成品牌重塑与定价调整**，免费层额度大幅收紧（补全频次及配额受限），原“无限期免费”政策正式终结 | 阿里云生态开发者；需要灵活切换国内主流模型（Qwen、GLM、Kimi）的团队 | [cn.aliyun.com/product/lingma](https://cn.aliyun.com/product/lingma) |
 | **Zed** | 编辑器核心功能免费<br>提供 Pro 低成本订阅档位 | 核心编辑器开源且免费；<br>✅ **通过学生身份认证可获得 1 年免费会员资格**，每月包含约 $10 AI 模型调用额度 | 追求极致响应速度、本地优先及强隐私合规保障的开发者 | [zed.dev](https://zed.dev) |
 
@@ -138,7 +138,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | 工具 | 优惠 | 截止 | 说明 |
 |------|------|------|------|
 | **Cline (ClinePass)** | 通过 `npm i -g cline` 注册可享 **$1.99/月新品限时价**（正价 $9.99/月），统一接入 10+ 开源模型 | **待定**（新品上线，截止时间尚未公布） | 含 GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等，API 速率上限为标准访问的 2–5 倍；支持 Cline CLI 与 IDE — 请前往 [cline.bot](https://cline.bot) 核实最新条款 |
-| **CodeBuddy**（腾讯，国内站） | **HY3 模型全员免费体验**——活动期间 **0 积分**消耗；HY3 Agent 能力大幅跃升 | **2026-07-22** | CodeBuddy 与 WorkBuddy 现已统一为同一产品；详情参见 [codebuddy.cn](https://www.codebuddy.cn/) |
+| **CodeBuddy**（腾讯，国内站） | **HY3 模型全员免费体验**——活动期间 **0 积分**消耗；HY3 Agent 能力大幅跃升 | **2026-07-22** | CodeBuddy 与 WorkBuddy 现已统一为同一产品；新用户注册另赠最高 **3600 credits**（详见上方优惠推荐）——详情参见 [codebuddy.cn](https://www.codebuddy.cn/) |
 | **Devin Desktop** | **GLM-5.2 与 Kimi K2.7 模型对 Pro/Max/Teams 用户免费开放**（两款前沿开源模型在 FrontierCode Extended 评测中得分分别为：GLM-5.2 43.0%、Kimi K2.7 39.5%；作为对比，GPT-5.5 为 44.8%、Opus 4.8 为 51.8%） | **2026-07-05** | 详情参见 [devin.ai](https://devin.ai)；此外，新用户完成新手引导（绑定 Git 仓库）即赠送 **$10 AI 额度** |
 | **ZCode**（智谱） | 新用户注册享 **5 天免费试用，每日赠送 500 万 Token**（GLM-5.2 300 万 + GLM-5-turbo 200 万）；GLM Coding Plan 订阅用户可享受 **1.5 倍配额加成** | 官方原定截止日期为 **2026-06-30**（截至 2026-06-25 官网仍列出此项，具体以官网最新公告为准） | 零成本评估开源 **GLM-5.2** 实际表现的最佳渠道；详情参见 [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 

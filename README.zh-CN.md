@@ -48,6 +48,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | **Devin Desktop** ✅ *已验证* | 新用户完成新手引导（绑定 Git 仓库）即赠送 **$10 AI 算力额度**；Pro 及以上订阅可免费调用 SWE 1.6 模型 | 体验 Devin Cloud（支持自主提交 PR 的云端 Agent）的最低成本路径 |
 | **Zed**（学生）✅ | 通过学术身份认证可获得 **1 年免费会员资格**，每月包含约 $10 的 AI 模型调用额度 | 具备学术身份的开发者首选的免费方案 |
 | **ZCode**（智谱）✅ | 新用户注册可享 **5 天免费试用，每日赠送 500 万 Token**（GLM-5.2 与 GLM-5-turbo 额度组合）——活动截止至 **2026-06-30** | 零成本评估当前主流开源模型 **GLM-5.2** 实际表现的最佳渠道 |
+| **Grok / SuperGrok**（xAI）✅ *已验证* | 前往 [grok.com/plans](https://grok.com/plans) 选择 SuperGrok，开通 **7 天免费试用**——可用 **Grok 4.5** 与 **Grok Build**（xAI 终端编程 Agent）正式付费额度；**需绑定信用卡**；试用结束前取消，否则按 **$30/月** 扣款。多半仅限**从未开通过订阅**的账号；活动下线时间暂不明确 | 2026-07 未订阅账号实测可开通；一周内零成本体验前沿模型 + 终端 Agent |
 | **GitHub Copilot** | **$10/月** Pro 档位，名义订阅价格最低；**行内代码补全（Inline Completions）保持免费** | 即使引入按量计费机制，依然是极具性价比的基准选择 ⚠️ *自 2026-06-01 起暂停新用户注册* |
 | **OpenAI Codex** | **ChatGPT 免费版已内置 Codex 功能**——支持 Web、CLI 及 **桌面客户端（macOS/Windows）**，无需绑定信用卡 | 零成本入门方案；推荐使用官方桌面客户端以获得最佳交互体验 |
 | **Google Antigravity / Gemini** | 提供**高额度免费层**；AI Pro 订阅仅需 **$19.99/月** | 体验多 Agent 协同工作流与高响应速度 Gemini 模型的低门槛入口 |
@@ -120,6 +121,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | **Freebuff** | **100% 免费**（广告支持；含 CLI / Web / Chat）<br>CLI：`npm install -g freebuff` | 永久 $0，无需 API Key 或信用卡；[Web 邀请链接](https://freebuff.com/web/?ref=ref-b3046190-1d77-44c1-915c-b71b4f36ae5e) | 零预算 CLI Agent、Web 应用构建或 AI 对话；接入开源模型（DeepSeek、Kimi、MiniMax 等） | [freebuff.com](https://freebuff.com/) |
 | **Codebuff** | 订阅：**$100/月**（1× 用量）、**$200/月**（2.5×）、**$500/月**（7×）<br>按量计费：注册赠送 **500 credits**，之后 **$0.01/credit** | 注册 credits 约可支撑新项目数小时开发；随时可取消 | 深度代码库索引的高阶终端 Agent，输出质量更高；与 Freebuff 同公司，但是独立付费产品 | [codebuff.com](https://www.codebuff.com) |
 | **Claude Code** | 免费版不包含 Claude Code<br>Pro: **$17/月（年付）** 或 $20/月（月付）<br>Max: 5x $100 或 20x $200<br>Team: $20–$100/席/月 | 年付方案约享 85 折优惠；使用配额基于 5 小时滚动窗口（2026-05-06 已将额度翻倍），与 Claude 网页端 Chat 共享；Max 档位设有双重周配额上限 | 追求顶尖推理能力（Opus 4.8）、适用于大型复杂重构及百万级超长上下文分析的场景 | [claude.com/claude-code](https://www.claude.com/product/claude-code) |
+| **Grok Build**（xAI） | Grok 对话免费层（有频次限制）<br>**SuperGrok：$30/月**<br>SuperGrok Heavy：更高档位 | ✅ **7 天 SuperGrok 免费试用**（[grok.com/plans](https://grok.com/plans)）——含 **Grok 4.5** 与 Grok Build 正式额度；需绑信用卡；**试用结束前取消**以免 $30/月扣款。多半面向**从未订阅**账号；活动截止时间待定 | 基于 Grok 4.5 的终端编程 Agent；可在不立即付费的前提下评估 xAI 前沿模型 | [grok.com/plans](https://grok.com/plans) |
 | **OpenAI Codex** | **ChatGPT 免费版已包含 Codex 权益**（支持 Web、CLI 及桌面客户端，受限于 5 小时滚动窗口最低限额）<br>Go: $8/月<br>Plus: $20/月<br>Pro: $100–$200/月<br>Business/Enterprise: 定制方案 | 通过 ChatGPT 免费版即可实现零成本接入（无需绑定信用卡）；免费层的限时促销加量活动已结束；支持接入个人 **OpenAI API Key**（按 Token 计费，无窗口限制，但无法使用云端沙箱等高级特性） | 深度绑定 OpenAI 生态的开发者；**推荐使用官方桌面客户端（macOS/Windows）作为首选交互界面**；支持云端沙箱环境 | [openai.com/codex](https://openai.com/codex) |
 | **Gemini CLI / Antigravity CLI** | **提供高额度免费层**（每日配额充足） | 极具诚意的免费额度政策 | 适合轻中度使用、且对超长上下文（Context Window）有强需求的场景 | [antigravity.google](https://antigravity.google) |
 | **Ollama Cloud** | Free：$0<br>Pro：**$20/月**（或 $200/年）<br>Max：$100/月 | Pro 提供相对 Free **50×** 的云端用量，以及 **3 路云端模型并发**（Free：1；Max：10）。云端用量按 GPU 时间计量，并存在 **5 小时会话**与**7 天周度**重置窗口；本地运行模型始终无限制。 | 希望保持本地优先工作流，同时按订阅使用大模型云端算力（例如 `glm-5.2:cloud`），避免管理多家厂商 Key 的开发者 | [ollama.com/pricing](https://ollama.com/pricing) |
@@ -141,6 +143,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | **CodeBuddy**（腾讯，国内站） | **HY3 模型全员免费体验**——活动期间 **0 积分**消耗；HY3 Agent 能力大幅跃升 | **2026-07-22** | CodeBuddy 与 WorkBuddy 现已统一为同一产品；新用户注册另赠最高 **3600 credits**（详见上方优惠推荐）——详情参见 [codebuddy.cn](https://www.codebuddy.cn/) |
 | **Devin Desktop** | **GLM-5.2 与 Kimi K2.7 模型对 Pro/Max/Teams 用户免费开放**（两款前沿开源模型在 FrontierCode Extended 评测中得分分别为：GLM-5.2 43.0%、Kimi K2.7 39.5%；作为对比，GPT-5.5 为 44.8%、Opus 4.8 为 51.8%） | **2026-07-05** | 详情参见 [devin.ai](https://devin.ai)；此外，新用户完成新手引导（绑定 Git 仓库）即赠送 **$10 AI 额度** |
 | **ZCode**（智谱） | 新用户注册享 **5 天免费试用，每日赠送 500 万 Token**（GLM-5.2 300 万 + GLM-5-turbo 200 万）；GLM Coding Plan 订阅用户可享受 **1.5 倍配额加成** | 官方原定截止日期为 **2026-06-30**（截至 2026-06-25 官网仍列出此项，具体以官网最新公告为准） | 零成本评估开源 **GLM-5.2** 实际表现的最佳渠道；详情参见 [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+| **Grok / SuperGrok**（xAI） | **7 天 SuperGrok 免费试用**——Grok 4.5 + Grok Build 正式额度；入口 [grok.com/plans](https://grok.com/plans) | **待定**（活动下线时间未公布；2026-07 实测仍可用） | 需绑信用卡；试用结束前取消，否则按 **$30/月** 自动续费。多半仅限**从未开通过订阅**的账号；老订阅用户未必能看到该入口 |
 
 > 已过期的促销活动将从本节移除，相关工具仍将保留在上方对应分类中，并同步更新为常规价格信息。
 

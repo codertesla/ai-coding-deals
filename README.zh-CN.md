@@ -35,24 +35,20 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 
 ## 🔥 高性价比推荐方案
 
-以下为当前性价比极高、推荐优先考虑的方案。（已于 2026 年 06 月核实，付费前请前往官网确认最新条款。）
+按推荐优先级排序的精选方案（越靠前越优先考虑）。已过期、暂停注册或受众过窄的条目已移出本表，详情仍见下方分类章节。（2026-07 整理，付费前请前往官网确认最新条款。）
 
 | 工具 | 优惠 | 选型依据 |
 |------|------|----------|
-| **Cursor** ✅ *已验证* | 新账号通过**任意邀请链接注册可享首月 5 折**——Pro 档位首月仅需 **$10**，更高档位同享折扣。每个邀请链接有使用次数上限，建议通过搜索引擎获取最新链接（如搜索 "Cursor referral link"）。**支持支付宝付款**——若无长期订阅需求，请记得取消自动续费。 | 2026-06 全新账号实测有效；为当前体验 Pro 完整功能的最低成本方案 |
-| **Freebuff** | **100% 免费**（广告支持）的编程 Agent（CLI / Web / Chat），官网 [freebuff.com](https://freebuff.com/) — 无需 API Key 或订阅；[Web 邀请链接](https://freebuff.com/web/?ref=ref-b3046190-1d77-44c1-915c-b71b4f36ae5e) | 真正的 $0；CLI 通过 `npm install -g freebuff` 安装；接入 DeepSeek、Kimi、MiniMax 等开源模型 — 与 [Codebuff](https://www.codebuff.com) 同公司，但是独立的免费产品线 |
-| **Cline (ClinePass)** | 通过 `npm i -g cline` 注册可享 **ClinePass 新品限时 $1.99/月**（正价 **$9.99/月**）——统一接入 10+ 开源模型（GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等），API 速率上限为标准访问的 **2–5 倍**；支持 Cline CLI 与 IDE 插件 | 以极低固定月费体验 GLM-5.2 与 Kimi K2.7 Code 的优选路径之一；促销截止时间尚未公布 — 请前往 [cline.bot](https://cline.bot) 或 [x.com/cline](https://x.com/cline) 核实 |
-| **OpenCode** ✅ *已验证* | 通过[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)注册，双方可各获得 **$5 赠送额度** | 配合低单价的国内主流模型（如 Qwen、DeepSeek、GLM、Kimi）使用，性价比极高 |
-| **CodeBuddy / WorkBuddy**（腾讯，国内站）✅ *已验证* | 通过 [WorkBuddy 邀请链接](https://www.workbuddy.cn/events/invite?inviteCode=fmfw2whmh) 注册（**微信登录**）：受邀新用户获 **注册礼 2000 积分**（有效期 **1 个月**），完成新手任务另有额外赠送，合计最高 **3600 credits**，约等于首月免费体验标准版（**¥99/月**）；**首次付费双方各得 500 积分**（受邀人仅首次付费奖励一次，有效期 **6 个月**），并可叠加其他活动；另享 **HY3 模型全员免费体验**（0 积分，**2026-07-06 至 2026-07-22**） | 2026-07 新号实测：账号归属体验版，但首月 credits 额度接近标准版；CodeBuddy 与 WorkBuddy 现已统一为同一产品；邀请注册额外解锁付费加成积分 |
-| **腾讯云 AI 模型广场** ✅ *已验证* | 新用户可在[模型广场](https://curl.qcloud.com/PN0cvBnI)页面右上角点击「**新用户福利免费体验**」领取——**所有语言模型**与**多模态理解模型**均各享 **100 万 Token** 免费体验额度，自领取起 **90 天内**有效（含 **HY3**、GLM-5.2、DeepSeek V4 Pro、Kimi K2.7 Code 等）；混元 **HY3** 另有专属 **Hy Token Plan**，最低 **¥28/月** 可获 **3500 万 Token** | 国内开发者以零/极低成本接入多款旗舰开源模型的首选 API 渠道；配合 Aider、Cline 等 BYOK 客户端性价比极高 |
-| **Devin Desktop** ✅ *已验证* | 新用户完成新手引导（绑定 Git 仓库）即赠送 **$10 AI 算力额度**；Pro 及以上订阅可免费调用 SWE 1.6 模型 | 体验 Devin Cloud（支持自主提交 PR 的云端 Agent）的最低成本路径 |
-| **Zed**（学生）✅ | 通过学术身份认证可获得 **1 年免费会员资格**，每月包含约 $10 的 AI 模型调用额度 | 具备学术身份的开发者首选的免费方案 |
-| **ZCode**（智谱）✅ | 新用户注册可享 **5 天免费试用，每日赠送 500 万 Token**（GLM-5.2 与 GLM-5-turbo 额度组合）——活动截止至 **2026-06-30** | 零成本评估当前主流开源模型 **GLM-5.2** 实际表现的最佳渠道 |
-| **Grok / SuperGrok**（xAI）✅ *已验证* | 前往 [grok.com/plans](https://grok.com/plans) 选择 SuperGrok，开通 **7 天免费试用**——可用 **Grok 4.5** 与 **Grok Build**（xAI 终端编程 Agent）正式付费额度；**需绑定信用卡**；试用结束前取消，否则按 **$30/月** 扣款。多半仅限**从未开通过订阅**的账号；活动下线时间暂不明确 | 2026-07 未订阅账号实测可开通；一周内零成本体验前沿模型 + 终端 Agent |
-| **Kimi**（月之暗面） | **限时活动：免费领取会员**（抽奖）——通过[邀请链接](https://kimi-bot.com/activities/zh-cn/viral-referral/share?scenario=invite&from=share_poster&invitation_code=ZCDJXZ)参与，可抽中 **3 / 7 / 15 / 30 / 最长 365 天**会员（最低 3 天）；旗舰模型 **Kimi K3** 于 **2026-07-17** 发布，多项评测指标跻身 **TOP 3**；正式套餐见[会员定价](https://www.kimi.com/membership/pricing?from=kfc_membership_upgrade_price&track_id=fcbd4630-4439-498a-b934-d6cee41da4f1)（国内档：Andante **¥49/月**起，含 Kimi Code / Agent） | 零成本抽奖体验含 Kimi Code 与 Agent 的会员权益；K3 为当前实力强劲的前沿模型之一 |
-| **GitHub Copilot** | **$10/月** Pro 档位，名义订阅价格最低；**行内代码补全（Inline Completions）保持免费** | 即使引入按量计费机制，依然是极具性价比的基准选择 ⚠️ *自 2026-06-01 起暂停新用户注册* |
-| **OpenAI Codex** | **ChatGPT 免费版已内置 Codex 功能**——支持 Web、CLI 及 **桌面客户端（macOS/Windows）**，无需绑定信用卡 | 零成本入门方案；推荐使用官方桌面客户端以获得最佳交互体验 |
-| **Google Antigravity / Gemini** | 提供**高额度免费层**；AI Pro 订阅仅需 **$19.99/月** | 体验多 Agent 协同工作流与高响应速度 Gemini 模型的低门槛入口 |
+| **Cursor** ✅ *已验证* | 新账号通过**任意邀请链接注册可享首月 5 折**——Pro 档位首月仅需 **$10**，更高档位同享折扣。每个邀请链接有使用次数上限，建议通过搜索引擎获取最新链接（如搜索 "Cursor referral link"）。**支持支付宝付款**——若无长期订阅需求，请记得取消自动续费。 | 当前主流 Agentic IDE；2026-06 实测有效，体验完整 Pro 功能的最低成本入口 |
+| **CodeBuddy / WorkBuddy**（腾讯，国内站）✅ *已验证* | 通过 [WorkBuddy 邀请链接](https://www.workbuddy.cn/events/invite?inviteCode=fmfw2whmh) 注册（**微信登录**）：受邀新用户获 **注册礼 2000 积分**（有效期 **1 个月**），完成新手任务另有额外赠送，合计最高 **3600 credits**，约等于首月免费体验标准版（**¥99/月**）；**首次付费双方各得 500 积分**（受邀人仅首次付费奖励一次，有效期 **6 个月**），并可叠加其他活动；另享 **HY3 模型全员免费体验**（0 积分，**2026-07-06 至 2026-07-22**） | 国内站新用户额度最扎实的一条；约等于首月白嫖标准版，且有邀请付费加成 |
+| **腾讯云 AI 模型广场** ✅ *已验证* | 新用户可在[模型广场](https://curl.qcloud.com/PN0cvBnI)页面右上角点击「**新用户福利免费体验**」领取——**所有语言模型**与**多模态理解模型**均各享 **100 万 Token** 免费体验额度，自领取起 **90 天内**有效（含 **HY3**、GLM-5.2、DeepSeek V4 Pro、Kimi K2.7 Code 等）；混元 **HY3** 另有专属 **Hy Token Plan**，最低 **¥28/月** 可获 **3500 万 Token** | 国内 BYOK / 开源客户端的首选低成本 API 底座；一张 Key 覆盖多款旗舰模型 |
+| **Freebuff** | **100% 免费**（广告支持）的编程 Agent（CLI / Web / Chat），官网 [freebuff.com](https://freebuff.com/) — 无需 API Key 或订阅；[Web 邀请链接](https://freebuff.com/web/?ref=ref-b3046190-1d77-44c1-915c-b71b4f36ae5e) | 真正的 $0；零预算试用 CLI / Web Agent 的最简单路径 |
+| **OpenAI Codex** | **ChatGPT 免费版已内置 Codex 功能**——支持 Web、CLI 及 **桌面客户端（macOS/Windows）**，无需绑定信用卡 | 覆盖面最广的零成本入门；已有 ChatGPT 账号即可直接用 |
+| **Google Antigravity / Gemini** | 提供**高额度免费层**；AI Pro 订阅仅需 **$19.99/月** | 免费层额度慷慨；想试多 Agent / 高速 Gemini 工作流时门槛最低 |
+| **OpenCode** ✅ *已验证* | 通过[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)注册，双方可各获得 **$5 赠送额度** | 配合 Qwen / DeepSeek / GLM / Kimi 等低价模型时，性价比很高 |
+| **Grok / SuperGrok**（xAI）✅ *已验证* | 前往 [grok.com/plans](https://grok.com/plans) 选择 SuperGrok，开通 **7 天免费试用**——可用 **Grok 4.5** 与 **Grok Build**（xAI 终端编程 Agent）正式付费额度；**需绑定信用卡**；试用结束前取消，否则按 **$30/月** 扣款。多半仅限**从未开通过订阅**的账号；活动下线时间暂不明确 | 一周内零成本摸清前沿模型 + 终端 Agent；记得试用结束前取消 |
+| **Kimi**（月之暗面） | **限时活动：免费领取会员**（抽奖）——通过[邀请链接](https://kimi-bot.com/activities/zh-cn/viral-referral/share?scenario=invite&from=share_poster&invitation_code=ZCDJXZ)参与，可抽中 **3 / 7 / 15 / 30 / 最长 365 天**会员（最低 3 天）；旗舰模型 **Kimi K3** 于 **2026-07-17** 发布，多项评测指标跻身 **TOP 3**；正式套餐见[会员定价](https://www.kimi.com/membership/pricing?from=kfc_membership_upgrade_price&track_id=fcbd4630-4439-498a-b934-d6cee41da4f1)（国内档：Andante **¥49/月**起，含 Kimi Code / Agent） | 抽奖不确定性较高，但零成本且可顺带体验 K3 / Kimi Code |
+| **Cline (ClinePass)** | 通过 `npm i -g cline` 注册可享 **ClinePass 新品限时 $1.99/月**（正价 **$9.99/月**）——现已接入旗舰 **Kimi K3**，官方称约 **~5× 折扣额度**；另含 GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等 10+ 开源模型；支持 Cline CLI 与 IDE 插件 | 官方定位为当前体验 **Kimi K3** 的最低成本路径之一（Kimi 官方容量紧张时尤具价值）；促销截止未公布 — 请前往 [cline.bot](https://cline.bot) 或 [x.com/cline](https://x.com/cline) 核实 |
 
 > 💡 **提示：** 多数商业 AI 编程工具选择年付方案，通常可节省 **约 15%–20%** 的预算。
 
@@ -96,7 +92,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 |------|----------------|--------------|------|------|
 | **GitHub Copilot** | 免费（每月 2000 次补全）<br>Pro: **$10/月（含 1500 AI credits）**<br>Pro+: $39/月（含 7000 credits）<br>Max: $100/月（含 20000 credits）<br>Business: $19/席/月<br>Enterprise: $39/席/月 | ⚠️ **自 2026-06-01 起暂停 Pro/Pro+/Max 档位的新用户注册**（Max 档位目前仅支持老用户升级）。1 credit 折算为 $0.01；**行内代码补全与 Next Edit 功能保持免费**。学生可免费申请 Pro 权益（详见学生福利） | 深度依赖 GitHub 工作流的团队；企业级安全合规的首选方案 | [github.com/features/copilot](https://github.com/features/copilot) |
 | **Continue.dev** | 核心功能**完全免费**（支持自带 Key 或本地 Ollama 部署）<br>Team: 约 $20/席/月 | 核心插件完全开源，支持零成本自托管 | 追求极致隐私合规、成本控制，且需要高度自定义模型接入的团队 | [continue.dev](https://www.continue.dev) |
-| **Cline** | **完全免费且开源**（支持 BYOK 或本地模型）<br>**ClinePass：$9.99/月** — 统一接入 10+ 开源模型（GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等），API 速率上限为标准访问的 2–5 倍；支持 IDE 插件与 CLI | ⏳ **ClinePass 新品限时 $1.99/月**（通过 `npm i -g cline` 注册，截止时间待定 — 请前往 [cline.bot](https://cline.bot) 核实）；BYOK/本地模式仍为 $0 | 追求高自主性的 VS Code 开发者；ClinePass 是以固定月费替代自行拼装多家 API Key 的低成本方案 | [cline.bot](https://cline.bot) |
+| **Cline** | **完全免费且开源**（支持 BYOK 或本地模型）<br>**ClinePass：$9.99/月** — 现已接入 **Kimi K3**（官方约 **~5× 折扣额度**），另含 GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等 10+ 开源模型；支持 IDE 插件与 CLI | ⏳ **ClinePass 新品限时 $1.99/月**（通过 `npm i -g cline` 注册，截止时间待定 — 请前往 [cline.bot](https://cline.bot) / [x.com/cline](https://x.com/cline) 核实）；BYOK/本地模式仍为 $0 | 追求高自主性的 VS Code 开发者；当前以固定月费体验 **Kimi K3** 的低成本方案之一 | [cline.bot](https://cline.bot) |
 | **Roo Code** | **完全免费且开源**（支持接入自定义 API Key） | 配合个人 API Key 即可实现按量付费，无固定订阅门槛 | 偏好 Cline 架构、但需要更丰富 Agent 工作模式的开发者 | [roocode.com](https://roocode.com) |
 | **Augment Code** | 免费 Community 档位（受限）<br>试用期提供 3 万 credits（需绑定信用卡）<br>Business: **$100/月一口价**（涵盖最多 50 个席位，包含 $100等值用量）<br>Enterprise: 定制方案 | 提供 3 万 credits 免费评估额度；Business 档位采用一口价模式（50 席以内免收席位费） | 拥有大型复杂代码库、对全局上下文深度理解有强需求的团队 | [augmentcode.com](https://www.augmentcode.com) |
 | **Amazon Q Developer** | **提供永久免费层**（每月包含 50 次 Agent 级请求及 1000 行代码重构转换）<br>Pro: **$19/席/月** | 基础免费额度（覆盖 IDE 与 CLI）无需绑定信用卡即可长期使用 | 深度集成 AWS 生态的研发团队；适合 Java / .NET 等老旧项目的现代化重构与迁移 | [aws.amazon.com/q/developer](https://aws.amazon.com/q/developer/) |
@@ -129,7 +125,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | **Ollama Cloud** | Free：$0<br>Pro：**$20/月**（或 $200/年）<br>Max：$100/月 | Pro 提供相对 Free **50×** 的云端用量，以及 **3 路云端模型并发**（Free：1；Max：10）。云端用量按 GPU 时间计量，并存在 **5 小时会话**与**7 天周度**重置窗口；本地运行模型始终无限制。 | 希望保持本地优先工作流，同时按订阅使用大模型云端算力（例如 `glm-5.2:cloud`），避免管理多家厂商 Key 的开发者 | [ollama.com/pricing](https://ollama.com/pricing) |
 | **Aider** | **完全免费且开源**（仅需支付 LLM 厂商 API 费用，或配合本地模型实现 $0 运行） | 配合本地运行的开源模型可实现完全零成本 | 追求 Git 原生级结对编程（Pair Programming）体验的开发者；支持超过 75 种主流模型 | [aider.chat](https://aider.chat) |
 | **Amp**（Sourcegraph） | **按量计费（Pay-As-You-Go）**，零加价直接转接原始 API 成本；首充仅需 $5 | 提供每日免费额度（约合 $10/天，按小时线性补充）——⚠️ **自 2026-05 起，该免费额度对部分用户已暂停或缩减**；目前已实现完全无广告体验 | 需要在多模型（如 GPT-5.5、Claude Opus）之间进行动态路由，且对上下文长度无限制要求的场景 | [ampcode.com](https://ampcode.com) |
-| **Cline** | 开源版免费（支持 BYOK）<br>**ClinePass：$9.99/月** — 统一接入 GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等 10+ 开源模型，API 速率上限为标准访问的 2–5 倍；CLI 安装：`npm i -g cline` | ⏳ **ClinePass 新品限时 $1.99/月**（通过 CLI 注册，截止时间待定 — 请前往 [cline.bot](https://cline.bot) 核实） | 以固定月费统一调用 10+ 开源模型；Cline CLI 与 IDE 均可用，是 OpenCode 的固定月费替代方案 | [cline.bot](https://cline.bot) |
+| **Cline** | 开源版免费（支持 BYOK）<br>**ClinePass：$9.99/月** — 现已接入 **Kimi K3**（官方约 **~5× 折扣额度**），另含 GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等；CLI 安装：`npm i -g cline` | ⏳ **ClinePass 新品限时 $1.99/月**（通过 CLI 注册，截止时间待定 — 请前往 [cline.bot](https://cline.bot) / [x.com/cline](https://x.com/cline) 核实） | 官方称当前为体验 **Kimi K3** 的最低成本路径之一；Cline CLI 与 IDE 均可用 | [cline.bot](https://cline.bot) |
 | **OpenCode** | 开源版免费（支持自带 Key）<br>**Go 计划: 首月 $5，后续 $10/月**（提供约合 $60/月的等值用量：5小时滚动限额 $12，单周上限 $30） | ✅ **通过邀请链接注册，双方可各获得 $5 赠送额度**（[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)） | 统一管理并调用 14 种主流开源模型（如 GLM-5.2、Kimi、Qwen、DeepSeek 等）的场景；可无缝适配各种第三方 Agent 客户端 | [opencode.ai](https://opencode.ai) |
 | **Crush**（Charm） | **完全免费且开源**（支持接入自定义 API Key） | 配合个人 API Key 即可实现按量付费，无固定订阅门槛 | 追求极致终端交互美学（TUI）与多模型灵活切换的开发者 | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | **Goose**（Block） | **完全免费且开源**（支持接入自定义 API Key 或本地运行） | 配合个人 API Key 即可实现按量付费，无固定订阅门槛 | 需要高度可扩展本地 Agent、且深度依赖 MCP（Model Context Protocol）生态的场景 | [block.github.io/goose](https://block.github.io/goose) |
@@ -141,7 +137,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 
 | 工具 | 优惠 | 截止 | 说明 |
 |------|------|------|------|
-| **Cline (ClinePass)** | 通过 `npm i -g cline` 注册可享 **$1.99/月新品限时价**（正价 $9.99/月），统一接入 10+ 开源模型 | **待定**（新品上线，截止时间尚未公布） | 含 GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等，API 速率上限为标准访问的 2–5 倍；支持 Cline CLI 与 IDE — 请前往 [cline.bot](https://cline.bot) 核实最新条款 |
+| **Cline (ClinePass)** | 通过 `npm i -g cline` 注册可享 **$1.99/月新品限时价**（正价 $9.99/月）；现已接入 **Kimi K3**，官方约 **~5× 折扣额度** | **待定**（新品上线，截止时间尚未公布） | 另含 GLM-5.2、Kimi K2.7 Code、DeepSeek V4、Qwen3.7、MiniMax、MiMo 等；官方称当前为体验 K3 的最低成本路径之一 — 见 [x.com/cline](https://x.com/cline)，条款请以 [cline.bot](https://cline.bot) 为准 |
 | **CodeBuddy / WorkBuddy**（腾讯，国内站） | **HY3 模型全员免费体验**——活动期间 **0 积分**消耗；HY3 Agent 能力大幅跃升 | **2026-07-22** | 同一产品；通过 [WorkBuddy 邀请链接](https://www.workbuddy.cn/events/invite?inviteCode=fmfw2whmh) 注册可获 **注册礼 2000 积分**（1 个月）+ 新手任务最高 **3600**，以及 **首次付费加成 500 积分**（详见上方优惠推荐）——亦可参见 [codebuddy.cn](https://www.codebuddy.cn/) |
 | **Devin Desktop** | **GLM-5.2 与 Kimi K2.7 模型对 Pro/Max/Teams 用户免费开放**（两款前沿开源模型在 FrontierCode Extended 评测中得分分别为：GLM-5.2 43.0%、Kimi K2.7 39.5%；作为对比，GPT-5.5 为 44.8%、Opus 4.8 为 51.8%） | **2026-07-05** | 详情参见 [devin.ai](https://devin.ai)；此外，新用户完成新手引导（绑定 Git 仓库）即赠送 **$10 AI 额度** |
 | **ZCode**（智谱） | 新用户注册享 **5 天免费试用，每日赠送 500 万 Token**（GLM-5.2 300 万 + GLM-5-turbo 200 万）；GLM Coding Plan 订阅用户可享受 **1.5 倍配额加成** | 官方原定截止日期为 **2026-06-30**（截至 2026-06-25 官网仍列出此项，具体以官网最新公告为准） | 零成本评估开源 **GLM-5.2** 实际表现的最佳渠道；详情参见 [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
@@ -174,7 +170,7 @@ AI 编程工具的定价与配额政策演进**极快**。本仓库致力于系�
 | **高频重度用户 / 复杂工程重构** | Cursor Pro + Claude Code | 采用双轨制：日常编码与多文件编辑依赖 Cursor IDE，面对复杂架构重构与深度推理任务时调用 Claude Code 终端 Agent |
 | **全栈 Web 开发** | Google Antigravity（AI Pro $19.99/月） | 原生支持多 Agent 并行协同，且内置浏览器沙箱，极大提升全栈开发与调试效率 |
 | **已有 ChatGPT Plus 订阅** | OpenAI Codex | 权益复用，无需额外承担软件订阅支出 |
-| **国内开发者 / 极致成本控制** | 腾讯云 AI 模型广场（免费体验包）/ ClinePass（$9.99/月）/ OpenCode / Aider + 国内主流模型（Qwen、DeepSeek、GLM、Kimi 等） | 模型广场新用户可为各语言/多模态模型零成本领取 **100 万 Token**（**90 天**有效）；ClinePass 以固定月费统一接入 10+ 开源模型；BYOK 客户端配合国内低价 API 可实现按量付费并最大化降低算力成本 |
+| **国内开发者 / 极致成本控制** | 腾讯云 AI 模型广场（免费体验包）/ ClinePass（$9.99/月，限时 $1.99）/ OpenCode / Aider + 国内主流模型（Qwen、DeepSeek、GLM、Kimi 等） | 模型广场新用户可为各语言/多模态模型零成本领取 **100 万 Token**（**90 天**有效）；ClinePass 现含 **Kimi K3**（约 **~5× 折扣额度**）及 10+ 开源模型；BYOK 客户端配合国内低价 API 可实现按量付费并最大化降低算力成本 |
 
 ## 💡 成本优化策略与技巧
 

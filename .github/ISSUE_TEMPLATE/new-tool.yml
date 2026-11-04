@@ -1,55 +1,71 @@
-name: "➕ New tool — 新增工具"
-description: "Suggest a new AI coding tool to add. 推荐新增一个 AI 编程工具。"
-title: "[new tool] <tool name>"
+name: "New Tool Submission / 新增工具收录"
+description: "Submit a verified AI coding IDE, extension, or CLI agent. 提交经核实的 AI 编程 IDE、插件或终端代理。"
+title: "[new-tool] <Tool Name>"
 labels: ["new tool"]
 body:
   - type: input
     id: tool
     attributes:
-      label: "Tool name / 工具名称"
+      label: "Tool Name / 工具名称"
+      placeholder: "e.g., OpenCode, Kiro, Cline"
+    validations:
+      required: true
+  - type: dropdown
+    id: disclosure
+    attributes:
+      label: "Authorship & Commercial Interest / 作者身份与利益关系"
+      description: "Required. Undisclosed vendor or affiliate submissions are closed without review. 必填：未披露厂商任职或返利关系的投稿将直接关闭。"
+      options:
+        - "Independent user — no affiliation / 独立用户，与该产品无利益关系"
+        - "I work for or represent this vendor / 我属于该产品团队或代表其公司"
+        - "My link contains a referral or affiliate code / 我提交的链接含返利或联盟参数"
+        - "Other commercial interest / 其他商业利益关系"
     validations:
       required: true
   - type: input
     id: link
     attributes:
-      label: "🔗 Official site / 官网"
+      label: "Official Website / 官方网站"
+      placeholder: "https://..."
     validations:
       required: true
   - type: dropdown
     id: category
     attributes:
-      label: "Category / 分类"
+      label: "Category / 所属分类"
       options:
-        - "Agentic IDE / AI 原生 IDE"
-        - "Assistant / IDE extension / 助手或扩展"
-        - "CLI / terminal agent / 终端 Agent"
-        - "App / UI builder / 应用生成"
+        - "Agentic IDE / 原生 IDE"
+        - "IDE Extension / 编程插件 (VS Code & JetBrains)"
+        - "CLI & Terminal Agent / 终端代理"
+        - "API & Inference Provider / 模型 API 与推理底座"
         - "Other / 其他"
     validations:
       required: true
   - type: textarea
     id: pricing
     attributes:
-      label: "Pricing & any free tier / discount — 定价、免费额度或折扣"
-      placeholder: "Free tier: ... · Pro: $X/mo · Discount: ..."
+      label: "Pricing, Free Tier & Quota Rules / 定价、免费额度与扣减规则"
+      placeholder: "Free tier: 500 credits/mo · Pro: $10/mo · Multiplier: 1.0x..."
     validations:
       required: true
   - type: input
     id: source
     attributes:
-      label: "🔗 Source link / 来源链接"
+      label: "Official Pricing or Changelog URL / 官方定价页或公告链接"
+      placeholder: "https://vendor.com/pricing"
     validations:
       required: true
   - type: input
     id: verified
     attributes:
-      label: "📅 Date verified / 核实日期"
-      placeholder: "2026-06-25"
+      label: "Verification Date / 核实日期"
+      placeholder: "YYYY-MM-DD"
     validations:
       required: true
   - type: textarea
     id: why
     attributes:
-      label: "Why it's worth adding / 为什么值得收录"
+      label: "Core Use Case & Verdict / 核心适用场景与选型判断"
+      placeholder: "State the concrete engineering scenario and why its cost-to-capability ratio stands out."
     validations:
       required: false

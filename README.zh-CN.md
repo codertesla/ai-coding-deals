@@ -73,7 +73,7 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 | **Qoder CN** *（原通义灵码，阿里）* | 社区版：**免费**（限量，含 2 周 Pro 试用 + 300 credits）<br>专业版：¥59/月（2,000 credits）<br>企业版：¥99–¥199/席/月 | **2026-05-20 完成品牌更名与调价**，大幅收紧免费层补全频次与对话配额，终结此前无限免费政策。个人用户另可**每日 10 点领 100 通用 Credits**（10:00→次日 10:00，30 天有效）。 | 阿里云技术栈团队在单 IDE 内按需切换 Qwen、GLM 与 Kimi 模型。 | [cn.aliyun.com/product/lingma](https://cn.aliyun.com/product/lingma) |
 | **Zed** | 核心编辑器：**免费**<br>Zed Pro：低门槛月度订阅 | Rust 原生开源编辑器；**高校学生认证免费领 1 年 Zed Pro 会员**（含每月约 **$10 AI 模型额度**）。**14 天 Zed Pro 试用另赠 $5 GPT-6 Luna 额度**（无需绑卡，到期自动转免费版）。 | 重视毫秒级键盘响应、本地优先架构及高校免费算力额度的开发者。 | [zed.dev](https://zed.dev) |
 | **MiniMax Code** | 免费：限量 | **每日签到 +400 积分**（连签第 4、7 天各 1,000，一周约 4,000，30 天有效）；不定期限时送 H3 Image 生图额度。积分为产品内额度，不是通用 API 余额。 | 基于 MiniMax M 系列文本与多模态模型的桌面编程 Agent。 | [minimax.io](https://www.minimax.io/) |
-| **华为云码道** | 免费：邀请制 | **邀请活动：邀请人每次有效邀请 +1,000 积分（累计上限 5 万），被邀请人 +1,000 积分**，叠加新用户 **4,000 基础积分**（邀请链接见「限时优惠与截止日历」，**2026-11-15 截止**）。内置 Kimi K3.1 Pro、GLM-5.3-Flash、DeepSeek V4.1 Flash；积分仅限码道客户端内使用。 | 华为云面向国内团队的自研编程 Agent。 | [codearts.huaweicloud.com](https://codearts.huaweicloud.com) |
+| **华为云码道** | 免费：邀请制 | **邀请活动：邀请人每次有效邀请 +1,000 积分（累计上限 5 万），被邀请人 +1,000 积分**，叠加新用户 **4,000 基础积分**（邀请链接见「邀请奖励一览」，**2026-11-15 截止**）。内置 Kimi K3.1 Pro、GLM-5.3-Flash、DeepSeek V4.1 Flash；积分仅限码道客户端内使用。 | 华为云面向国内团队的自研编程 Agent。 | [codearts.huaweicloud.com](https://codearts.huaweicloud.com) |
 | **智谱 AutoClaw** *（国内版）* | 免费：活动制 | **双十一登录领 5,000 万 Token**（2026-11-09→11-15，北京时间 11-15 23:59 失效）；**升级 2.2.0 送 +5,000 积分**（约 5,000 万 Token，7 天有效）。内置 GLM-5.3 / 5.3-Flash / 5-Turbo / 5V-Turbo；仅限 AutoClaw 内使用。 | 智谱围绕 GLM-5.x 家族打造的国内桌面编程 Agent。 | 见官网 |
 
 ## VS Code 与 JetBrains 编程插件
@@ -129,9 +129,9 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 
 | 端点 | 免费额度（2026-11） | 模型 / 兼容性 | 接入门槛 | 官方链接 |
 |------|---------------------|---------------|----------|----------|
-| **硅基流动 SiliconFlow** | 实名认证后送 **16 元通用代金券**（老用户亦可，180 天有效）；**邀请好友完成实名后，你和 TA 各再得 16 元、不设上限**（邀请链接见「限时优惠与截止日历」）；部分 OCR / 语音 / 向量 / 生图模型长期免费（非 LLM）。 | 平台模型含 Pro 与高速档；API、批量推理、微调均可用。 | 实名认证。 | [siliconflow.cn](https://siliconflow.cn/) |
-| **阿里云百炼** | 新用户每个模型（含快照）**各送 100 万 Token**（北京地域，90 天）；在读学生 **300 元抵扣金**（每 12 个月一次，至 2027-03-31）。另有**「邀新有礼」邀请活动**：邀请人最高 **1000 元**、被邀请人新客首购低至 **4.5 折**（邀请链接见「限时优惠与截止日历」）。 | qwen3.8-max、deepseek-v4-pro、kimi-k3 等（仅北京地域）。 | 实名；北京地域；通用 API Key。 | [bailian.console.aliyun.com](https://bailian.console.aliyun.com/) |
-| **火山方舟** | 新用户 4 款豆包模型**各送 50 万 Token**。其 **Coding Plan**（GLM-5.3 系列、DeepSeek-V4.1-Flash 1017、Doubao-Seed-Evolving；工具不限）另有新用户 **9.5 折**邀请活动（邀请链接与邀请码见「限时优惠与截止日历」）。 | Doubao-Seed-2.1-pro / 2.1-turbo / Evolving / Character。 | 仅在线推理；不含插件与存储。 | [volcengine.com/product/ark](https://www.volcengine.com/product/ark) |
+| **硅基流动 SiliconFlow** | 实名认证后送 **16 元通用代金券**（老用户亦可，180 天有效）；**邀请好友完成实名后，你和 TA 各再得 16 元、不设上限**（邀请链接见「邀请奖励一览」）；部分 OCR / 语音 / 向量 / 生图模型长期免费（非 LLM）。 | 平台模型含 Pro 与高速档；API、批量推理、微调均可用。 | 实名认证。 | [siliconflow.cn](https://siliconflow.cn/) |
+| **阿里云百炼** | 新用户每个模型（含快照）**各送 100 万 Token**（北京地域，90 天）；在读学生 **300 元抵扣金**（每 12 个月一次，至 2027-03-31）。另有**「邀新有礼」邀请活动**：邀请人最高 **1000 元**、被邀请人新客首购低至 **4.5 折**（邀请链接见「邀请奖励一览」）。 | qwen3.8-max、deepseek-v4-pro、kimi-k3 等（仅北京地域）。 | 实名；北京地域；通用 API Key。 | [bailian.console.aliyun.com](https://bailian.console.aliyun.com/) |
+| **火山方舟** | 新用户 4 款豆包模型**各送 50 万 Token**。其 **Coding Plan**（GLM-5.3 系列、DeepSeek-V4.1-Flash 1017、Doubao-Seed-Evolving；工具不限）另有新用户 **9.5 折**邀请活动（邀请链接与邀请码见「邀请奖励一览」）。 | Doubao-Seed-2.1-pro / 2.1-turbo / Evolving / Character。 | 仅在线推理；不含插件与存储。 | [volcengine.com/product/ark](https://www.volcengine.com/product/ark) |
 | **腾讯云 TokenHub** | 新用户每模型 **100 万 Token**（语言 + 多模态），1 年有效。 | TokenHub 模型广场内模型。 | 实名。 | 见官网 |
 | **百度千帆** | 新用户 **20 元代金券**（1 个月有效）。 | DeepSeek V4.1、GLM-5.3 等。 | 实名。 | [qianfan.cloud.baidu.com](https://qianfan.cloud.baidu.com/) |
 | **蚂蚁百灵 Ling** | 每月 1 日发 **10 元券** + 新人 **20 元券**；**Ling-3.2-flash 上线期免费**调用。 | Ling 系列模型。 | 绑定支付宝；免费期后按官网计费。 | 见官网 |
@@ -143,6 +143,19 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 | **OpenRouter** | 免费 `baidu/ernie-5.5-flash-preview:free`（共享每日 50 次 / 每分钟 20 次）。 | ERNIE 5.5 Flash Preview 及轮换免费模型。 | 官方聚合接入；受免费档速率限制。 | [openrouter.ai](https://openrouter.ai/) |
 | **书生·端砚** *（上海 AI Lab）* | 测试期每月赠墨点 Token Plan。 | DeepSeek-V4.1-Flash-1017、GLM-5.3、Qwen3.8-27B。 | 需创建 API Key；额度见账户。 | 见官网 |
 | **DeepSeek Harness** | 桌面版登录送 **6 元开放平台赠金**（限量）。 | deepseek-flash 与 deepseek-v4-pro。 | 桌面客户端；+86 手机号。 | [deepseek.com](https://www.deepseek.com/) |
+
+## 邀请奖励一览
+
+现有邀请/注册奖励的一站式索引。下表链接均**明确标注为邀请链接**，且对被邀请人不劣于官网公开价。限时活动同时会在[限时优惠与截止日历](#限时优惠与截止日历)内以硬截止日跟踪。
+
+| 平台 | 双方奖励 | 邀请链接 / 邀请码 | 截止 | 备注 |
+|------|----------|-------------------|------|------|
+| **OpenCode Go** | 双方各得 **$5 Go 用量** | [opencode.ai/go?ref=J9E8732NMP](https://opencode.ai/go?ref=J9E8732NMP) | 常驻 | 用于 $10/月 Go 档（见精选方案） |
+| **WorkBuddy / CodeBuddy** *（腾讯国内站）* | 受邀方 **2,000 积分**；首付费双方各 **+500**；邀请人 +50/激活、+100/首周活跃满 3 天 | [邀请链接](https://www.workbuddy.cn/events/invite?inviteCode=qm4gyc1daqn) | 2026-11-30 | 微信登录；见限时表 |
+| **硅基流动 SiliconFlow** | 好友实名后双方**各得 ¥16**（不设上限）；另有 ¥16 实名认证券 | [cloud.siliconflow.cn/i/6UosFyoo](https://cloud.siliconflow.cn/i/6UosFyoo) | 2026-12-31 | 需实名认证 |
+| **火山方舟 Coding Plan** | 受邀人首单 **9.5 折**；邀请人 **5%** 返券（上不封顶） | [邀请链接](https://volcengine.com/L/ikpXOgCIUiE/) · 邀请码 **M4AAF2XN** | 2026-11-19 | GLM-5.3 / DeepSeek-V4.1-Flash 1017 / Doubao-Seed-Evolving；工具不限 |
+| **阿里云百炼** | 邀请人最高 **¥1,000**；受邀人首购低至 **4.5 折** | [邀请链接](https://www.aliyun.com/benefit/ai/aistar?clubBiz=subTask..13023094..10274..) | 以活动页为准 | 金额随活动调整 |
+| **华为云码道** | 邀请人每次 **+1,000**（上限 5 万）；受邀人 **+1,000** | [邀请链接](https://devcloud.cn-north-4.huaweicloud.com/chat?source=dmzntgwlb&sourcead=dmzntgwlb1&invitecode=INV-fa8e5gx7GHFDRYdkR7FzMF_XAaAvSOscSfK75SuWars9sUEyWjToTrjhoSKyI5QoLqirtJK3X1qTryYa1XjqQlzGfgg2TlPwxGPrd6p0FOBo634AKceCCl9VXraFp-EfJXNjsZDrroKtj7ow-j1SDaX_CwRH7317UIaZm21Az_MgPjbt) | 2026-11-15 | 积分制；1 个月有效 |
 
 ## 限时优惠与截止日历
 
@@ -157,10 +170,10 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 | **Devin Desktop** | **免费使用 SWE-2 Flash Medium**（桌面端 / CLI） | **2026-12-05** | 免费账号有少量 Agent 额度；High/Max 需付费档；不含 Devin 云端会话。 |
 | **蚂蚁百灵 Ling** | **Ling-3.2-flash 免费调用**（支持文本 / 图片 / 视频输入） | **2026-11-19** | 先绑支付宝并开通模型服务；两周上线期结束后恢复收费。 |
 | **OpenCode** | **限时免费模型**——MiniMax M3.1 Flash、LongCat 2.5、DeepSeek V4.1 Flash、GLM-5.3-Flash 等 | **2026-11-23** | 仅限 OpenCode 内使用；LongCat 2.5 每日 100 次、托管于中国；部分模型会用于训练。 |
-| **火山方舟 Coding Plan** | **（邀请链接）** 新用户订阅邀请：经此[邀请链接](https://volcengine.com/L/ikpXOgCIUiE/)订阅（邀请码 **M4AAF2XN**）；支持 GLM-5.3 系列、DeepSeek-V4.1-Flash 1017、Doubao-Seed-Evolving 等模型，工具不限 | **2026-11-19** | 被邀请人首单享 **9.5 折**（低至 ¥9.4，订阅越多越划算）；邀请人获首单实付 **5%** 代金券，上不封顶。已标注为邀请链接，不劣于官网公开价。 |
-| **硅基流动 SiliconFlow** | **（邀请链接）** 经此[邀请链接](https://cloud.siliconflow.cn/i/6UosFyoo)注册；好友完成实名认证后，你和 TA 各得 **16 元**代金券，不设上限 | **2026-12-31** | 需实名认证；代金券全平台通用，含 Pro/高速模型。已标注为邀请链接，双方受益，不劣于官网公开价。 |
-| **阿里云百炼** | **（邀请链接）** 经此[邀请链接](https://www.aliyun.com/benefit/ai/aistar?clubBiz=subTask..13023094..10274..)参加「邀新有礼」：邀请人最高得 **1000 元**；被邀请人新客首购大模型入门套餐低至 **4.5 折** | **待定** *（以活动页为准）* | 具体金额/门槛随活动调整，以活动页实时规则为准；已标注为邀请链接，被邀请人不劣于官网公开价。 |
-| **华为云码道 CodeArts** | **（邀请链接）** 经此[邀请链接](https://devcloud.cn-north-4.huaweicloud.com/chat?source=dmzntgwlb&sourcead=dmzntgwlb1&invitecode=INV-fa8e5gx7GHFDRYdkR7FzMF_XAaAvSOscSfK75SuWars9sUEyWjToTrjhoSKyI5QoLqirtJK3X1qTryYa1XjqQlzGfgg2TlPwxGPrd6p0FOBo634AKceCCl9VXraFp-EfJXNjsZDrroKtj7ow-j1SDaX_CwRH7317UIaZm21Az_MgPjbt)邀请新用户；邀请人每次有效邀请 **+1,000 积分**（累计上限 5 万），被邀请人 **+1,000 积分**（叠加新用户 4,000 基础积分） | **2026-11-15** | 需先切换积分制套餐；积分 1 个月有效；积分仅限码道客户端内使用。已标注为邀请链接，双方受益。 |
+| **火山方舟 Coding Plan** | **新用户订阅邀请**（邀请链接与邀请码见[邀请奖励一览](#邀请奖励一览)）：订阅方舟 Coding Plan，支持 GLM-5.3 系列、DeepSeek-V4.1-Flash 1017、Doubao-Seed-Evolving 等模型，工具不限 | **2026-11-19** | 被邀请人首单享 **9.5 折**（低至 ¥9.4）；邀请人获首单实付 **5%** 代金券，上不封顶。 |
+| **硅基流动 SiliconFlow** | **互邀奖励**：好友经邀请链接注册并完成实名后，你和 TA 各得 **16 元**代金券，不设上限（链接见[邀请奖励一览](#邀请奖励一览)） | **2026-12-31** | 需实名认证；代金券全平台通用，含 Pro/高速模型。 |
+| **阿里云百炼** | **「邀新有礼」邀请**：邀请人最高得 **1000 元**，被邀请人新客首购低至 **4.5 折**（链接见[邀请奖励一览](#邀请奖励一览)） | **待定** *（以活动页为准）* | 具体金额/门槛随活动调整，以活动页为准。 |
+| **华为云码道 CodeArts** | **新用户邀请**：邀请人每次 **+1,000 积分**（累计上限 5 万），被邀请人 **+1,000 积分**（链接与邀请码见[邀请奖励一览](#邀请奖励一览)） | **2026-11-15** | 需积分制套餐；积分 1 个月有效；仅限码道客户端内使用。 |
 
 > **近期已下线活动归档（已移出活跃表）：** Copilot 企业版 3,000/7,000 额度加成（**2026-09-01**）；OpenCode Go 4× 额度膨胀（**2026-09-20**，已由 Go 档常驻 $100/月额度取代）；OpenCode Go 首月 $5（**2026-08-24**）；Cursor 邀请首月 5 折（**2026-07-23**）；WorkBuddy HY3 全员免费（**2026-07-22**）；Devin GLM-5.2 / Kimi K2.7 免费期（**2026-07-05**）；ZCode / GLM Coding Plan 1.5× 加成（**2026-06-30**）；Kimi 一期邀请抽奖（**2026-09 核实已结束**）。
 

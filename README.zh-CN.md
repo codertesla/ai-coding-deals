@@ -46,7 +46,7 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 
 ## 零成本 AI 编程方案（$0 / BYOK）
 
-不花一分钱软件订阅费，可以通过以下 6 条路径搭建完整的 AI 编程工作流：
+不花一分钱软件订阅费，可以通过以下 7 条路径搭建完整的 AI 编程工作流：
 
 - **免 Key 广告支持全免费 Agent：** [Freebuff](https://freebuff.com/) 提供 CLI（`npm install -g freebuff`）、Web、Desktop 与 Chat 全端支持，免绑卡直连 **DeepSeek V4.1 Flash**、Kimi 与 MiniMax。（由 [Codebuff](https://www.codebuff.com) 团队出品，作为独立免费产品线运营。）
 - **开源客户端 + 本地模型（$0 纯本地）：** 使用 [Aider](https://aider.chat)、[Continue.dev](https://www.continue.dev)、[Cline](https://cline.bot) 或 [OpenCode](https://opencode.ai) 接入本地 Ollama 模型，软件与算力成本均为 $0，代码完全不出本机。
@@ -54,6 +54,7 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 - **大厂 IDE 高配额免费层：** [Google Antigravity](https://antigravity.google)（行内 Tab 补全免费 + 每 5 小时重置 Agent 算力池）、[Cursor](https://cursor.com)（Free 档，限量）。
 - **免费 OpenAI 兼容推理接口（NVIDIA NIM）：** [NVIDIA NIM](https://build.nvidia.com/)（`base_url="https://integrate.api.nvidia.com/v1"`）凭单个 API Key 即可调用庞大的[开源模型目录](https://build.nvidia.com/models)，速率上限约 40 RPM（注册需手机验证码，适合原型开发与横向评测，无生产 SLA）。**社区实测首选模型：** `nvidia/nemotron-3-super-120b-a12b`，响应快且 `message.content` 输出稳定。
 - **腾讯云 90 天百万 Token 体验池：** 新用户在[腾讯云 AI 模型广场](https://curl.qcloud.com/PN0cvBnI)右上角领取福利后，每款语言模型与多模态模型均获 **100 万免费 Token**（有效期 90 天）；混元 **HY3** 另有 **¥28/月包 3,500 万 Token** 的低价流量包，适合搭配 Aider、Cline 等 BYOK 客户端长期使用。
+- **更多免费 LLM API / BYOK 端点：** 硅基流动、阿里云百炼、火山方舟、Cloudflare Workers AI、魔搭社区、Telnyx 等厂商官方免费额度，配额与接入门槛详见 [免费 LLM API 与 BYOK 端点](#免费-llm-api-与-byok-端点)。
 
 ## Agentic IDE 价格与配额对比
 
@@ -62,15 +63,18 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 | 工具 | 定价（2026-11） | 已核实折扣与配额规则 | 核心适用场景 | 官方链接 |
 |------|-----------------|----------------------|--------------|----------|
 | **Cursor** | 免费：限量<br>Plus：**$8/月**<br>Premium：**$30/月**<br>Super：**$100/月**<br>Ultra：**$200/月**<br>Teams：$30 / $100 / $200 每席<br>年付：$80 / $300 / $1,000 / $2,000 | 现通过 **The X Subscription** 售卖；旧版 Cursor 套餐**已对新注册关闭**（Pro $20、Pro+ $60、Ultra $200、Teams Standard $40、Teams Premium $120 对存量用户继续有效）。付费档共用**一个跨 Cursor 与 Grok 的每周算力池**；Plus 仅限 Grok 4.7 / 4.6 / 4.5 与 Composer 2.5 的固定参数，**第三方模型自 Premium 起开放**，按 API 目录价从预付额度扣费。邀请 5 折计划已于 2026-07-23 下线。 | 以周额度支撑多文件协同修改、后台并行 Agent 与 Grok 4.7 调用，并与 Grok、X 共用一份订阅。 | [cursor.com](https://cursor.com) |
-| **Devin Desktop** *（原 Windsurf）* | 免费（轻量配额，无限 Tab 补全）<br>Pro：**$20/月**<br>Max：$200/月<br>Teams：$80/月基座 + $40/席 | **新用户绑定 Git 仓库完成引导立赠 $10 AI 额度**；Pro 及以上档位免费调用 SWE 1.6 模型。*（GLM-5.2 / Kimi K2.7 限时免费已于 2026-07-05 结束。）* | 将长链路异步研发任务托管给 Devin Cloud，自动执行测试并提交 PR。 | [devin.ai](https://devin.ai) |
+| **Devin Desktop** *（原 Windsurf）* | 免费（轻量配额，无限 Tab 补全）<br>Pro：**$20/月**<br>Max：$200/月<br>Teams：$80/月基座 + $40/席 | **新用户绑定 Git 仓库完成引导立赠 $10 AI 额度**；**免费档另可零成本使用 SWE-2 Flash Medium（截至 2026-12-05）**；Pro 及以上档位免费调用 SWE 1.6 模型。*（GLM-5.2 / Kimi K2.7 限时免费已于 2026-07-05 结束。）* | 将长链路异步研发任务托管给 Devin Cloud，自动执行测试并提交 PR。 | [devin.ai](https://devin.ai) |
 | **Google Antigravity** | 免费层可用<br>AI Plus：$7.99/月<br>AI Pro：**$19.99/月**<br>AI Ultra：**$99.99–$200/月**（原 $250） | 全档位**行内 Tab 补全完全免费**；Ultra 顶配于 2026-05 从 $249.99 降至 $200；Agent 算力池每 5 小时重置一次（设每周总上限）。 | 多 Agent 并行开发与内置浏览器实时交互调试的全栈 Web 工程。 | [antigravity.google](https://antigravity.google) |
 | **Kiro** *（AWS）* | 免费：50 credits<br>Pro：**$20/月（含 1,000 credits）**<br>Pro+：$40/月（2,000 credits）<br>Pro Max：**$100/月（5,000 credits）**<br>Power：$200/月（10,000 credits） | 支持年付折扣，超额按 $0.04/credit 计费。模型消耗倍率：Auto 1.0×、Sonnet 1.3×、**Opus 4.8 2.2×**、Haiku 0.4×、GLM-5 0.5×、**Qwen3 Coder Next 0.05×**。 | 规格驱动（Spec-driven）生产级交付，以及 Amazon Q Developer 插件用户的官方迁移目标。 | [kiro.dev](https://kiro.dev) |
-| **Trae** *（字节跳动）* | 免费（月 5,000 次补全，2 路并发）<br>Pro：**$20/月**（含 $20 用量）<br>Pro+：**$60/月**（含 $60 用量，3×）<br>Ultra：**$200/月**（含 $200 用量，10×） | **国内版（`trae.cn`）面向个人开发者完全免费**，内置豆包与 DeepSeek 模型。 | $20/月 的类 Cursor 交互体验，或直接用 `trae.cn` 零成本获取同等能力。 | [trae.ai](https://trae.ai) |
-| **ZCode** *（智谱）* | 新用户试用 / GLM Coding Plan | 注册享多日高配额免费试用；Coding Plan 主打 **GLM-5.3 与 GLM-5.3-Flash**（Flash 可用配额约为 GLM-5.3 的 **3×**）。*（原 1.5× 配额加成已于 2026-06-30 结束。）* | 围绕智谱 GLM-5.3 系列模型构建工作流的官方原生 IDE。 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
+| **Trae** *（字节跳动）* | 免费（月 5,000 次补全，2 路并发）<br>Pro：**$20/月**（含 $20 用量）<br>Pro+：**$60/月**（含 $60 用量，3×）<br>Ultra：**$200/月**（含 $200 用量，10×） | **国内版（`trae.cn`）面向个人开发者完全免费**，内置豆包与 DeepSeek 模型；国内免费账号另可**每日签到领 100 积分（每月 500）**，新注册一次性赠 **2,000 积分**（31 天有效）。 | $20/月 的类 Cursor 交互体验，或直接用 `trae.cn` 零成本获取同等能力。 | [trae.ai](https://trae.ai) |
+| **ZCode** *（智谱）* | 新用户试用 / GLM Coding Plan | **新用户 5 天体验：每天 GLM-5.3 300 万 + GLM-5.3-Flash 500 万 Token**（两模型独立日额、每日刷新）；Coding Plan 主打 **GLM-5.3 与 GLM-5.3-Flash**（Flash 可用配额约为 GLM-5.3 的 **3×**）。*（原 1.5× 配额加成已于 2026-06-30 结束。）* | 围绕智谱 GLM-5.3 系列模型构建工作流的官方原生 IDE。 | [zcode.z.ai](https://zcode.z.ai/cn/docs/welcome) |
 | **CodeBuddy** *（腾讯国际站）* | 免费：250 credits / 2 周<br>Pro：**$9.95/月**（半价促销，原价 $19.90）或 $119.40/年（1,000 credits/月）<br>Team：$40/席/月 | 每两周自动发放 250 免费 credits；加量包 $9.95 / 1,000 credits 起。DeepSeek 官方合作伙伴，支持 **V4.1 Flash**。 | 海外腾讯云生态团队，以主流 IDE 一半的月费（$9.95）获取标准化辅助开发环境。 | [codebuddy.ai](https://www.codebuddy.ai/) |
 | **CodeBuddy / WorkBuddy** *（腾讯国内站）* | 体验版：**免费（500 credits/月）**<br>标准版：**¥99/月**（基础 2,000 + 赠送 2,000 = **4,000 积分**）<br>高级版：¥199/月（4,000 + 5,000 = 9,000）<br>旗舰版：¥999/月（20,000 + 30,000）<br>Buddy One VIP：¥700/月（原价 ¥1,399）<br>连续包月 7 折、连续包年 5.6 折 | 通过 [WorkBuddy 邀请链接](https://www.workbuddy.cn/events/invite?inviteCode=qm4gyc1daqn) 注册获 **2,000 积分**新用户礼包（1 个月有效）；叠加站内新手任务后宣传上限 **3,600 积分**（约合标准版一个月的 90%，**超出部分未逐项公示**）；注册 30 天内首次付费升级，双方各得 **500 积分**。已接入 **Kimi K3**（约 1.62×）与 **DeepSeek V4.1 Flash**。 | 国内腾讯云生态研发，以及用首月积分充分体验 **Kimi K3** 与 **DeepSeek V4.1 Flash** 后再决定是否付 ¥99。 | [workbuddy.cn](https://www.workbuddy.cn/events/invite?inviteCode=qm4gyc1daqn) / [codebuddy.cn](https://www.codebuddy.cn/pricing/) |
-| **Qoder CN** *（原通义灵码，阿里）* | 社区版：**免费**（限量，含 2 周 Pro 试用 + 300 credits）<br>专业版：¥59/月（2,000 credits）<br>企业版：¥99–¥199/席/月 | **2026-05-20 完成品牌更名与调价**，大幅收紧免费层补全频次与对话配额，终结此前无限免费政策。 | 阿里云技术栈团队在单 IDE 内按需切换 Qwen、GLM 与 Kimi 模型。 | [cn.aliyun.com/product/lingma](https://cn.aliyun.com/product/lingma) |
-| **Zed** | 核心编辑器：**免费**<br>Zed Pro：低门槛月度订阅 | Rust 原生开源编辑器；**高校学生认证免费领 1 年 Zed Pro 会员**（含每月约 **$10 AI 模型额度**）。 | 重视毫秒级键盘响应、本地优先架构及高校免费算力额度的开发者。 | [zed.dev](https://zed.dev) |
+| **Qoder CN** *（原通义灵码，阿里）* | 社区版：**免费**（限量，含 2 周 Pro 试用 + 300 credits）<br>专业版：¥59/月（2,000 credits）<br>企业版：¥99–¥199/席/月 | **2026-05-20 完成品牌更名与调价**，大幅收紧免费层补全频次与对话配额，终结此前无限免费政策。个人用户另可**每日 10 点领 100 通用 Credits**（10:00→次日 10:00，30 天有效）。 | 阿里云技术栈团队在单 IDE 内按需切换 Qwen、GLM 与 Kimi 模型。 | [cn.aliyun.com/product/lingma](https://cn.aliyun.com/product/lingma) |
+| **Zed** | 核心编辑器：**免费**<br>Zed Pro：低门槛月度订阅 | Rust 原生开源编辑器；**高校学生认证免费领 1 年 Zed Pro 会员**（含每月约 **$10 AI 模型额度**）。**14 天 Zed Pro 试用另赠 $5 GPT-6 Luna 额度**（无需绑卡，到期自动转免费版）。 | 重视毫秒级键盘响应、本地优先架构及高校免费算力额度的开发者。 | [zed.dev](https://zed.dev) |
+| **MiniMax Code** | 免费：限量 | **每日签到 +400 积分**（连签第 4、7 天各 1,000，一周约 4,000，30 天有效）；不定期限时送 H3 Image 生图额度。积分为产品内额度，不是通用 API 余额。 | 基于 MiniMax M 系列文本与多模态模型的桌面编程 Agent。 | [minimax.io](https://www.minimax.io/) |
+| **华为云码道** | 免费：邀请制 | **受邀新用户额外 +1,000 积分**（好友邀请链接，1 个月有效），叠加新用户 **4,000 基础积分**。内置 Kimi K3.1 Pro、GLM-5.3-Flash、DeepSeek V4.1 Flash；仅限码道客户端内使用。 | 华为云面向国内团队的自研编程 Agent。 | 见官网 |
+| **智谱 AutoClaw** *（国内版）* | 免费：活动制 | **双十一登录领 5,000 万 Token**（2026-11-09→11-15，北京时间 11-15 23:59 失效）；**升级 2.2.0 送 +5,000 积分**（约 5,000 万 Token，7 天有效）。内置 GLM-5.3 / 5.3-Flash / 5-Turbo / 5V-Turbo；仅限 AutoClaw 内使用。 | 智谱围绕 GLM-5.x 家族打造的国内桌面编程 Agent。 | 见官网 |
 
 ## VS Code 与 JetBrains 编程插件
 
@@ -114,10 +118,31 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 | **Aider** | **$0（开源 BYOK / 本地运行）** | 软件完全免费；仅支付上游 LLM API 实际 Token 消耗，接入本地 Ollama 模型则为 $0。 | Git 原生结对编程，自动生成规范 Commit 记录，兼容 75+ 款商业与开源模型。 | [aider.chat](https://aider.chat) |
 | **Amp** *（Sourcegraph）* | **按量计费（原始 API 零加价透传）**；首充门槛 $5 | 全程无广告；原每日约 $10 的按小时免费补充额度**自 2026-05 起对部分账号已暂停或缩减**。 | 不设上下文窗口硬上限，按原始 Token 成本在多模型间动态路由。 | [ampcode.com](https://ampcode.com) |
 | **Cline CLI** | 开源版：**$0（BYOK）**<br>**ClinePass：$9.99/月**（`npm i -g cline`） | BYOK 保持 $0；订阅 ClinePass（$9.99/月）可直接调用套餐内 GLM 5.3、Kimi K3、**DeepSeek V4 Pro / V4 Flash**、MiniMax 与 Qwen3.8 额度（[详情](https://cline.bot/cline-pass)）。 | 在终端或 CI 流水线中无头（Headless）运行 Cline 代理循环，以 $9.99/月锁定开源模型包月成本。 | [cline.bot](https://cline.bot) |
-| **OpenCode** | 开源版：**$0（BYOK）**<br>**Go：$10/月** · Go Plus：$40/月 · Go Teams：$20/席/月 | 通过[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)订阅**双方各得 $5 Go 额度**。**DeepSeek V4.1 Flash 月额度 $100**（模型 ID `deepseek-v4.1-flash`；5 小时窗口 $20、每周 $50），DeepSeek V4 Pro $15/月；另含 Grok 4.7、Kimi K3 / K3.1 Pro、GLM-5.3、Qwen3.8、MiniMax M3、GPT 6 Luna、Claude Haiku 5.5 等约 30 款模型。 | **$10 档付费调用 DeepSeek V4.1 Flash 的主力终端工具**，一张 Key 通用于多款第三方 Agent。 | [opencode.ai](https://opencode.ai) |
+| **OpenCode** | 开源版：**$0（BYOK）**<br>**Go：$10/月** · Go Plus：$40/月 · Go Teams：$20/席/月 | 通过[邀请链接](https://opencode.ai/go?ref=J9E8732NMP)订阅**双方各得 $5 Go 额度**。**DeepSeek V4.1 Flash 月额度 $100**（模型 ID `deepseek-v4.1-flash`；5 小时窗口 $20、每周 $50），DeepSeek V4 Pro $15/月；另含 Grok 4.7、Kimi K3 / K3.1 Pro、GLM-5.3、Qwen3.8、MiniMax M3、GPT 6 Luna、Claude Haiku 5.5 等约 30 款模型。另在 OpenCode 内**限时免费开放** MiniMax M3.1 Flash、LongCat 2.5（每日 100 次）、DeepSeek V4.1 Flash、GLM-5.3-Flash、MiMo-V2.6-Flash 与 Nemotron 免费版等模型。 | **$10 档付费调用 DeepSeek V4.1 Flash 的主力终端工具**，一张 Key 通用于多款第三方 Agent。 | [opencode.ai](https://opencode.ai) |
 | **Crush** *（Charm）* | **$0（开源 BYOK）** | 零软件授权费，接入任意自定义 API Key 按量付费。 | Charm 团队出品的高颜值终端交互界面（TUI），支持多模型灵活路由。 | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | **Goose** *（Block）* | **$0（开源 BYOK / 本地运行）** | 零软件授权费，支持本地模型或自有 API Key。 | 原生围绕 MCP（Model Context Protocol）插件生态构建的可扩展本地自动化 Agent。 | [block.github.io/goose](https://block.github.io/goose) |
 | **Qwen Code** | **$0（开源免费）** | 搭配本地或云端通义千问模型享受零软件授权费。 | 针对 Qwen3 Coder 系列模型深度调优的低成本终端编码方案。 | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
+
+## 免费 LLM API 与 BYOK 端点
+
+以下为可直接接入 **Aider、Cline、Continue.dev、OpenCode** 等任意 OpenAI 兼容客户端的厂商官方免费额度。额度数据截至 **2026-11-14** 厂商公布口径，实际数字请以链接页面为准；标 **见官网** 的条目暂无稳定的公开额度页。
+
+| 端点 | 免费额度（2026-11） | 模型 / 兼容性 | 接入门槛 | 官方链接 |
+|------|---------------------|---------------|----------|----------|
+| **硅基流动 SiliconFlow** | 实名认证后送 **16 元通用代金券**（老用户亦可，180 天有效）；部分 OCR / 语音 / 向量 / 生图模型长期免费（非 LLM）。 | 平台模型含 Pro 与高速档；API、批量推理、微调均可用。 | 实名认证。 | [siliconflow.cn](https://siliconflow.cn/) |
+| **阿里云百炼** | 新用户每个模型（含快照）**各送 100 万 Token**（北京地域，90 天）；在读学生 **300 元抵扣金**（每 12 个月一次，至 2027-03-31）。 | qwen3.8-max、deepseek-v4-pro、kimi-k3 等（仅北京地域）。 | 实名；北京地域；通用 API Key。 | [bailian.console.aliyun.com](https://bailian.console.aliyun.com/) |
+| **火山方舟** | 新用户 4 款豆包模型**各送 50 万 Token**。 | Doubao-Seed-2.1-pro / 2.1-turbo / Evolving / Character。 | 仅在线推理；不含插件与存储。 | [volcengine.com/product/ark](https://www.volcengine.com/product/ark) |
+| **腾讯云 TokenHub** | 新用户每模型 **100 万 Token**（语言 + 多模态），1 年有效。 | TokenHub 模型广场内模型。 | 实名。 | 见官网 |
+| **百度千帆** | 新用户 **20 元代金券**（1 个月有效）。 | DeepSeek V4.1、GLM-5.3 等。 | 实名。 | [qianfan.cloud.baidu.com](https://qianfan.cloud.baidu.com/) |
+| **蚂蚁百灵 Ling** | 每月 1 日发 **10 元券** + 新人 **20 元券**；**Ling-3.2-flash 上线期免费**调用。 | Ling 系列模型。 | 绑定支付宝；免费期后按官网计费。 | 见官网 |
+| **超算互联网 SCNet** | 新用户领 **1 亿 Token**（GLM-5.3-Flash，30 天有效），另有 **1,000 万 Token** 档。 | GLM-5.3-Flash（型号可能调整）。 | 实名；限量；活动至 2026-12-31。 | [scnet.cn](https://www.scnet.cn/) |
+| **腾讯 EdgeOne Makers** | 每账号每月共享 **50 万 Token**。 | 内置 DeepSeek V4.x、Kimi K2.6、MiniMax M3/M2.7、混元 Hy3；兼容 OpenAI/Anthropic。 | 仅限技术验证；自接 Key 另行计费。 | [edgeone.ai](https://edgeone.ai/) |
+| **Cloudflare Workers AI** | 每天 **1 万 Neurons**（北京时间 08:00 重置）。 | Qwen3.8-27B、GPT-OSS 120B/20B、Gemma 4 26B、Llama 4 Scout、BGE-M3。 | 免费档超额即停；REST API 或 Workers 调用。 | [developers.cloudflare.com/workers-ai](https://developers.cloudflare.com/workers-ai/) |
+| **魔搭社区 ModelScope** | 每天 **200 魔粒**（绑阿里云账号再 +50）。 | API-Inference：DeepSeek-V4.1-Flash-1017、MiniMax-M3.1-Flash。 | 实名 + 绑阿里云 + 验证邮箱。 | [modelscope.cn](https://modelscope.cn/) |
+| **Telnyx** | 新用户 **$25 AI 额度**（升级后降为 $5）。 | DeepSeek V4.1 Flash、GLM-5.3、GLM-5.3 Flash、Kimi K3（Telnyx Inference）。 | 无需绑卡。 | [telnyx.com](https://telnyx.com/) |
+| **OpenRouter** | 免费 `baidu/ernie-5.5-flash-preview:free`（共享每日 50 次 / 每分钟 20 次）。 | ERNIE 5.5 Flash Preview 及轮换免费模型。 | 官方聚合接入；受免费档速率限制。 | [openrouter.ai](https://openrouter.ai/) |
+| **书生·端砚** *（上海 AI Lab）* | 测试期每月赠墨点 Token Plan。 | DeepSeek-V4.1-Flash-1017、GLM-5.3、Qwen3.8-27B。 | 需创建 API Key；额度见账户。 | 见官网 |
+| **DeepSeek Harness** | 桌面版登录送 **6 元开放平台赠金**（限量）。 | deepseek-flash 与 deepseek-v4-pro。 | 桌面客户端；+86 手机号。 | [deepseek.com](https://www.deepseek.com/) |
 
 ## 限时优惠与截止日历
 
@@ -127,12 +152,17 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 |------|----------|----------|--------------------|
 | **Grok / SuperGrok** *（xAI）* | **SuperGrok 7 天免费试用**——完整解锁 Grok 4.5+ 与 Grok Build 付费额度，入口 [grok.com/plans](https://grok.com/plans) | **待定** *（官方未公布截止日期）* | 需绑信用卡；务必在第 7 天前取消，否则按 **$30/月** 自动续费。仅限从未订阅过的新账号。 |
 | **CodeBuddy / WorkBuddy** *（腾讯国内站）* | 通过[邀请链接](https://www.workbuddy.cn/events/invite?inviteCode=qm4gyc1daqn)领取 **2,000 积分**新用户礼包；受邀者 30 天内首次付费升级个人版，双方再各得 **500 积分** | **2026-11-30** | 需在截止日前完成注册并跑通一次对话/任务，积分有效期 1 个月。邀请人每激活一位好友得 **50 积分**，好友首周活跃满 3 天再得 **100 积分**。 |
+| **智谱 AutoClaw** *（国内版）* | **双十一登录领 5,000 万 Token**（GLM-5.3 / 5.3-Flash / 5-Turbo / 5V-Turbo） | **2026-11-15** | 每账号一次；仅限 AutoClaw 内使用（非通用 API 额度）；北京时间 2026-11-15 23:59 失效。 |
+| **WorkBuddy / CodeBuddy** *（腾讯国内站）* | **Hy4 限时免费额度**——客户端内免费体验 Hy4 的代码、文档与视觉任务 | **2026-11-15** | 产品内免费额度，超额消耗账户积分；具体量以客户端提示为准。 |
+| **Devin Desktop** | **免费使用 SWE-2 Flash Medium**（桌面端 / CLI） | **2026-12-05** | 免费账号有少量 Agent 额度；High/Max 需付费档；不含 Devin 云端会话。 |
+| **蚂蚁百灵 Ling** | **Ling-3.2-flash 免费调用**（支持文本 / 图片 / 视频输入） | **2026-11-19** | 先绑支付宝并开通模型服务；两周上线期结束后恢复收费。 |
+| **OpenCode** | **限时免费模型**——MiniMax M3.1 Flash、LongCat 2.5、DeepSeek V4.1 Flash、GLM-5.3-Flash 等 | **2026-11-23** | 仅限 OpenCode 内使用；LongCat 2.5 每日 100 次、托管于中国；部分模型会用于训练。 |
 
 > **近期已下线活动归档（已移出活跃表）：** Copilot 企业版 3,000/7,000 额度加成（**2026-09-01**）；OpenCode Go 4× 额度膨胀（**2026-09-20**，已由 Go 档常驻 $100/月额度取代）；OpenCode Go 首月 $5（**2026-08-24**）；Cursor 邀请首月 5 折（**2026-07-23**）；WorkBuddy HY3 全员免费（**2026-07-22**）；Devin GLM-5.2 / Kimi K2.7 免费期（**2026-07-05**）；ZCode / GLM Coding Plan 1.5× 加成（**2026-06-30**）；Kimi 一期邀请抽奖（**2026-09 核实已结束**）。
 
 ## 学生与教育专属免费权益（.edu）
 
-持有 `.edu` 教育邮箱或学籍证明的学生与教职工，可直接免费申领多款商业工具的 Pro 订阅。**将以下 4 项认证全部走完，即可零成本配齐一整套顶配开发环境（$0/年）：**
+持有 `.edu` 教育邮箱或学籍证明的学生与教职工，可直接免费申领多款商业工具的 Pro 订阅。**将以下认证全部走完，即可零成本配齐一整套顶配开发环境（$0/年）：**
 
 | 工具 | 学生专属免费权益 | 官方认证入口 |
 |------|------------------|--------------|
@@ -141,6 +171,7 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 | **GitHub Copilot Pro** | 通过 GitHub Student Developer Pack **免费开通 Copilot Pro** | [education.github.com/pack](https://education.github.com/pack) |
 | **JetBrains 全家桶** | 在读期间**免费获取全系 JetBrains IDE 个人授权**（含内置 AI 辅助功能） | [jetbrains.com/student](https://www.jetbrains.com/student/) |
 | **Cursor** | 学生优惠原绑定旧版 Cursor 套餐；并入 **The X Subscription** 后是否延续，需以官网实时规则为准 | [cursor.com](https://cursor.com) |
+| **阿里云百炼** | **每年 ¥300 模型抵扣金**（有效 12 个月；仅限国内高校在读学生；至 2027-03-31） | 在读期间完成实名与学籍认证（[aliyun.com](https://www.aliyun.com)） |
 
 ## AI 编程工具选型与决策矩阵
 
@@ -182,3 +213,5 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 本仓库收录的定价档位、Token 费率与配额规则均直接核对自各厂商官方定价页与更新日志（最近一次全量复核：**2026 年 11 月**），核心核实源包括：[DeepSeek API 文档](https://api-docs.deepseek.com/)、[DeepSeek 官方定价](https://api-docs.deepseek.com/quick_start/pricing)、[DeepSeek V4.1 Flash 发布公告](https://api-docs.deepseek.com/news/news260910)、[OpenCode Go 文档](https://opencode.ai/docs/go/)、[ClinePass](https://cline.bot/cline-pass)、[GitHub Copilot Changelog](https://github.blog/changelog/)、[Cursor 邀请计划下线说明](https://forum.cursor.com/t/is-the-cursor-referral-discount-program-over-will-there-be-future-referral-campaigns/166990) 及 [Amazon Q Developer 停服公告](https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/)。
 
 下单前请通过表格内的官网链接确认实时条款。本项目为独立社区维护项目，与任何 AI 工具厂商无隶属关系；文中明确标注的邀请/返利链接用于补贴日常核实与维护成本，不会增加你的任何实际付费支出。
+
+**免费 LLM API 与 BYOK 端点**表（硅基流动、阿里云百炼、火山方舟、Cloudflare Workers AI、魔搭社区、Telnyx 等）系依据各厂商额度页整理，数据截至 **2026-11-14**，具体 Token 数量请以链接页面为准。

@@ -122,6 +122,7 @@ Terminal-native agents that read your repository, edit files in place, run test 
 | **Crush** *(Charm)* | **$0 (Open-Source BYOK)** | Zero software cost; connect any custom API key for pay-as-you-go token billing. | Crafted Terminal User Interface (TUI) ergonomics from Charm with flexible multi-model routing. | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | **Goose** *(Block)* | **$0 (Open-Source BYOK / Local)** | Zero software cost; runs against local models or your own API keys. | Extensible local automation built natively around Model Context Protocol (MCP) servers. | [block.github.io/goose](https://block.github.io/goose) |
 | **Qwen Code** | **$0 (Open-Source)** | Zero licensing cost when paired with local or cloud Qwen coding models. | High-efficiency terminal coding tailored to the Qwen3 Coder model family. | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
+| **Mel** *(Thinkverse AI)* | Free: **$0 (BYOK)**<br>Pro: **$20/mo** · Max: $200/mo<br>Business: $50/seat/mo | Agent is free on your own provider key (provider usage charges apply); Pro/Max add hosted credits across Claude, GPT, Gemini, DeepSeek, Qwen and more. Proprietary. Terms verified 2026-11-17. | Multi-agent, multi-model AI terminal for macOS/Windows/Linux and VS Code with configurable approvals. | [openmel.dev](https://www.openmel.dev) |
 
 ## Free LLM API & BYOK Endpoints
 

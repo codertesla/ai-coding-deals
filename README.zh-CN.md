@@ -122,6 +122,7 @@ AI 编程工具的订阅档位、积分倍率与免费配额几乎每月都在�
 | **Crush** *（Charm）* | **$0（开源 BYOK）** | 零软件授权费，接入任意自定义 API Key 按量付费。 | Charm 团队出品的高颜值终端交互界面（TUI），支持多模型灵活路由。 | [github.com/charmbracelet/crush](https://github.com/charmbracelet/crush) |
 | **Goose** *（Block）* | **$0（开源 BYOK / 本地运行）** | 零软件授权费，支持本地模型或自有 API Key。 | 原生围绕 MCP（Model Context Protocol）插件生态构建的可扩展本地自动化 Agent。 | [block.github.io/goose](https://block.github.io/goose) |
 | **Qwen Code** | **$0（开源免费）** | 搭配本地或云端通义千问模型享受零软件授权费。 | 针对 Qwen3 Coder 系列模型深度调优的低成本终端编码方案。 | [github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
+| **Mel** *（Thinkverse AI）* | 免费版：**$0（BYOK）**<br>Pro：**$20/月** · Max：$200/月<br>Business：$50/席/月 | 使用自有 API Key 时 Agent 免费（模型厂商费用自理）；Pro/Max 提供 Claude、GPT、Gemini、DeepSeek、Qwen 等托管额度。专有软件（非开源）。条款核实日期 2026-11-17。 | 多智能体、多模型 AI 终端，支持 macOS/Windows/Linux 与 VS Code，可配置审批。 | [openmel.dev](https://www.openmel.dev) |
 
 ## 免费 LLM API 与 BYOK 端点
 

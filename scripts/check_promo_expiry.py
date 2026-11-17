@@ -30,9 +30,9 @@ def extract_promos(text: str) -> list[tuple[str, str]]:
     """Return [(tool, 'YYYY-MM-DD'), ...] from the Time-limited promos table."""
     # Capture from the promos heading up to the next H2 heading.
     m = re.search(
-        r"## ⏳ Time-limited promos.*?(?=\n## |\Z)",
+        r"## (?:⏳ )?Time-limited.*?(?=\n## |\Z)",
         text,
-        flags=re.DOTALL,
+        flags=re.DOTALL | re.IGNORECASE,
     )
     if not m:
         return []

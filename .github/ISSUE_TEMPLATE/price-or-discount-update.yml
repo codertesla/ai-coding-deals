@@ -1,52 +1,64 @@
-name: "💰 Price / discount update — 价格或折扣更新"
-description: "Report a changed price, new discount, or expired promo. 报告价格变动、新折扣或过期促销。"
-title: "[update] <tool name> — <what changed>"
+name: "Price, Quota, or Promo Update / 价格、配额与促销更新"
+description: "Report a price shift, quota multiplier update, new promo, or expired deal. 报告价格调整、配额变动、新上线促销或已过期活动。"
+title: "[update] <Tool Name> — <Summary of Change>"
 labels: ["update"]
 body:
   - type: input
     id: tool
     attributes:
-      label: "Tool / 工具名称"
-      placeholder: "e.g. Cursor"
+      label: "Tool Name / 工具名称"
+      placeholder: "e.g., Cursor, OpenCode Go, GitHub Copilot"
+    validations:
+      required: true
+  - type: dropdown
+    id: disclosure
+    attributes:
+      label: "Authorship & Commercial Interest / 作者身份与利益关系"
+      description: "Required. Undisclosed vendor or affiliate submissions are closed without review. 必填：未披露厂商任职或返利关系的投稿将直接关闭。"
+      options:
+        - "Independent user — no affiliation / 独立用户，与该产品无利益关系"
+        - "I work for or represent this vendor / 我属于该产品团队或代表其公司"
+        - "My link contains a referral or affiliate code / 我提交的链接含返利或联盟参数"
+        - "Other commercial interest / 其他商业利益关系"
     validations:
       required: true
   - type: dropdown
     id: kind
     attributes:
-      label: "Type of change / 变更类型"
+      label: "Change Type / 变更类型"
       options:
-        - "Price changed / 价格变动"
-        - "New discount or promo / 新折扣或促销"
-        - "Discount expired / 折扣已过期"
-        - "Free tier changed / 免费额度变动"
+        - "Price or tier changed / 订阅价格或档位调整"
+        - "New promo, trial, or referral credit / 新增限时促销、试用或邀请额度"
+        - "Promo or free tier expired / 促销或免费额度已下线"
+        - "Quota or credit multiplier changed / 配额或模型消耗倍率变动"
         - "Other / 其他"
     validations:
       required: true
   - type: textarea
     id: details
     attributes:
-      label: "What changed / 具体变化"
-      placeholder: "Old: Pro $20/mo → New: Pro $25/mo ..."
+      label: "Exact Changes / 具体变更内容"
+      placeholder: "Before: Pro $20/mo (unlimited) → After: Pro $20/mo ($20 credit pool)..."
     validations:
       required: true
   - type: input
     id: source
     attributes:
-      label: "🔗 Official source link / 官方来源链接"
+      label: "Official Source URL / 官方来源链接"
       placeholder: "https://vendor.com/pricing"
     validations:
       required: true
   - type: input
     id: verified
     attributes:
-      label: "📅 Date verified / 核实日期"
-      placeholder: "2026-06-25"
+      label: "Verification Date / 核实日期"
+      placeholder: "YYYY-MM-DD"
     validations:
       required: true
   - type: input
     id: expiry
     attributes:
-      label: "⏳ Expiry date (for discounts) / 折扣有效期"
-      placeholder: "2026-12-31 or N/A"
+      label: "Expiration Date (if applicable) / 截止日期（如适用）"
+      placeholder: "YYYY-MM-DD or N/A"
     validations:
       required: false
